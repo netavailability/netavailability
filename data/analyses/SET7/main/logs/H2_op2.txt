@@ -1,0 +1,25 @@
+## 2. Corrected club intervals
+
+ρ = 0.4190 (pooled lag-1 Pearson, step 1). Effective n = n × (1 − ρ)/(1 + ρ) = n × 0.4095; adjusted SE = sd/√n_eff; t on max(n_eff − 1, 1) df (fractional df). Raw interval = the persistence step's: mean ± t(n−1)·sd/√n. The adjustment widens each interval by the factor t_adj·√n / (t_raw·√n_eff), e.g. 2.95× for 7 seasons and 3.81× for 6.
+
+| club | seasons | mean | sd | se_raw | lo_raw | hi_raw | n_eff | df_adj | se_adj | lo_adj | hi_adj | flag_raw | flag_adj |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Wolverhampton Wanderers | 7 | 0.0663 | 0.0522 | 0.0197 | 0.0180 | 0.1146 | 2.8662 | 1.8662 | 0.0309 | -0.0760 | 0.2086 | ABOVE |  |
+| Crystal Palace | 7 | 0.0360 | 0.0281 | 0.0106 | 0.0101 | 0.0620 | 2.8662 | 1.8662 | 0.0166 | -0.0405 | 0.1125 | ABOVE |  |
+| Manchester City | 7 | 0.0324 | 0.0531 | 0.0201 | -0.0167 | 0.0814 | 2.8662 | 1.8662 | 0.0313 | -0.1122 | 0.1769 |  |  |
+| West Ham United | 7 | 0.0272 | 0.0548 | 0.0207 | -0.0235 | 0.0778 | 2.8662 | 1.8662 | 0.0323 | -0.1220 | 0.1763 |  |  |
+| Liverpool | 7 | 0.0127 | 0.0436 | 0.0165 | -0.0276 | 0.0530 | 2.8662 | 1.8662 | 0.0257 | -0.1060 | 0.1314 |  |  |
+| Aston Villa | 6 | 0.0071 | 0.0609 | 0.0249 | -0.0568 | 0.0711 | 2.4568 | 1.4568 | 0.0389 | -0.2367 | 0.2510 |  |  |
+| Arsenal | 7 | 0.0064 | 0.0595 | 0.0225 | -0.0486 | 0.0614 | 2.8662 | 1.8662 | 0.0351 | -0.1556 | 0.1685 |  |  |
+| Everton | 7 | 0.0059 | 0.0488 | 0.0185 | -0.0393 | 0.0510 | 2.8662 | 1.8662 | 0.0288 | -0.1272 | 0.1389 |  |  |
+| Brighton & Hove Albion | 7 | -0.0094 | 0.0428 | 0.0162 | -0.0490 | 0.0302 | 2.8662 | 1.8662 | 0.0253 | -0.1260 | 0.1072 |  |  |
+| AFC Bournemouth | 6 | -0.0119 | 0.0489 | 0.0200 | -0.0633 | 0.0394 | 2.4568 | 1.4568 | 0.0312 | -0.2077 | 0.1838 |  |  |
+| Chelsea | 7 | -0.0258 | 0.0581 | 0.0220 | -0.0795 | 0.0280 | 2.8662 | 1.8662 | 0.0343 | -0.1840 | 0.1325 |  |  |
+| Tottenham Hotspur | 7 | -0.0286 | 0.0608 | 0.0230 | -0.0848 | 0.0276 | 2.8662 | 1.8662 | 0.0359 | -0.1942 | 0.1370 |  |  |
+| Newcastle United | 7 | -0.0341 | 0.0325 | 0.0123 | -0.0642 | -0.0041 | 2.8662 | 1.8662 | 0.0192 | -0.1225 | 0.0543 | BELOW |  |
+| Manchester United | 7 | -0.0389 | 0.0176 | 0.0067 | -0.0552 | -0.0226 | 2.8662 | 1.8662 | 0.0104 | -0.0868 | 0.0090 | BELOW |  |
+
+Flags: raw 4 of 14 (2 above, 2 below); adjusted **0 of 14** (0 above, 0 below).
+
+Expected by chance at a nominal 5% two-sided level: 0.70 of 14. Binomial P(≥0) = 1 (assumes the 14 intervals are independent and exactly 5%; the adjusted intervals are approximate, and the clubs share season-centring, so step 3(d) gives the simulation-based chance benchmark).
+

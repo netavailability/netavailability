@@ -1,0 +1,30 @@
+{
+ "2018/2019": {
+  "split": "<run>/run_on/2018-2019/club_split_january_2018-2019_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2019/2020": {
+  "split": "<run>/run_on/2019-2020/club_split_january_2019-2020_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2021/2022": {
+  "split": "<run>/run_on/2021-2022/club_split_january_2021-2022_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2022/2023": {
+  "split": "<run>/run_on/2022-2023/club_split_january_2022-2023_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2023/2024": {
+  "split": "<run>/run_on/2023-2024/club_split_january_2023-2024_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2024/2025": {
+  "split": "<run>/run_on/2024-2025/club_split_january_2024-2025_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ },
+ "2025/2026": {
+  "split": "<run>/run_on/2025-2026/club_split_january_2025-2026_on.csv",
+  "fixtures": "<run>/inputs/late/fixtures.csv"
+ }
+}

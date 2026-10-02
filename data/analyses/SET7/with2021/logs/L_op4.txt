@@ -1,0 +1,56 @@
+## 4. Verdict
+
+Test × scale × model → share of simulated leagues with at least one event as extreme (deficit side). Columns: c = % scale, m = minutes scale; N = normal AR(1), Q = shape-preserving. Claim rule applied literally: RARE BY CHANCE only if all four shares < 0.05; headline = the largest of the four.
+
+| test | run | c·N | c·Q | m·N | m·Q | headline_share | headline_config | verdict |
+|---|---|---|---|---|---|---|---|---|
+| T1 | Tottenham 2025/26 | 0.6414 | 0.2378 | 0.3518 | 0.2296 | 0.6414 | c·N | NOT SHOWN RARE |
+| T1 | Tottenham 2024/25 | 0.9994 | 0.9982 | 0.9946 | 0.9954 | 0.9994 | c·N | NOT SHOWN RARE |
+| T2 | Tottenham 2024/25–2025/26 | 0.4046 | 0.1854 | 0.2224 | 0.1730 | 0.4046 | c·N | NOT SHOWN RARE |
+| T2 | Chelsea 2022/23–2023/24 | 0.6068 | 0.4016 | 0.5386 | 0.5364 | 0.6068 | c·N | NOT SHOWN RARE |
+| T3 | Tottenham 2024/25–2025/26 | 0.4900 | 0.4160 | 0.3466 | 0.3630 | 0.4900 | c·N | NOT SHOWN RARE |
+| T3 | Chelsea 2022/23–2023/24 | 0.3178 | 0.2104 | 0.3144 | 0.3184 | 0.3184 | m·Q | NOT SHOWN RARE |
+| T4 | Tottenham 2025/26 gap to 19th | 0.2736 | 0.0556 | 0.1056 | 0.0458 | 0.2736 | c·N | NOT SHOWN RARE |
+
+Claim rule, per test:
+
+- T1 Tottenham 2025/26: **NOT SHOWN RARE** — headline share 0.6414 (c·N); others c·Q 0.2378, m·N 0.3518, m·Q 0.2296.
+- T1 Tottenham 2024/25: **NOT SHOWN RARE** — headline share 0.9994 (c·N); others c·Q 0.9982, m·N 0.9946, m·Q 0.9954.
+- T2 Tottenham 2024/25–2025/26: **NOT SHOWN RARE** — headline share 0.4046 (c·N); others c·Q 0.1854, m·N 0.2224, m·Q 0.1730.
+- T2 Chelsea 2022/23–2023/24: **NOT SHOWN RARE** — headline share 0.6068 (c·N); others c·Q 0.4016, m·N 0.5386, m·Q 0.5364.
+- T3 Tottenham 2024/25–2025/26: **NOT SHOWN RARE** — headline share 0.4900 (c·N); others c·Q 0.4160, m·N 0.3466, m·Q 0.3630.
+- T3 Chelsea 2022/23–2023/24: **NOT SHOWN RARE** — headline share 0.3184 (m·Q); others c·N 0.3178, c·Q 0.2104, m·N 0.3144.
+- T4 Tottenham 2025/26 gap to 19th: **NOT SHOWN RARE** — headline share 0.2736 (c·N); others c·Q 0.0556, m·N 0.1056, m·Q 0.0458.
+
+Expectation written before the run, checked mechanically:
+
+| expectation | result | status |
+|---|---|---|
+| % scale (N) reproduces the carry-over step's shares | milder 0.4900, sum 0.4046 | MET |
+| Tottenham 2025/26 most extreme of 160 on m | position 1 | MET |
+| m negatively skewed | G1 -0.060, skewtest p 0.75 | MET |
+| minutes shares lower than % shares under N | 7 of 7 tests | MET |
+| minutes shares closer to % shares under Q than under N | 5 of 7 tests | PARTLY MET |
+
+Minutes-lower-under-N tests: T1 Tottenham 2025/26; T1 Tottenham 2024/25; T2 Tottenham 2024/25–2025/26; T2 Chelsea 2022/23–2023/24; T3 Tottenham 2024/25–2025/26; T3 Chelsea 2022/23–2023/24; T4 Tottenham 2025/26 gap to 19th. Closer-under-Q tests: T1 Tottenham 2025/26; T1 Tottenham 2024/25; T2 Tottenham 2024/25–2025/26; T3 Tottenham 2024/25–2025/26; T4 Tottenham 2025/26 gap to 19th.
+
+**Files written by this step:**
+
+- `op1_checks.csv`
+- `op1_distribution.csv`
+- `op1_extremes.csv`
+- `op2_calibration.csv`
+- `op2_normal_scores.csv`
+- `op2_validation.csv`
+- `op3_observed_gaps_c.csv`
+- `op3_observed_gaps_m.csv`
+- `op3_symmetry.csv`
+- `op3_tests.csv`
+- `op4_expectation.csv`
+- `op4_narrative_values.csv`
+- `op4_verdict.csv`
+- `report.md`
+- `report.md`
+
+Input unchanged since step 1 (SHA-256 re-check against the value printed in §1): **YES**.
+

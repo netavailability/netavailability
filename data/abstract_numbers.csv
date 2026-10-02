@@ -1,0 +1,69 @@
+id,section,abstract_context,number_as_printed,source_file,source_line,source_field,source_value,check
+1,Methods,estimated from his last 12 named squads,12,config/settings.toml,23,[constants] L,12,audit CHECK 1 #1
+2,Methods,each player's expected game time = xU × 90 minutes per match,90,src/netavailability/compute.py,10,docstring: RET = sum of xU x 90,90,audit CHECK 1 #16
+3,Methods,140 club-seasons,140,data/analyses/SET7/headline_SET7.json,148,variants.main.F.n,140,audit CHECK 1 #2
+4,Methods,"(2018/19, 2019/20, 2021/22–2025/26)","2018/19, 2019/20, 2021/22–2025/26",data/analyses/SET7/headline_SET7.json,8,seasons,2018/2019; 2019/2020; 2021/2022; 2022/2023; 2023/2024; 2024/2025; 2025/2026,audit CHECK 1 #3
+5,Results,one standard deviation (5.2 percentage points),5.2,data/analyses/SET7/decomposition_summary_SET7.csv,2,within_sd_c ×100 (pool main:paper),0.05191362527514942,audit CHECK 1 #4
+6,Results,took 4.8 more league points,4.8,data/analyses/SET7/decomposition_summary_SET7.csv,2,pts_per_sd (pool main:paper),4.816653715211491,audit CHECK 1 #5
+7,Results,squad market value around 30% higher,30%,data/analyses/SET7/decomposition_summary_SET7.csv,2,"(value_equiv_of_1sd − 1) ×100, rounded to ""around 30%"" (pool main:paper)",1.3140074520319898,audit CHECK 1 #6
+8,Results,"Tottenham, with the lowest NETavailability in 2025/26",2025/26 (rank 20 of 20),data/tables/sideways_on/club_table_2025-2026.csv,21,NETavailability rank (row team_id 6),20,audit CHECK 1 #7
+9,Results,took 41 points,41,data/analyses/SET7/decomposition_all_club_seasons_SET7.csv,141,"points (Tottenham Hotspur 2025/2026, pool main:paper)",41,audit CHECK 1 #8
+10,Results,against 60 expected from their squad value,60,data/analyses/SET7/decomposition_all_club_seasons_SET7.csv,141,"expected_c0 (Tottenham Hotspur 2025/2026, pool main:paper)",59.94847634692188,audit CHECK 1 #9
+11,Results,approximately 11 of that 19-point shortfall,11,data/analyses/SET7/decomposition_all_club_seasons_SET7.csv,141,"availability_part (Tottenham Hotspur 2025/2026, pool main:paper)",-11.348175219608981,audit CHECK 1 #11
+12,Results,that 19-point shortfall,19,data/analyses/SET7/decomposition_all_club_seasons_SET7.csv,141,"expected_c0 − points (Tottenham Hotspur 2025/2026, pool main:paper)",18.9485,audit CHECK 1 #10
+13,Results,beyond squad market value (p 0.002),0.002,data/analyses/SET7/headline_SET7.json,238,variants.main.G.b.p_hc3,0.0016577722199295,audit CHECK 1 #12
+14,Results,beyond first-half points (p 0.045,0.045,data/analyses/SET7/headline_SET7.json,249,variants.main.G.c.p_hc3,0.0447460913568833,audit CHECK 1 #13
+15,Results,0.135 without Covid windows,0.135,data/analyses/SET7/headline_SET7.json,1284,variants.exwin.G.c.p_hc3,0.1348657275452379,audit CHECK 1 #14
+16,Results,at most about two points a season (95% upper bound),two,data/analyses/SET7/headline_SET7.json,415,variants.main.N.upper_bound_pts_at_92,2.119163527808272,audit CHECK 1 #15
+17,Figure 1,slope 0.93 points per percentage point,0.93,data/analyses/SET7/decomposition_summary_SET7.csv,2,beta_c ×0.01 (pool main:paper),92.78207194513114,build check: Figure 1
+18,Figure 1,Tottenham 2025/26 labeled,2025/26,data/analyses/SET7/decomposition_all_club_seasons_SET7.csv,141,season (pool main:paper),2025/2026,build check: Figure 1
+19,Table 1,column header Main (7 seasons),7,data/analyses/SET7/headline_SET7.json,8,seasons (count),7,build check: Table 1 header
+20,Table 1,column header + 2020/21,2020/21,data/analyses/SET7/headline_SET7.json,17,robust_season,2020/2021,build check: Table 1 header
+21,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Main (7 seasons)"": coef",0.93,data/analyses/SET7/headline_SET7.json,149,variants.main.F.coef ×0.01,92.7820719451312,build check: Table 1 row 1
+22,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Main (7 seasons)"": SE",0.20,data/analyses/SET7/headline_SET7.json,150,variants.main.F.se_hc3 ×0.01,20.06059593415954,build check: Table 1 row 1
+23,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Main (7 seasons)"": n",140,data/analyses/SET7/headline_SET7.json,148,variants.main.F.n,140,build check: Table 1 row 1
+24,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""+ 2020/21"": coef",0.92,data/analyses/SET7/headline_SET7.json,667,variants.with2021.F.coef ×0.01,91.70857534585788,build check: Table 1 row 1
+25,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""+ 2020/21"": SE",0.19,data/analyses/SET7/headline_SET7.json,668,variants.with2021.F.se_hc3 ×0.01,18.620021340353745,build check: Table 1 row 1
+26,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""+ 2020/21"": n",160,data/analyses/SET7/headline_SET7.json,666,variants.with2021.F.n,160,build check: Table 1 row 1
+27,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Covid windows excluded"": coef",0.92,data/analyses/SET7/headline_SET7.json,1184,variants.exwin.F.coef ×0.01,91.8019503674356,build check: Table 1 row 1
+28,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Covid windows excluded"": SE",0.20,data/analyses/SET7/headline_SET7.json,1185,variants.exwin.F.se_hc3 ×0.01,19.56310237506792,build check: Table 1 row 1
+29,Table 1,"row 1 ""League points per 1 percentage point of NETavailability"", column ""Covid windows excluded"": n",140,data/analyses/SET7/headline_SET7.json,1183,variants.exwin.F.n,140,build check: Table 1 row 1
+30,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Main (7 seasons)"": coef",0.81,data/analyses/SET7/headline_SET7.json,141,variants.main.F_noTC.coef ×0.01,80.89755111426533,build check: Table 1 row 2
+31,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Main (7 seasons)"": SE",0.23,data/analyses/SET7/headline_SET7.json,142,variants.main.F_noTC.se_hc3 ×0.01,23.06526751139621,build check: Table 1 row 2
+32,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Main (7 seasons)"": n",126,data/analyses/SET7/headline_SET7.json,140,variants.main.F_noTC.n,126,build check: Table 1 row 2
+33,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""+ 2020/21"": coef",0.82,data/analyses/SET7/headline_SET7.json,659,variants.with2021.F_noTC.coef ×0.01,81.50584085730074,build check: Table 1 row 2
+34,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""+ 2020/21"": SE",0.21,data/analyses/SET7/headline_SET7.json,660,variants.with2021.F_noTC.se_hc3 ×0.01,21.049065549617602,build check: Table 1 row 2
+35,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""+ 2020/21"": n",144,data/analyses/SET7/headline_SET7.json,658,variants.with2021.F_noTC.n,144,build check: Table 1 row 2
+36,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Covid windows excluded"": coef",0.80,data/analyses/SET7/headline_SET7.json,1176,variants.exwin.F_noTC.coef ×0.01,79.9786892992603,build check: Table 1 row 2
+37,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Covid windows excluded"": SE",0.22,data/analyses/SET7/headline_SET7.json,1177,variants.exwin.F_noTC.se_hc3 ×0.01,22.26566106409176,build check: Table 1 row 2
+38,Table 1,"row 2 ""Excluding the two most extreme clubs"", column ""Covid windows excluded"": n",126,data/analyses/SET7/headline_SET7.json,1175,variants.exwin.F_noTC.n,126,build check: Table 1 row 2
+39,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Main (7 seasons)"": coef",−0.024,data/analyses/SET7/headline_SET7.json,236,variants.main.G.b.coef,-0.0240720452096977,build check: Table 1 row 3
+40,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Main (7 seasons)"": SE",0.008,data/analyses/SET7/headline_SET7.json,237,variants.main.G.b.se_hc3,0.0076527402706285,build check: Table 1 row 3
+41,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Main (7 seasons)"": p",0.002,data/analyses/SET7/headline_SET7.json,238,variants.main.G.b.p_hc3,0.0016577722199295,build check: Table 1 row 3
+42,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""+ 2020/21"": coef",−0.023,data/analyses/SET7/headline_SET7.json,754,variants.with2021.G.b.coef,-0.0229235814009383,build check: Table 1 row 3
+43,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""+ 2020/21"": SE",0.007,data/analyses/SET7/headline_SET7.json,755,variants.with2021.G.b.se_hc3,0.0071684094023152,build check: Table 1 row 3
+44,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""+ 2020/21"": p",0.001,data/analyses/SET7/headline_SET7.json,756,variants.with2021.G.b.p_hc3,0.0013845069412047,build check: Table 1 row 3
+45,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Covid windows excluded"": coef",−0.020,data/analyses/SET7/headline_SET7.json,1271,variants.exwin.G.b.coef,-0.020083999429798,build check: Table 1 row 3
+46,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Covid windows excluded"": SE",0.008,data/analyses/SET7/headline_SET7.json,1272,variants.exwin.G.b.se_hc3,0.0077868056914432,build check: Table 1 row 3
+47,Table 1,"row 3 ""Within season: first-half absence → second-half points"", column ""Covid windows excluded"": p",0.010,data/analyses/SET7/headline_SET7.json,1273,variants.exwin.G.b.p_hc3,0.0099019485865929,build check: Table 1 row 3
+48,Table 1,"row 4 ""Also controlling first-half points"", column ""Main (7 seasons)"": coef",−0.015,data/analyses/SET7/headline_SET7.json,247,variants.main.G.c.coef,-0.0145974026900189,build check: Table 1 row 4
+49,Table 1,"row 4 ""Also controlling first-half points"", column ""Main (7 seasons)"": SE",0.007,data/analyses/SET7/headline_SET7.json,248,variants.main.G.c.se_hc3,0.0072731234266774,build check: Table 1 row 4
+50,Table 1,"row 4 ""Also controlling first-half points"", column ""Main (7 seasons)"": p",0.045,data/analyses/SET7/headline_SET7.json,249,variants.main.G.c.p_hc3,0.0447460913568833,build check: Table 1 row 4
+51,Table 1,"row 4 ""Also controlling first-half points"", column ""+ 2020/21"": coef",−0.013,data/analyses/SET7/headline_SET7.json,765,variants.with2021.G.c.coef,-0.0132637975575651,build check: Table 1 row 4
+52,Table 1,"row 4 ""Also controlling first-half points"", column ""+ 2020/21"": SE",0.007,data/analyses/SET7/headline_SET7.json,766,variants.with2021.G.c.se_hc3,0.0067816831111237,build check: Table 1 row 4
+53,Table 1,"row 4 ""Also controlling first-half points"", column ""+ 2020/21"": p",0.050,data/analyses/SET7/headline_SET7.json,767,variants.with2021.G.c.p_hc3,0.0504855610288202,build check: Table 1 row 4
+54,Table 1,"row 4 ""Also controlling first-half points"", column ""Covid windows excluded"": coef",−0.011,data/analyses/SET7/headline_SET7.json,1282,variants.exwin.G.c.coef,-0.0109410875683155,build check: Table 1 row 4
+55,Table 1,"row 4 ""Also controlling first-half points"", column ""Covid windows excluded"": SE",0.007,data/analyses/SET7/headline_SET7.json,1283,variants.exwin.G.c.se_hc3,0.0073175394610418,build check: Table 1 row 4
+56,Table 1,"row 4 ""Also controlling first-half points"", column ""Covid windows excluded"": p",0.135,data/analyses/SET7/headline_SET7.json,1284,variants.exwin.G.c.p_hc3,0.1348657275452379,build check: Table 1 row 4
+57,Table 1,"row 5 ""Across seasons: lag-1 slope"", column ""Main (7 seasons)"": slope",0.415,data/analyses/SET7/headline_SET7.json,277,variants.main.H.lag1_slope,0.4152425251777011,build check: Table 1 row 5
+58,Table 1,"row 5 ""Across seasons: lag-1 slope"", column ""Main (7 seasons)"": SE",0.099,data/analyses/SET7/headline_SET7.json,278,variants.main.H.lag1_se_ols,0.0987762773148674,build check: Table 1 row 5
+59,Table 1,"row 5 ""Across seasons: lag-1 slope"", column ""+ 2020/21"": slope",0.341,data/analyses/SET7/headline_SET7.json,795,variants.with2021.H.lag1_slope,0.3406746102014516,build check: Table 1 row 5
+60,Table 1,"row 5 ""Across seasons: lag-1 slope"", column ""+ 2020/21"": SE",0.084,data/analyses/SET7/headline_SET7.json,796,variants.with2021.H.lag1_se_ols,0.0839619229144398,build check: Table 1 row 5
+61,Table 1,"row 6 ""ICC [95% CI]"", column ""Main (7 seasons)"": ICC",0.121,data/analyses/SET7/headline_SET7.json,259,variants.main.H.icc_all,0.1207065395619727,build check: Table 1 row 6
+62,Table 1,"row 6 ""ICC [95% CI]"", column ""Main (7 seasons)"": CI lower",0.000,data/analyses/SET7/headline_SET7.json,261,variants.main.H.icc_all_ci[0],0.0,build check: Table 1 row 6
+63,Table 1,"row 6 ""ICC [95% CI]"", column ""Main (7 seasons)"": CI upper",0.271,data/analyses/SET7/headline_SET7.json,262,variants.main.H.icc_all_ci[1],0.2709025715545389,build check: Table 1 row 6
+64,Table 1,"row 6 ""ICC [95% CI]"", column ""+ 2020/21"": ICC",0.102,data/analyses/SET7/headline_SET7.json,777,variants.with2021.H.icc_all,0.1024307693060997,build check: Table 1 row 6
+65,Table 1,"row 6 ""ICC [95% CI]"", column ""+ 2020/21"": CI lower",0.000,data/analyses/SET7/headline_SET7.json,779,variants.with2021.H.icc_all_ci[0],0.0,build check: Table 1 row 6
+66,Table 1,"row 6 ""ICC [95% CI]"", column ""+ 2020/21"": CI upper",0.234,data/analyses/SET7/headline_SET7.json,780,variants.with2021.H.icc_all_ci[1],0.2338247697545321,build check: Table 1 row 6
+67,Table 1,"row 7 ""95% upper bound on a lasting club edge (pp)"", column ""Main (7 seasons)""",2.30,data/analyses/SET7/headline_SET7.json,413,variants.main.N.upper_bound_95_icc_all_pp,2.303438617182904,build check: Table 1 row 7
+68,Table 1,"row 7 ""95% upper bound on a lasting club edge (pp)"", column ""+ 2020/21""",2.23,data/analyses/SET7/headline_SET7.json,931,variants.with2021.N.upper_bound_95_icc_all_pp,2.2293523646041318,build check: Table 1 row 7

@@ -1,0 +1,32 @@
+## 5. Verdict
+
+**(1) Does the sum rule change the asymmetry step's conclusion?** No. Ranked by the two-season sum, Tottenham 2024/25–2025/26 is 1 of 85 and Chelsea 2022/23–2023/24 is 2. Under carry-over alone, a pair at least as deep by sum appears in 42% of simulated leagues for Tottenham's depth and 60% for Chelsea's (milder-season rule: 49% and 33%; most-negative-season rule: 61% and 96%). The surplus mirrors are 43% and 61%, so the null is symmetric as built. Expectation (0.3–0.7 under the sum rule): MET.
+
+**(2) Are rich clubs hit by deep deficits as often as others?** The data do not show that they are spared. Of 23 club-seasons at or below −1 SD, 2 belong to the four highest-value squads of their season (expected 4.6 under a uniform draw; quintiles Q1–Q5 2/8/3/3/7; chi-square MC p = 0.186, exact p = 0.199; P(Q1 ≤ observed) = 0.133). At −1.5 SD: 2 of 9 (p = 1.000). Surplus seasons ≥ +1 SD: 5 of 22 in Q1 (p = 0.382).
+
+**(3) Points at stake.** At 92.78 points per unit (association, not causation; the run's all-seasons coefficient), the named deficits are associated with -7.9 and -11.3 points for Tottenham (2024/25, 2025/26) and -9.1 and -8.7 for Chelsea (2022/23, 2023/24); on the interval 53.1–132.5 the Tottenham 2025/26 figure runs -16.2 to -6.5. Tottenham finished 17 and 17, +13 and +2 points from 18th place, -31 and -24 from 4th. Chelsea finished 12 and 6, -27 and -5 from 4th.
+
+The values of c used, as in `op4_named_points.csv`: Tottenham Hotspur 2024/25 c = -0.0852; Tottenham Hotspur 2025/26 c = -0.1223; Chelsea 2022/23 c = -0.0978; Chelsea 2023/24 c = -0.0933.
+
+Tottenham 2025/26 finished 2 points above 18th place; the availability-associated figure for that season (-11.3, interval -16.2 to -6.5) is larger than that margin. That is an association, not a claim that better availability would have kept them further clear.
+
+**Sentences a paper could use (conservative first):**
+
+1. "Two-season runs of low availability as deep as Tottenham Hotspur's in 2024/25–2025/26 are common under one-season carry-over alone, whether depth is judged by the milder season (49% of simulated 7-season leagues) or by the two-season total (42%); we therefore do not treat such runs as evidence of a persistent club effect."
+2. "Low-availability seasons (at least one SD below the season mean) fall across the squad-value distribution as a uniform draw would give (2 of 23 in the top value quintile against 4.6 expected; exact multinomial p = 0.20); the richest clubs are not measurably spared."
+3. "On the all-seasons association of 92.8 points per unit of availability (95% interval 53.1–132.5), Tottenham's 2025/26 availability deficit corresponds to about 11 points (range 6–16) below a league-average availability season; this is an association, not an estimate of causal effect."
+
+**Files written by this step:**
+
+- `op1_checks.csv`
+- `op2_null.csv`
+- `op2_pairs_ranked.csv`
+- `op3_listed_seasons.csv`
+- `op3_quintile_tests.csv`
+- `op4_named_points.csv`
+- `op4_points_context.csv`
+- `report.md`
+- `report.md`
+
+Read-only inputs unchanged since step 1 (SHA-256 re-check): **YES**.
+

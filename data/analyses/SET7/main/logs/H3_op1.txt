@@ -1,0 +1,32 @@
+## 1. Provenance and checks
+
+Run 2026-10-02 05:33. Read-only inputs:
+
+- `persistence/op1_panel.csv` — sha256 `59861472db49774c…`, 140 rows
+- `carryover_null.py` — sha256 `7c15f3e80a76642d…`; imported so that the null is the carry-over step's `simulate` function itself (AR(1) per club, stationary start, observed club-seasons kept, season-centred), not a re-implementation.
+- `carryover_null/op3_null_draws.csv` — used only to confirm the imported null reproduces the carry-over step's draws.
+
+**Expectation written before the first run:** Tottenham's two-season run is rare under carry-over alone — the share of simulated panels containing any run at least as deep is below 0.05. No expectation is set for asymmetry.
+
+Targets are recomputed from this run's `club_seasons.csv` and configured seasons (`selfcheck`), tolerance 1e-09.
+
+**(a)** rows = 140 (configured: 7 seasons × 20 = 140) → **PASS**
+**(b)** pooled lag-1 Pearson correlation of c (same club, consecutive seasons, 85 pairs) = 0.418980 (recomputed: 0.418980 on 85 pairs) → **PASS**
+**(c)** SD of c (ddof 1) = 0.051914 (recomputed: 0.051914) → **PASS**
+**(d)** Tottenham c 2024/25 = -0.085240 (recomputed: -0.085240), 2025/26 = -0.122310 (recomputed: -0.122310) → **PASS**
+
+**(e)** imported null vs the carry-over step's saved draws (5,000 panels, seed 20260930): max |Δ SD of c| = 1e-16, max |Δ lag-1 r| = 3.9e-16 → **PASS** (identical panels).
+
+The two runs (SD units = c / 0.0519 observed SD):
+
+| club | season | c | sd_units |
+|---|---|---|---|
+| Tottenham Hotspur | 2024/2025 | -0.0852 | -1.6420 |
+| Tottenham Hotspur | 2025/2026 | -0.1223 | -2.3560 |
+| Chelsea | 2022/2023 | -0.0978 | -1.8830 |
+| Chelsea | 2023/2024 | -0.0933 | -1.7981 |
+
+Less extreme season of each run: Tottenham -0.0852 = **-1.642 SD**; Chelsea -0.0933 = **-1.798 SD**. By the depth rule (both seasons at or below the less extreme value) Chelsea's run is deeper than Tottenham's (Chelsea's milder season -1.80 SD vs Tottenham's -1.64 SD), although Tottenham has the single deepest season (-2.36 SD). Both runs are in the FINAL seasons (2022/23–2025/26).
+
+Self-checks against the run's own inputs: ALL PASS
+

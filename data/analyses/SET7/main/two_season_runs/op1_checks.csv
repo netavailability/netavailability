@@ -1,0 +1,17 @@
+check,value,target,tol,result,sha256
+rows,140.0,140.0,0.0,PASS,
+SD of c (ddof 1),0.05191362527514939,0.05191362527514942,1e-09,PASS,
+Tottenham Hotspur c 2024/25,-0.0852399999999999,-0.08523999999999998,1e-09,PASS,
+Tottenham Hotspur c 2025/26,-0.1223099999999999,-0.12230999999999992,1e-09,PASS,
+Chelsea c 2022/23,-0.0977549999999999,-0.09775499999999993,1e-09,PASS,
+Chelsea c 2023/24,-0.093345,-0.09334500000000001,1e-09,PASS,
+consecutive club-season pairs,85.0,85.0,0.0,PASS,
+Tottenham milder-season share (asymmetry step's op4_named_runs.csv),0.493,0.493,0.0,PASS,
+"club_season_values rows matched to panel (season, team_id)",140.0,140.0,0.0,PASS,
+max |log_value_rel values file − panel|,0.0,0.0,1e-09,PASS,
+club_seasons rows matched; points and finish equal panel,140.0,140.0,0.0,PASS,
+sha256 persistence/op1_panel.csv,,,,RECORDED,59861472db49774c33a4fad12ef35eb498c5b14f5824be7df42048461a098e5c
+sha256 carryover_null.py,,,,RECORDED,7c15f3e80a76642d1aa0db7a20d3056c15fb65d44e5d43201ec898e073d4cd61
+sha256 asymmetry/op4_named_runs.csv,,,,RECORDED,f8c537d4cac8dd72aef150eb0dae508313d10dae028b9da7218687374d9ca454
+sha256 club_seasons.csv,,,,RECORDED,62cfe635ec135c387aa7157047a37c57464bc72c806ef4819306d1a38105dfd2
+sha256 club_season_values.csv,,,,RECORDED,02535125fed13de581fc913f4bd1b1e9b6a9c965cb62746082952c13091495ed

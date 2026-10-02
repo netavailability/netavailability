@@ -1,0 +1,10 @@
+k,tail,observed,null_mean,null_p95,share_ge_obs,share_any
+1,deficit,5,5.5544,10.0,0.6456,0.995
+1,surplus,4,5.5568,10.0,0.796,0.9956
+1,deficit − surplus,1,-0.0024,5.0,0.4302,
+1.5,deficit,2,1.3622,4.0,0.3928,0.7176
+1.5,surplus,1,1.375,4.0,0.7148,0.7148
+1.5,deficit − surplus,1,-0.0128,3.0,0.3694,
+Tottenham 1.688,deficit,2,0.719,2.0,0.169,0.49
+Tottenham 1.688,surplus,1,0.7476,3.0,0.4946,0.4946
+Tottenham 1.688,deficit − surplus,1,-0.0286,2.0,0.2906,

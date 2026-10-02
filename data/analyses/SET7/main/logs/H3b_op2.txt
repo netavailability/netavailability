@@ -1,0 +1,40 @@
+## 2. The sum rule
+
+All 85 club-pairs of consecutive seasons, ranked by the two-season sum of c (most negative first). SD of c = 0.05191. Top ten:
+
+| rank | club | seasons | c_first | c_second | sum_c | sum_in_sd | label_second |
+|---|---|---|---|---|---|---|---|
+| 1 | Tottenham Hotspur | 2024/25–2025/26 | -0.0852 | -0.1223 | -0.2075 | -3.9980 | FINAL |
+| 2 | Chelsea | 2022/23–2023/24 | -0.0978 | -0.0933 | -0.1911 | -3.6811 | FINAL |
+| 3 | Brighton & Hove Albion | 2023/24–2024/25 | -0.0525 | -0.0781 | -0.1307 | -2.5174 | FINAL |
+| 4 | AFC Bournemouth | 2018/19–2019/20 | -0.0162 | -0.1023 | -0.1185 | -2.2822 | PAPER |
+| 5 | Manchester United | 2023/24–2024/25 | -0.0703 | -0.0435 | -0.1139 | -2.1937 | FINAL |
+| 6 | Manchester United | 2022/23–2023/24 | -0.0412 | -0.0703 | -0.1115 | -2.1478 | FINAL |
+| 7 | Newcastle United | 2018/19–2019/20 | -0.0296 | -0.0803 | -0.1099 | -2.1165 | PAPER |
+| 8 | Chelsea | 2021/22–2022/23 | -0.0100 | -0.0978 | -0.1077 | -2.0752 | FINAL |
+| 9 | Arsenal | 2018/19–2019/20 | -0.0408 | -0.0618 | -0.1026 | -1.9759 | PAPER |
+| 10 | Chelsea | 2023/24–2024/25 | -0.0933 | -0.0084 | -0.1018 | -1.9607 | FINAL |
+
+Tottenham Hotspur 2024/25–2025/26: rank **1** of 85 (sum -0.2075). Chelsea 2022/23–2023/24: rank **2** (sum -0.1911). Full ranking in `op2_pairs_ranked.csv`.
+
+Null: the carry-over-only AR(1) (ρ = 0.4190, SD 0.05191), 5,000 panels, seed 20260930 — the panels the asymmetry step used. In each panel, the same 85 pairs are scored. Deficit side: a pair qualifies if its statistic is at or below the named run's value (sum rule: pair sum ≤ run sum; single-season rule: the pair's more negative season ≤ the run's more negative season; milder-season rule: both seasons ≤ the run's milder season). Surplus mirror: the same threshold with the sign reversed, pairs at or above it (sum ≥ −sum; more positive season ≥ −value; both ≥ −value). The observed surplus count is for the real data.
+
+| run | rule | side | threshold | threshold_sd | observed_pairs | share_panels_any | mean_pairs_per_panel | share_panels_ge_observed |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham Hotspur 2024/25–2025/26 | sum of the two seasons | deficit | -0.2075 | -3.9980 | 1 | 0.4250 | 0.6252 | 0.4250 |
+| Tottenham Hotspur 2024/25–2025/26 | sum of the two seasons | surplus mirror | 0.2075 | 3.9980 | 1 | 0.4296 | 0.6110 | 0.4296 |
+| Tottenham Hotspur 2024/25–2025/26 | most negative single season of the pair | deficit | -0.1223 | -2.3560 | 1 | 0.6074 | 1.2836 | 0.6074 |
+| Tottenham Hotspur 2024/25–2025/26 | most negative single season of the pair | surplus mirror | 0.1223 | 2.3560 | 3 | 0.6082 | 1.2718 | 0.1720 |
+| Tottenham Hotspur 2024/25–2025/26 | milder season (asymmetry-step rule) | deficit | -0.0852 | -1.6420 | 2 | 0.4930 | 0.7212 | 0.1734 |
+| Tottenham Hotspur 2024/25–2025/26 | milder season (asymmetry-step rule) | surplus mirror | 0.0852 | 1.6420 | 1 | 0.4902 | 0.7224 | 0.4902 |
+| Chelsea 2022/23–2023/24 | sum of the two seasons | deficit | -0.1911 | -3.6811 | 2 | 0.6044 | 1.0318 | 0.2804 |
+| Chelsea 2022/23–2023/24 | sum of the two seasons | surplus mirror | 0.1911 | 3.6811 | 2 | 0.6114 | 1.0474 | 0.2862 |
+| Chelsea 2022/23–2023/24 | most negative single season of the pair | deficit | -0.0978 | -1.8830 | 4 | 0.9614 | 4.1920 | 0.5826 |
+| Chelsea 2022/23–2023/24 | most negative single season of the pair | surplus mirror | 0.0978 | 1.8830 | 7 | 0.9652 | 4.2754 | 0.1714 |
+| Chelsea 2022/23–2023/24 | milder season (asymmetry-step rule) | deficit | -0.0933 | -1.7981 | 1 | 0.3270 | 0.4266 | 0.3270 |
+| Chelsea 2022/23–2023/24 | milder season (asymmetry-step rule) | surplus mirror | 0.0933 | 1.7981 | 1 | 0.3338 | 0.4358 | 0.3338 |
+
+`share_panels_any` = share of simulated 7-season leagues with at least one such pair; `mean_pairs_per_panel` = mean count; `share_panels_ge_observed` = share with at least the observed count (one-sided p against carry-over alone). Overlapping pairs (three bad seasons in a row) count twice, as in the asymmetry step.
+
+**Sum rule, Tottenham depth: share of simulated leagues with a pair as deep = 0.4250 (Chelsea depth 0.6044).** Expectation (0.3–0.7): **MET**.
+

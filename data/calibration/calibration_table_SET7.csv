@@ -1,0 +1,37 @@
+constant,block,current,measured,se,n,nearest_005,abs_diff_in_se,p_L12_vs_L13,p_L12_vs_L14,p_L12_vs_L11,p_L12_vs_L10,p_L12_vs_best,L12_within_tie,note
+mover,fit,0.1,0.09119157910028766,0.017527393460042888,92,0.1,0.5025516726028235,,,,,,,"delta = −slope of gap on pot delta, OLS through zero"
+mover,test,0.1,0.0983438612775086,0.011785469783854894,220,0.1,0.14052377655408974,,,,,,,"delta = −slope of gap on pot delta, OLS through zero"
+mover,all,0.1,0.09575316739159798,0.009745702698536604,312,0.1,0.4357646379916479,,,,,,,"delta = −slope of gap on pot delta, OLS through zero"
+mover_with_intercept,fit,0.1,0.09114865836436749,0.017705428359054403,92,0.1,0.4999224789218962,,,,,,,OLS with intercept +0.0009 ± 0.0367
+mover_with_intercept,test,0.1,0.10116979272352881,0.011560766037373348,220,0.1,0.10118643693221827,,,,,,,OLS with intercept -0.0677 ± 0.0205
+mover_with_intercept,all,0.1,0.09781305584790784,0.00968641487467356,312,0.1,0.22577436341388074,,,,,,,OLS with intercept -0.0475 ± 0.0181
+sideways,fit,-0.15,-0.2634175849403122,0.08470208966473944,11,-0.25,1.3390175542212948,,,,,,,mean gap in the same-pot cell (pot delta = 0)
+sideways,test,-0.15,-0.14922922193362193,0.03936084373885882,50,-0.15,0.01958235630038393,,,,,,,mean gap in the same-pot cell (pot delta = 0)
+sideways,all,-0.15,-0.16982056608236937,0.03584453255635193,61,-0.15,0.552959256790671,,,,,,,mean gap in the same-pot cell (pot delta = 0)
+tier1,fit,0.5,0.533918622931442,0.024411646891076832,141,0.55,1.3894442715309074,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier1,test,0.5,0.5095162093663912,0.01778171207935549,275,0.5,0.535168341716627,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier1,all,0.5,0.5177872197333916,0.014368865339254595,416,0.5,1.2379000925562524,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier2,fit,0.35,0.3498119918699187,0.04125660141400989,41,0.35,0.004557043567273883,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier2,test,0.35,0.3201374971941639,0.04448139146360148,45,0.3,0.671348216034837,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier2,all,0.35,0.33428464000469815,0.03033773334426813,86,0.35,0.5180136504255686,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier3,fit,0.25,0.37715166666666666,0.11739770474731723,10,0.4,1.0830847752972985,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier3,test,0.25,0.22328927698032963,0.04002749714523319,38,0.2,0.6673093479403647,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+tier3,all,0.25,0.2553439414983165,0.04039098648180351,48,0.25,0.13230529788431905,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club,fit,0.45,0.4515997288359789,0.03717061355665519,60,0.45,0.043037461126127725,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club,test,0.45,0.4510060797631487,0.032474861984908246,87,0.45,0.030980262937414498,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club,all,0.45,0.45124838550716107,0.02440390959458705,147,0.45,0.05115514390521894,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_PL_origin,fit,0.45,0.4159133040935673,0.0681244538406356,19,0.4,0.5003591806573914,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_PL_origin,test,0.45,0.47133824535679375,0.05441743741026517,31,0.45,0.3921214664321651,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_PL_origin,all,0.45,0.45027676767676766,0.04226910209381948,50,0.45,0.00654775386885073,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_Championship_origin,fit,0.45,0.4635445238095238,0.04553000479701373,40,0.45,0.2974856662086753,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_Championship_origin,test,0.45,0.4577264743589744,0.04223246021537323,52,0.45,0.18295108358763906,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_Championship_origin,all,0.45,0.46025606107660444,0.03084390402067482,92,0.45,0.3325150107369592,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_neither_league_origin,fit,0.45,0.6518499999999999,,1,0.65,,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_neither_league_origin,test,0.45,0.20606666666666668,0.11235038178411785,4,0.2,2.1711838398738434,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+data_club_neither_league_origin,all,0.45,0.29522333333333334,0.12458922980472,5,0.3,1.2422957177700045,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+unknown,fit,0.35,,,0,,,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+unknown,test,0.35,,,0,,,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+unknown,all,0.35,,,0,,,,,,,,,"mean realised proportion, first 12 squads from the arrival, keepers excluded"
+L,fit,12.0,15.0,,3,,,0.32258980087329486,0.4484014511143284,0.10276497977489424,0.050550079094607986,0.5577719451975198,yes,best L of the composite (MAE 0.18704; at L = 12 0.18726); n = seasons; p = paired t of L12 against the other L over seasons
+L,test,12.0,13.0,,4,,,0.9028442330945926,0.8884231807824262,0.19934047164908592,0.153788848556844,0.9028442330945926,yes,best L of the composite (MAE 0.18311; at L = 12 0.18313); n = seasons; p = paired t of L12 against the other L over seasons
+L,all,12.0,13.0,,7,,,0.5119885546274058,0.7921488992488236,0.021922419922272608,0.010927394044142802,0.5119885546274058,yes,best L of the composite (MAE 0.18491; at L = 12 0.18498); n = seasons; p = paired t of L12 against the other L over seasons

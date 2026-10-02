@@ -1,0 +1,327 @@
+season,player_id,team_id,is_gk,charged_calls,calls_with_carried,calls_adjusted,carried_from,player,club
+2018/2019,612,42,0,38,12,11,West Bromwich Albion,Jonny Evans,Leicester City
+2018/2019,622,8,0,38,12,12,West Bromwich Albion,Daniel Sturridge,Liverpool
+2018/2019,717,1,0,38,38,38,Arsenal,J. Wilshere,West Ham United
+2018/2019,790,251,0,17,17,17,Crystal Palace,J. Puncheon,Huddersfield Town
+2018/2019,813,20,0,38,16,15,Swansea City,Ki Sung-Yeung,Newcastle United
+2018/2019,956,42,0,24,24,24,Swansea City,Andy King,Leicester City
+2018/2019,971,9,0,38,12,12,Leicester City,Riyad Mahrez,Manchester City
+2018/2019,1038,51,0,37,12,12,Swansea City,Jordan Ayew,Crystal Palace
+2018/2019,1177,11,0,38,15,15,Arsenal,C. Chambers,Fulham
+2018/2019,1202,52,0,17,13,13,Liverpool,N. Clyne,AFC Bournemouth
+2018/2019,1243,51,0,38,12,12,West Ham United,Cheikhou Kouyaté,Crystal Palace
+2018/2019,1310,20,0,37,12,12,Swansea City,Federico Fernández,Newcastle United
+2018/2019,1316,13,0,37,13,13,Stoke City,Kurt Zouma,Everton
+2018/2019,1450,65,0,38,17,17,Liverpool,D. Ings,Southampton
+2018/2019,1480,9,0,38,38,38,Everton,Eliaquim Mangala,Manchester City
+2018/2019,1651,20,0,38,15,15,West Bromwich Albion,S. Rondón,Newcastle United
+2018/2019,1714,8,0,38,12,12,Stoke City,Xherdan Shaqiri,Liverpool
+2018/2019,1835,19,0,38,1,0,Manchester United,Henrikh Mkhitaryan,Arsenal
+2018/2019,1842,69,0,37,14,14,AFC Bournemouth,Harry Arter,Cardiff City
+2018/2019,1921,51,0,14,12,11,Chelsea,Michy Batshuayi,Crystal Palace
+2018/2019,1953,18,0,38,24,24,Crystal Palace,Ruben Loftus-Cheek,Chelsea
+2018/2019,2031,251,0,20,20,20,Stoke City,Ramadan Sobhi,Huddersfield Town
+2018/2019,4203,52,0,17,17,15,Liverpool,Dominic Solanke,AFC Bournemouth
+2018/2019,4601,11,0,38,25,25,Crystal Palace,Timothy Fosu-Mensah,Fulham
+2018/2019,4607,69,0,16,13,13,Everton,Oumar Niasse,Cardiff City
+2018/2019,4913,6,0,24,24,24,Burnley,Georges-Kevin N'Koudou,Tottenham Hotspur
+2018/2019,4943,11,0,38,16,0,Swansea City,Alfie Mawson,Fulham
+2018/2019,5246,25,0,37,23,23,West Ham United,Domingos Quina,Watford
+2018/2019,219633,13,0,38,14,14,Watford,Richarlison,Everton
+2019/2020,32,21,0,38,14,14,Everton,Phil Jagielka,Sheffield United
+2019/2020,166,13,0,38,22,22,Manchester City,Fabian Delph,Everton
+2019/2020,334,51,0,38,12,12,Chelsea,Gary Cahill,Crystal Palace
+2019/2020,526,51,0,38,12,12,Everton,James McCarthy,Crystal Palace
+2019/2020,627,25,0,38,30,30,Arsenal,Danny Welbeck,Watford
+2019/2020,746,20,0,38,19,18,West Ham United,Andy Carroll,Newcastle United
+2019/2020,898,42,0,13,13,13,Wolverhampton Wanderers,Ryan Bennett,Leicester City
+2019/2020,921,15,0,11,11,11,"Chelsea, Burnley",Danny Drinkwater,Aston Villa
+2019/2020,921,27,0,20,20,20,Chelsea,Danny Drinkwater,Burnley
+2019/2020,1177,19,0,38,12,12,Fulham,C. Chambers,Arsenal
+2019/2020,1202,8,0,31,31,31,AFC Bournemouth,Nathaniel Clyne,Liverpool
+2019/2020,1271,20,0,14,13,13,Tottenham Hotspur,Danny Rose,Newcastle United
+2019/2020,1316,18,0,38,13,13,Everton,Kurt Zouma,Chelsea
+2019/2020,1333,19,0,38,12,12,Chelsea,David Luiz,Arsenal
+2019/2020,1362,19,0,13,13,13,Southampton,Cédric Soares,Arsenal
+2019/2020,1387,15,0,38,16,16,Southampton,Matt Targett,Aston Villa
+2019/2020,1396,42,0,38,12,12,Newcastle United,Ayoze Pérez,Leicester City
+2019/2020,1881,13,0,37,12,12,Arsenal,Alex Iwobi,Everton
+2019/2020,1921,18,0,38,14,14,Crystal Palace,Michy Batshuayi,Chelsea
+2019/2020,2884,14,0,38,12,12,Leicester City,Harry Maguire,Manchester United
+2019/2020,3298,78,0,38,12,12,Huddersfield Town,Aaron Mooy,Brighton & Hove Albion
+2019/2020,4265,18,0,11,11,11,Newcastle United,Kenedy,Chelsea
+2019/2020,4601,14,0,3,3,3,Fulham,Timothy Fosu-Mensah,Manchester United
+2019/2020,4607,13,0,32,32,32,Cardiff City,Oumar Niasse,Everton
+2019/2020,4659,65,0,14,14,14,Tottenham Hotspur,Kyle Walker-Peters,Southampton
+2019/2020,4901,21,0,38,15,15,AFC Bournemouth,Lys Mousset,Sheffield United
+2019/2020,5252,14,0,38,14,14,Crystal Palace,Aaron Wan-Bissaka,Manchester United
+2019/2020,6087,52,0,38,12,12,Huddersfield Town,Philip Billing,AFC Bournemouth
+2019/2020,6610,6,0,37,28,28,Fulham,R. Sessegnon,Tottenham Hotspur
+2019/2020,45863,13,0,31,10,10,Crystal Palace,Cenk Tosun,Everton
+2019/2020,45863,51,0,7,7,7,Everton,Cenk Tosun,Crystal Palace
+2019/2020,186484,51,0,22,22,22,Cardiff City,Víctor Camarasa,Crystal Palace
+2019/2020,9308200,78,0,13,13,13,Chelsea,Tariq Lamptey,Brighton & Hove Albion
+2019/2020,23269836,8,0,38,38,38,Fulham,H. Elliott,Liverpool
+2021/2022,820,14,0,38,13,13,West Ham United,Jesse Lingard,Manchester United
+2021/2022,914,20,0,19,12,12,Burnley,Chris Wood,Newcastle United
+2021/2022,922,13,0,18,12,12,Tottenham Hotspur,Dele Alli,Everton
+2021/2022,968,18,0,38,17,15,Aston Villa,Ross Barkley,Chelsea
+2021/2022,1029,25,0,38,14,14,Everton,Joshua King,Watford
+2021/2022,1116,9,0,38,14,14,Aston Villa,Jack Grealish,Manchester City
+2021/2022,1177,15,0,17,12,12,Arsenal,Calum Chambers,Aston Villa
+2021/2022,1249,13,0,38,12,12,Crystal Palace,Andros Townsend,Everton
+2021/2022,1316,1,0,35,12,12,Chelsea,Kurt Zouma,West Ham United
+2021/2022,1350,42,0,38,38,38,Southampton,Ryan Bertrand,Leicester City
+2021/2022,1380,25,0,36,12,12,Tottenham Hotspur,Moussa Sissoko,Watford
+2021/2022,1387,20,0,17,13,11,Aston Villa,Matt Targett,Newcastle United
+2021/2022,1450,15,0,38,16,16,Southampton,Danny Ings,Aston Villa
+2021/2022,1572,13,0,38,12,12,Leicester City,Demarai Gray,Everton
+2021/2022,1953,18,0,38,15,15,Fulham,Ruben Loftus-Cheek,Chelsea
+2021/2022,2815,20,0,17,12,12,Brighton & Hove Albion,Dan Burn,Newcastle United
+2021/2022,3259,19,0,38,14,14,Brighton & Hove Albion,Ben White,Arsenal
+2021/2022,4344,19,0,20,12,12,West Bromwich Albion,Ainsley Maitland-Niles,Arsenal
+2021/2022,4391,15,0,19,13,11,Manchester United,Axel Tuanzebe,Aston Villa
+2021/2022,5149,71,0,35,12,12,Manchester United,Daniel James,Leeds United
+2021/2022,5321,42,0,35,12,12,Fulham,Ademola Lookman,Leicester City
+2021/2022,25284,51,0,38,12,12,Fulham,Joachim Andersen,Crystal Palace
+2021/2022,25354,13,0,20,20,20,Aston Villa,Anwar El Ghazi,Everton
+2021/2022,26031,13,0,18,18,18,Manchester United,Donny van de Beek,Everton
+2021/2022,31129,42,0,38,14,14,Southampton,Jannik Vestergaard,Leicester City
+2021/2022,52671,8,0,38,13,13,Southampton,Takumi Minamino,Liverpool
+2021/2022,95368,15,0,19,15,15,Everton,Lucas Digne,Aston Villa
+2021/2022,1494245,51,0,38,13,13,West Bromwich Albion,Conor Gallagher,Crystal Palace
+2021/2022,4536527,33,0,36,12,12,Manchester United,Brandon Williams,Norwich City
+2021/2022,5640817,33,0,35,15,13,Liverpool,Ozan Kabak,Norwich City
+2021/2022,6599973,33,0,38,13,13,Chelsea,Billy Gilmour,Norwich City
+2021/2022,24799911,65,0,38,12,12,Chelsea,Tino Livramento,Southampton
+2021/2022,37259239,15,0,24,13,0,West Bromwich Albion,Tim Iroegbunam,Aston Villa
+2022/2023,802,18,0,38,12,12,Manchester City,Raheem Sterling,Chelsea
+2022/2023,819,63,0,18,18,18,Newcastle United,Jonjo Shelvey,Nottingham Forest
+2022/2023,820,63,0,38,12,12,Manchester United,Jesse Lingard,Nottingham Forest
+2022/2023,914,63,0,19,19,19,Newcastle United,Chris Wood,Nottingham Forest
+2022/2023,992,14,0,38,13,13,Brentford,Christian Eriksen,Manchester United
+2022/2023,1004,11,0,38,12,12,Manchester United,Andreas Pereira,Fulham
+2022/2023,1183,29,0,18,12,12,West Ham United,Craig Dawson,Wolverhampton Wanderers
+2022/2023,1243,63,0,36,12,12,Crystal Palace,Cheikhou Kouyaté,Nottingham Forest
+2022/2023,1362,11,0,17,14,14,Arsenal,Cédric Soares,Fulham
+2022/2023,1393,52,0,33,13,13,Southampton,Jack Stephens,AFC Bournemouth
+2022/2023,1415,11,0,38,13,13,Brighton & Hove Albion,Shane Duffy,Fulham
+2022/2023,1450,1,0,19,12,12,Aston Villa,Danny Ings,West Ham United
+2022/2023,1460,236,0,38,12,12,Burnley,Ben Mee,Brentford
+2022/2023,1639,13,0,38,12,12,Burnley,James Tarkowski,Everton
+2022/2023,3043,13,0,37,12,11,Wolverhampton Wanderers,Conor Coady,Everton
+2022/2023,3354,9,0,38,23,23,Leeds United,Kalvin Phillips,Manchester City
+2022/2023,4344,65,0,33,14,14,Arsenal,Ainsley Maitland-Niles,Southampton
+2022/2023,4371,52,0,38,24,24,West Ham United,Ryan Fredericks,AFC Bournemouth
+2022/2023,4391,14,0,20,20,20,Aston Villa,Axel Tuanzebe,Manchester United
+2022/2023,5149,11,0,33,13,13,Leeds United,Daniel James,Fulham
+2022/2023,5329,19,0,38,12,10,Manchester City,Gabriel Jesus,Arsenal
+2022/2023,7926,63,0,36,12,0,Wolverhampton Wanderers,Morgan Gibbs-White,Nottingham Forest
+2022/2023,25317,14,0,20,12,12,Burnley,Wout Weghorst,Manchester United
+2022/2023,26031,14,0,38,38,38,Everton,Donny van de Beek,Manchester United
+2022/2023,26603,19,0,38,19,19,Manchester City,Oleksandr Zinchenko,Arsenal
+2022/2023,31739,18,0,32,12,12,Arsenal,Pierre-Emerick Aubameyang,Chelsea
+2022/2023,61780,19,0,20,12,11,Brighton & Hove Albion,Leandro Trossard,Arsenal
+2022/2023,62423,15,0,32,14,14,Wolverhampton Wanderers,Leander Dendoncker,Aston Villa
+2022/2023,95348,63,0,33,12,12,Wolverhampton Wanderers,Willy Boly,Nottingham Forest
+2022/2023,95776,13,0,34,13,11,Brighton & Hove Albion,Neal Maupay,Everton
+2022/2023,96642,1,0,37,29,29,Burnley,Maxwel Cornet,West Ham United
+2022/2023,96799,11,0,37,12,12,West Ham United,Issa Diop,Fulham
+2022/2023,96870,6,0,38,12,12,Brighton & Hove Albion,Yves Bissouma,Tottenham Hotspur
+2022/2023,129511,19,0,19,12,10,Chelsea,Jorginho,Arsenal
+2022/2023,129794,1,0,35,12,12,Chelsea,Emerson,West Ham United
+2022/2023,155138,15,0,15,13,10,Southampton,Jan Bednarek,Aston Villa
+2022/2023,155138,65,0,23,12,10,Aston Villa,Jan Bednarek,Southampton
+2022/2023,205944,63,0,36,10,10,Watford,Emmanuel Dennis,Nottingham Forest
+2022/2023,219633,6,0,38,20,20,Everton,Richarlison,Tottenham Hotspur
+2022/2023,448448,18,0,38,13,13,Brighton & Hove Albion,Marc Cucurella,Chelsea
+2022/2023,538907,51,0,18,13,13,Arsenal,Albert Sambi Lokonga,Crystal Palace
+2022/2023,1494245,18,0,38,13,13,Crystal Palace,Conor Gallagher,Chelsea
+2022/2023,4536524,13,0,32,23,23,Manchester United,James Garner,Everton
+2022/2023,4536527,14,0,38,38,38,Norwich City,Brandon Williams,Manchester United
+2022/2023,4598726,13,0,38,12,12,Burnley,Dwight McNeil,Everton
+2022/2023,6599973,18,0,5,5,5,Norwich City,Billy Gilmour,Chelsea
+2022/2023,6599973,78,0,33,12,12,"Chelsea, Norwich City",Billy Gilmour,Brighton & Hove Albion
+2022/2023,9611543,20,0,18,14,13,Everton,Anthony Gordon,Newcastle United
+2022/2023,11311795,18,0,33,28,28,Leicester City,Wesley Fofana,Chelsea
+2022/2023,11705403,29,0,38,15,15,Burnley,Nathan Collins,Wolverhampton Wanderers
+2022/2023,23697427,18,0,38,13,13,Southampton,Armando Broja,Chelsea
+2022/2023,31626620,20,0,18,18,18,West Ham United,Harrison Ashby,Newcastle United
+2022/2023,31626713,18,0,37,19,18,Aston Villa,Carney Chukwuemeka,Chelsea
+2022/2023,37316841,65,0,33,13,13,Manchester City,Samuel Edozie,Southampton
+2022/2023,37346914,71,0,25,25,25,West Ham United,Sonny Perkins,Leeds United
+2022/2023,37536874,65,0,38,21,21,Manchester City,Roméo Lavia,Southampton
+2022/2023,37536911,18,0,27,27,0,Arsenal,Omari Hutchinson,Chelsea
+2023/2024,165,13,0,38,13,12,Aston Villa,Ashley Young,Everton
+2023/2024,197,78,0,38,17,16,Liverpool,James Milner,Brighton & Hove Albion
+2023/2024,612,14,0,38,18,18,Leicester City,Jonny Evans,Manchester United
+2023/2024,914,63,0,38,5,5,Newcastle United,Chris Wood,Nottingham Forest
+2023/2024,979,27,0,38,17,17,Southampton,Nathan Redmond,Burnley
+2023/2024,1155,1,0,37,11,11,Southampton,James Ward-Prowse,West Ham United
+2023/2024,1362,19,0,38,22,18,Fulham,Cédric Soares,Arsenal
+2023/2024,1706,21,0,37,37,37,Everton,Tom Davies,Sheffield United
+2023/2024,1881,11,0,34,12,12,Everton,Alex Iwobi,Fulham
+2023/2024,1901,51,0,34,34,34,Arsenal,Rob Holding,Crystal Palace
+2023/2024,3354,1,0,17,14,14,Manchester City,Kalvin Phillips,West Ham United
+2023/2024,3884,29,0,38,12,12,Tottenham Hotspur,Matt Doherty,Wolverhampton Wanderers
+2023/2024,4241,11,0,37,30,29,Wolverhampton Wanderers,Adama Traoré,Fulham
+2023/2024,5273,19,0,38,12,12,West Ham United,Declan Rice,Arsenal
+2023/2024,6838,6,0,38,22,22,Leicester City,James Maddison,Tottenham Hotspur
+2023/2024,10601,20,0,38,29,29,Leicester City,Harvey Barnes,Newcastle United
+2023/2024,26491,13,0,38,12,12,Tottenham Hotspur,Arnaut Danjuma,Everton
+2023/2024,32612,19,0,38,12,12,Chelsea,Kai Havertz,Arsenal
+2023/2024,62337,11,0,35,10,10,Leicester City,Timothy Castagne,Fulham
+2023/2024,62342,15,0,38,12,12,Leicester City,Youri Tielemans,Aston Villa
+2023/2024,73147,9,0,38,15,15,Chelsea,Mateo Kovacic,Manchester City
+2023/2024,95776,236,0,34,13,13,Everton,Neal Maupay,Brentford
+2023/2024,96741,15,0,35,12,9,Tottenham Hotspur,Clément Lenglet,Aston Villa
+2023/2024,125482,6,0,38,38,38,Fulham,Manor Solomon,Tottenham Hotspur
+2023/2024,160217,11,0,38,12,11,Wolverhampton Wanderers,Raúl Jiménez,Fulham
+2023/2024,186766,51,0,38,16,16,AFC Bournemouth,Jefferson Lerma,Crystal Palace
+2023/2024,216612,8,0,38,13,13,Brighton & Hove Albion,Alexis Mac Allister,Liverpool
+2023/2024,239578,52,0,34,11,11,Leeds United,Luis Sinisterra,AFC Bournemouth
+2023/2024,262274,13,0,37,17,17,Leeds United,Jack Harrison,Everton
+2023/2024,262324,52,0,36,36,36,Leeds United,Tyler Adams,AFC Bournemouth
+2023/2024,380886,6,0,4,1,1,Manchester United,Sergio Reguilón,Tottenham Hotspur
+2023/2024,380886,236,0,19,15,15,Manchester United,Sergio Reguilón,Brentford
+2023/2024,537121,14,0,38,32,32,Chelsea,Mason Mount,Manchester United
+2023/2024,538907,19,0,3,3,3,Crystal Palace,Albert Sambi Lokonga,Arsenal
+2023/2024,538907,115,0,35,22,22,Crystal Palace,Albert Sambi Lokonga,Luton Town
+2023/2024,2875858,63,0,34,16,16,Chelsea,Callum Hudson-Odoi,Nottingham Forest
+2023/2024,10309700,21,0,17,9,7,Leicester City,Luke Thomas,Sheffield United
+2023/2024,11705403,236,0,38,12,10,Wolverhampton Wanderers,Nathan Collins,Brentford
+2023/2024,21781428,9,0,35,13,13,Wolverhampton Wanderers,Matheus Nunes,Manchester City
+2023/2024,23697427,11,0,16,16,16,Chelsea,Armando Broja,Fulham
+2023/2024,24799911,20,0,38,12,12,Southampton,Tino Livramento,Newcastle United
+2023/2024,25930790,6,0,34,14,14,Nottingham Forest,Brennan Johnson,Tottenham Hotspur
+2023/2024,28575676,21,0,34,12,12,Manchester City,James McAtee,Sheffield United
+2023/2024,28912747,18,0,35,12,10,Manchester City,Cole Palmer,Chelsea
+2023/2024,28912777,21,0,35,12,12,Aston Villa,Cameron Archer,Sheffield United
+2023/2024,28912805,63,0,38,12,12,Manchester United,Anthony Elanga,Nottingham Forest
+2023/2024,37259180,18,0,38,13,13,Brighton & Hove Albion,Levi Colwill,Chelsea
+2023/2024,37261500,18,0,37,13,13,Brighton & Hove Albion,Moisés Caicedo,Chelsea
+2023/2024,37459072,20,0,35,13,11,Chelsea,Lewis Hall,Newcastle United
+2023/2024,37536874,18,0,36,36,36,Southampton,Roméo Lavia,Chelsea
+2023/2024,37555964,27,0,17,13,13,Chelsea,David Datro Fofana,Burnley
+2023/2024,37562129,18,0,5,2,2,Nottingham Forest,Andrey Santos,Chelsea
+2023/2024,37562129,63,0,17,17,17,Chelsea,Andrey Santos,Nottingham Forest
+2023/2024,37581743,18,0,14,14,0,Everton,Ishé Samuels-Smith,Chelsea
+2024/2025,802,19,0,35,13,13,Chelsea,Raheem Sterling,Arsenal
+2024/2025,968,15,0,38,14,14,Luton Town,Ross Barkley,Aston Villa
+2024/2025,1038,42,0,37,12,12,Crystal Palace,Jordan Ayew,Leicester City
+2024/2025,1149,65,0,38,17,17,Brighton & Hove Albion,Adam Lallana,Southampton
+2024/2025,1155,1,0,16,12,9,Nottingham Forest,James Ward-Prowse,West Ham United
+2024/2025,1155,63,0,21,14,14,West Ham United,James Ward-Prowse,Nottingham Forest
+2024/2025,1601,51,0,14,13,13,Chelsea,Ben Chilwell,Crystal Palace
+2024/2025,1692,13,0,2,2,2,Sheffield United,Mason Holgate,Everton
+2024/2025,1878,15,0,14,14,14,Manchester United,Marcus Rashford,Aston Villa
+2024/2025,3140,42,0,38,14,14,Fulham,Bobby De Cordova-Reid,Leicester City
+2024/2025,3300,65,0,38,20,20,Burnley,Charlie Taylor,Southampton
+2024/2025,3354,116,0,38,17,17,West Ham United,Kalvin Phillips,Ipswich Town
+2024/2025,4203,6,0,38,15,15,AFC Bournemouth,Dominic Solanke,Tottenham Hotspur
+2024/2025,5241,18,0,38,12,12,Fulham,Tosin Adarabioyo,Chelsea
+2024/2025,5252,1,0,38,12,10,Manchester United,Aaron Wan-Bissaka,West Ham United
+2024/2025,7655,20,0,24,12,12,AFC Bournemouth,Lloyd Kelly,Newcastle United
+2024/2025,7835,65,0,22,14,14,Sheffield United,Ben Brereton Díaz,Southampton
+2024/2025,7958,116,0,18,18,18,Everton,Ben Godfrey,Ipswich Town
+2024/2025,25284,11,0,36,17,16,Crystal Palace,Joachim Andersen,Fulham
+2024/2025,64193,11,0,36,13,13,Burnley,Sander Berge,Fulham
+2024/2025,95776,13,0,2,2,2,Brentford,Neal Maupay,Everton
+2024/2025,96642,65,0,19,19,19,West Ham United,Maxwel Cornet,Southampton
+2024/2025,96792,42,0,35,35,35,Crystal Palace,Odsonne Édouard,Leicester City
+2024/2025,100385,15,0,14,14,14,Chelsea,Axel Disasi,Aston Villa
+2024/2025,122090,116,0,36,36,36,Luton Town,Chiedozie Ogbene,Ipswich Town
+2024/2025,186585,63,0,37,13,13,Aston Villa,Álex Moreno,Nottingham Forest
+2024/2025,332047,63,0,38,13,13,Newcastle United,Elliot Anderson,Nottingham Forest
+2024/2025,380886,6,0,38,26,26,Brentford,Sergio Reguilón,Tottenham Hotspur
+2024/2025,496775,18,0,38,13,13,Wolverhampton Wanderers,Pedro Neto,Chelsea
+2024/2025,498161,1,0,38,12,12,Wolverhampton Wanderers,Maximilian Kilman,West Ham United
+2024/2025,523939,13,0,35,12,12,Nottingham Forest,Orel Mangala,Everton
+2024/2025,537117,18,0,19,13,13,Crystal Palace,Trevoh Chalobah,Chelsea
+2024/2025,537117,51,0,18,14,11,Chelsea,Trevoh Chalobah,Crystal Palace
+2024/2025,537759,11,0,35,35,35,Arsenal,Reiss Nelson,Fulham
+2024/2025,538034,18,0,35,14,14,Manchester United,Jadon Sancho,Chelsea
+2024/2025,539961,51,0,35,14,14,Arsenal,Eddie Nketiah,Crystal Palace
+2024/2025,540579,42,0,37,12,12,Tottenham Hotspur,Oliver Skipp,Leicester City
+2024/2025,581094,116,0,36,10,0,Burnley,Dara O'Shea,Ipswich Town
+2024/2025,581199,116,0,38,16,16,West Ham United,Ben Johnson,Ipswich Town
+2024/2025,1494446,11,0,38,12,12,Arsenal,Emile Smith Rowe,Fulham
+2024/2025,22878573,15,0,38,16,16,Everton,Amadou Onana,Aston Villa
+2024/2025,23311159,15,0,38,12,12,Chelsea,Ian Maatsen,Aston Villa
+2024/2025,23697427,13,0,35,33,32,Fulham,Armando Broja,Everton
+2024/2025,28575676,9,0,38,12,10,Sheffield United,James McAtee,Manchester City
+2024/2025,28912777,65,0,38,12,12,Sheffield United,Cameron Archer,Southampton
+2024/2025,29419594,116,0,16,14,14,Brighton & Hove Albion,Julio Enciso,Ipswich Town
+2024/2025,30446925,9,0,4,4,4,Luton Town,Issa Kaboré,Manchester City
+2024/2025,33186827,116,0,17,17,17,Aston Villa,Jaden Philogene,Ipswich Town
+2024/2025,37253456,1,0,14,13,13,Brighton & Hove Albion,Evan Ferguson,West Ham United
+2024/2025,37259239,13,0,38,27,27,Aston Villa,Tim Iroegbunam,Everton
+2024/2025,37365883,9,0,23,23,0,West Ham United,Divin Mubama,Manchester City
+2024/2025,37391641,52,0,20,2,2,Sheffield United,Daniel Jebbison,AFC Bournemouth
+2024/2025,37410255,13,0,15,12,12,Southampton,Carlos Alcaraz,Everton
+2024/2025,37423141,65,0,37,16,16,Chelsea,Lesley Ugochukwu,Southampton
+2024/2025,37555964,18,0,18,18,18,Burnley,David Datro Fofana,Chelsea
+2024/2025,37559767,20,0,38,12,10,Sheffield United,William Osula,Newcastle United
+2024/2025,37568149,42,0,38,13,11,Brighton & Hove Albion,Facundo Buonanotte,Leicester City
+2024/2025,37583510,18,0,38,38,38,Aston Villa,Omari Kellyman,Chelsea
+2024/2025,37593240,6,0,38,33,33,Burnley,Wilson Odobert,Tottenham Hotspur
+2024/2025,37676786,14,0,14,14,0,Arsenal,Ayden Heaven,Manchester United
+2025/2026,911,27,0,38,12,12,Manchester City,Kyle Walker,Burnley
+2025/2026,1065,1,0,38,12,12,Newcastle United,Callum Wilson,West Ham United
+2025/2026,1116,13,0,38,13,13,Manchester City,Jack Grealish,Everton
+2025/2026,1155,27,0,15,13,13,West Ham United,James Ward-Prowse,Burnley
+2025/2026,3354,9,0,24,24,24,Ipswich Town,Kalvin Phillips,Manchester City
+2025/2026,4241,1,0,15,12,11,Fulham,Adama Traoré,West Ham United
+2025/2026,4391,27,0,38,36,36,Ipswich Town,Axel Tuanzebe,Burnley
+2025/2026,4659,1,0,38,12,12,Southampton,Kyle Walker-Peters,West Ham United
+2025/2026,5141,71,0,38,14,14,Everton,Dominic Calvert-Lewin,Leeds United
+2025/2026,7643,19,0,36,12,12,Crystal Palace,Eberechi Eze,Arsenal
+2025/2026,12514,71,0,36,10,9,Leicester City,James Justin,Leeds United
+2025/2026,26603,63,0,20,20,20,Arsenal,Oleksandr Zinchenko,Nottingham Forest
+2025/2026,31609,19,0,38,16,16,Brentford,Christian Nørgaard,Arsenal
+2025/2026,34053,8,0,35,29,29,Newcastle United,Alexander Isak,Liverpool
+2025/2026,54191,1,0,20,17,17,Brighton & Hove Albion,Igor Julio,West Ham United
+2025/2026,54191,78,0,18,15,15,West Ham United,Igor Julio,Brighton & Hove Albion
+2025/2026,96642,1,0,3,3,3,Southampton,Maxwel Cornet,West Ham United
+2025/2026,96792,51,0,3,3,3,Leicester City,Odsonne Édouard,Crystal Palace
+2025/2026,96928,20,0,35,23,23,Brentford,Yoane Wissa,Newcastle United
+2025/2026,100385,1,0,14,12,12,"Aston Villa, Chelsea",Axel Disasi,West Ham United
+2025/2026,160206,15,0,35,12,12,Manchester United,Victor Lindelöf,Aston Villa
+2025/2026,173737,71,0,38,12,12,Newcastle United,Sean Longstaff,Leeds United
+2025/2026,225000,15,0,15,12,10,Nottingham Forest,Douglas Luiz,Aston Villa
+2025/2026,262274,71,0,22,13,13,Everton,Jack Harrison,Leeds United
+2025/2026,458682,51,0,14,12,12,Wolverhampton Wanderers,Jørgen Strand Larsen,Crystal Palace
+2025/2026,529689,14,0,38,12,12,Brentford,Bryan Mbeumo,Manchester United
+2025/2026,537759,236,0,35,19,19,"Fulham, Arsenal",Reiss Nelson,Brentford
+2025/2026,538034,15,0,35,13,13,Chelsea,Jadon Sancho,Aston Villa
+2025/2026,540613,13,0,38,13,13,Chelsea,Kiernan Dewsbury-Hall,Everton
+2025/2026,1846739,14,0,38,15,15,Wolverhampton Wanderers,Matheus Cunha,Manchester United
+2025/2026,4536500,9,0,16,12,12,Crystal Palace,Marc Guéhi,Manchester City
+2025/2026,5640849,6,0,38,13,13,West Ham United,Mohammed Kudus,Tottenham Hotspur
+2025/2026,10990678,9,0,17,12,12,AFC Bournemouth,Antoine Semenyo,Manchester City
+2025/2026,11705406,20,0,37,16,16,Aston Villa,Jacob Ramsey,Newcastle United
+2025/2026,13590962,9,0,38,23,23,Wolverhampton Wanderers,Rayan Aït-Nouri,Manchester City
+2025/2026,21782219,51,0,14,14,14,Aston Villa,Evann Guessand,Crystal Palace
+2025/2026,23269836,15,0,35,35,35,Liverpool,Harvey Elliott,Aston Villa
+2025/2026,23697427,27,0,38,15,12,Everton,Armando Broja,Burnley
+2025/2026,25217662,19,0,38,18,18,Chelsea,Noni Madueke,Arsenal
+2025/2026,25930790,51,0,19,12,12,Tottenham Hotspur,Brennan Johnson,Crystal Palace
+2025/2026,28575676,63,0,37,14,14,Manchester City,James McAtee,Nottingham Forest
+2025/2026,28912805,20,0,38,12,12,Nottingham Forest,Anthony Elanga,Newcastle United
+2025/2026,28912976,18,0,38,21,21,Ipswich Town,Liam Delap,Chelsea
+2025/2026,28931574,18,0,38,11,11,Brighton & Hove Albion,João Pedro,Chelsea
+2025/2026,37286732,11,0,14,12,12,Manchester City,Oscar Bobb,Fulham
+2025/2026,37316549,18,0,35,12,12,Manchester United,Alejandro Garnacho,Chelsea
+2025/2026,37381778,8,0,38,12,12,AFC Bournemouth,Milos Kerkez,Liverpool
+2025/2026,37423141,27,0,38,13,13,Southampton,Lesley Ugochukwu,Burnley
+2025/2026,37536911,63,0,37,13,13,Ipswich Town,Omari Hutchinson,Nottingham Forest
+2025/2026,37543248,236,0,37,12,12,AFC Bournemouth,Dango Ouattara,Brentford
+2025/2026,37555816,3,0,24,13,13,Brighton & Hove Albion,Simon Adingra,Sunderland
+2025/2026,37561126,13,0,36,11,11,Southampton,Tyler Dibling,Everton
+2025/2026,37568149,18,0,18,18,18,Leicester City,Facundo Buonanotte,Chelsea
+2025/2026,37568149,71,0,17,17,17,"Chelsea, Leicester City",Facundo Buonanotte,Leeds United
+2025/2026,37592037,13,0,14,13,13,Chelsea,Tyrique George,Everton
+2025/2026,37593153,1,0,36,9,9,Southampton,Mateus Fernandes,West Ham United
+2025/2026,37664041,3,0,3,3,3,Chelsea,Marc Guiu,Sunderland
+2025/2026,37664041,18,0,35,14,14,Sunderland,Marc Guiu,Chelsea
+2025/2026,37676786,14,0,38,4,4,Arsenal,Ayden Heaven,Manchester United

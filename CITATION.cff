@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software or its data tables, please cite it as below. The code is licensed under MIT; the data in data/ are licensed under CC BY-NC 4.0 (see LICENSE-DATA)."
+title: "NETavailability"
+type: software
+authors:
+  - name: "The NETavailability authors"
+version: "0.1-abstract"
+date-released: 2026-10-02
+repository-code: "https://github.com/netavailability/netavailability"
+license: MIT

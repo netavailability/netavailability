@@ -1,0 +1,813 @@
+season,player_id,team_id,is_gk,tier,fill,origin_group,calls_named,calls_absence,fill_slots,arr_from,arr_rec,first_fill_ref,player,club,group,origin_date,origin_from,arrival_used,realised,n_squads,status
+2018/2019,489,11,0,tier2,0.35,tier2,12,0,78,Beşiktaş,2019-01-15,2019-01-20,R. Babel,Fulham,tier2,2019-01-15,Beşiktaş,2019-01-15,0.86835,12,measured
+2018/2019,871,69,0,data_club,0.45,data club: Championship,12,0,69,Reading,2019-01-31,2019-02-02,L. Bacuna,Cardiff City,Championship origin,2019-01-31,Reading,2019-01-31,0.37609166666666666,12,measured
+2018/2019,1043,1,0,tier1,0.5,tier1,5,7,78,Fiorentina,2018-08-09,2018-08-12,Carlos Sánchez,West Ham United,tier1,2018-08-09,Fiorentina,2018-08-09,0.26801666666666674,12,measured
+2018/2019,1057,25,0,tier1,0.5,tier1,5,7,50,FC Barcelona,2018-07-01,2018-08-11,Deulofeu,Watford,tier1,2018-01-29,FC Barcelona,2018-07-01,0.6624583333333333,12,measured
+2018/2019,1148,27,0,data_club,0.45,data club: Championship,12,4,116,Derby County,2018-08-07,2018-08-12,M. Vydra,Burnley,Championship origin,2018-08-07,Derby County,2018-08-07,0.2388916666666667,12,measured
+2018/2019,1202,52,0,data_club,0.45,data club: Premier League,1,0,1,Liverpool,2019-01-04,2019-01-13,N. Clyne,AFC Bournemouth,PL origin,2019-01-04,Liverpool,2019-01-04,0.8261,12,measured
+2018/2019,1310,20,0,data_club,0.45,data club: Championship,12,1,13,Swansea City,2018-08-09,2018-08-18,Federico Fernández,Newcastle United,Championship origin,2018-08-09,Swansea City,2018-08-09,0.9166666666666666,12,measured
+2018/2019,1723,27,0,data_club,0.45,data club: Championship,12,13,187,Middlesbrough,2018-08-05,2018-08-12,Ben Gibson,Burnley,Championship origin,2018-08-05,Middlesbrough,2018-08-05,0.055725,12,measured
+2018/2019,1931,11,0,tier1,0.5,tier1,6,6,78,TSG Hoffenheim,2019-01-31,2019-02-09,Håvard Nordtveit,Fulham,tier1,2019-01-31,TSG Hoffenheim,2019-01-31,0.6781166666666666,6,measured
+2018/2019,2872,69,0,data_club,0.45,data club: Championship,12,2,96,Norwich City,2018-07-01,2018-08-11,Josh Murphy,Cardiff City,Championship origin,2018-07-01,Norwich City,2018-07-01,0.7202000000000001,12,measured
+2018/2019,3140,69,0,data_club,0.45,data club: Championship,12,0,78,Bristol City,2018-07-01,2018-08-11,Bobby De Cordova-Reid,Cardiff City,Championship origin,2018-07-01,Bristol City,2018-07-01,0.579125,12,measured
+2018/2019,3160,11,0,data_club,0.45,data club: Championship,12,6,115,Bristol City,2018-08-09,2018-08-11,Joe Bryan,Fulham,Championship origin,2018-08-09,Bristol City,2018-08-09,0.5417500000000001,12,measured
+2018/2019,3274,52,0,tier2,0.35,tier2,0,12,72,Hibernian,2019-01-01,2019-01-13,Emerson Hyndman,AFC Bournemouth,tier2,2016-07-01,Fulham,2019-01-01,0.108075,4,measured
+2018/2019,3282,42,1,none,0.0,keeper: data club: Premier League,11,0,66,Liverpool,2018-07-20,2018-08-10,Danny Ward,Leicester City,PL origin,2018-07-20,Liverpool,2018-07-20,0.0,12,measured
+2018/2019,3762,69,0,data_club,0.45,data club: Championship,12,1,83,Preston North End,2018-07-01,2018-08-11,Greg Cunningham,Cardiff City,Championship origin,2018-07-01,Preston North End,2018-07-01,0.3333333333333333,12,measured
+2018/2019,4101,11,0,data_club,0.45,data club: Premier League,2,10,78,Liverpool,2019-01-31,2019-02-09,Lazar Markovic,Fulham,PL origin,2019-01-31,Liverpool,2019-01-31,0.25655,2,measured
+2018/2019,4240,51,0,data_club,0.45,data club: Championship,7,8,145,West Bromwich Albion,2019-01-27,2019-01-30,Bakary Sako,Crystal Palace,Championship origin,2015-08-05,Wolverhampton Wanderers,2019-01-27,0.06811428571428571,7,measured
+2018/2019,4241,29,0,data_club,0.45,data club: Championship,12,1,90,Middlesbrough,2018-08-08,2018-08-11,Adama Traoré,Wolverhampton Wanderers,Championship origin,2018-08-08,Middlesbrough,2018-08-08,0.3223833333333334,12,measured
+2018/2019,4371,1,0,data_club,0.45,data club: Premier League,12,13,120,Fulham,2018-07-01,2018-08-12,Ryan Fredericks,West Ham United,PL origin,2018-07-01,Fulham,2018-07-01,0.3501666666666667,12,measured
+2018/2019,4439,19,0,tier1,0.5,tier1,8,4,78,FC Barcelona,2019-01-31,2019-02-03,Denis Suárez,Arsenal,tier1,2019-01-31,FC Barcelona,2019-01-31,0.1138875,8,measured
+2018/2019,4801,1,0,data_club,0.45,data club: Premier League,8,4,78,Arsenal,2018-08-09,2018-08-12,Lucas Pérez,West Ham United,PL origin,2018-08-09,Arsenal,2018-08-09,0.20471666666666666,12,measured
+2018/2019,5246,25,0,tier2,0.0,tier2,2,10,41,West Ham United U21,2018-08-09,2018-08-19,Domingos Quina,Watford,tier2,2018-08-09,West Ham United U21,2018-08-09,0.2718833333333333,12,measured
+2018/2019,6073,251,0,data_club,0.45,"data club: data club, neither league that season",12,0,78,Charlton Athletic,2019-01-30,2019-02-02,Karlan Grant,Huddersfield Town,data club in neither league that season,2019-01-30,Charlton Athletic,2019-01-30,0.6518499999999999,12,measured
+2018/2019,6838,42,0,data_club,0.45,data club: Championship,12,1,79,Norwich City,2018-07-01,2018-08-10,James Maddison,Leicester City,Championship origin,2018-07-01,Norwich City,2018-07-01,0.8146416666666667,12,measured
+2018/2019,9808,52,0,data_club,0.45,data club: Championship,12,0,78,Sheffield United,2018-07-01,2018-08-11,David Brooks,AFC Bournemouth,Championship origin,2018-07-01,Sheffield United,2018-07-01,0.7311833333333334,12,measured
+2018/2019,13477,25,0,tier2,0.35,tier2,3,9,78,Stevenage,2018-07-01,2018-08-11,Ben Wilmot,Watford,tier2,2018-07-01,Stevenage,2018-07-01,0.44831666666666664,12,measured
+2018/2019,25147,78,0,tier1,0.5,tier1,11,1,78,AZ Alkmaar,2018-07-25,2018-08-11,Alireza Jahanbakhsh,Brighton & Hove Albion,tier1,2018-07-25,AZ Alkmaar,2018-07-25,0.42188333333333333,12,measured
+2018/2019,25515,251,0,tier1,0.5,tier1,4,8,78,FC Groningen,2018-07-01,2018-08-11,J. Bacuna,Huddersfield Town,tier1,2018-07-01,FC Groningen,2018-07-01,0.337375,12,measured
+2018/2019,25739,9,0,tier1,0.5,tier1,0,12,78,PEC Zwolle,2018-07-31,2018-08-12,Philippe Sandler,Manchester City,tier1,2018-07-31,PEC Zwolle,2018-07-31,0.0,1,measured
+2018/2019,31049,19,0,tier1,0.5,tier1,9,3,78,Borussia Dortmund,2018-07-02,2018-08-12,Sokratis Papastathopoulos,Arsenal,tier1,2018-07-02,Borussia Dortmund,2018-07-02,0.6994916666666667,12,measured
+2018/2019,31129,65,0,tier1,0.5,tier1,11,1,78,Borussia Mönchengladbach,2018-07-13,2018-08-12,J. Vestergaard,Southampton,tier1,2018-07-13,Borussia Mönchengladbach,2018-07-13,0.5,12,measured
+2018/2019,31342,19,1,none,0.0,keeper: tier1,12,0,78,Bayer 04 Leverkusen,2018-07-01,2018-08-12,Bernd Leno,Arsenal,tier1,2018-07-01,Bayer 04 Leverkusen,2018-07-01,0.4596,12,measured
+2018/2019,31483,78,0,tier1,0.5,tier1,12,0,78,FSV Mainz 05,2018-07-01,2018-08-11,Leon Balogun,Brighton & Hove Albion,tier1,2018-07-01,FSV Mainz 05,2018-07-01,0.14983333333333335,12,measured
+2018/2019,31746,251,0,tier1,0.5,tier1,7,5,78,Borussia Dortmund,2018-07-13,2018-08-11,Erik Durm,Huddersfield Town,tier1,2018-07-13,Borussia Dortmund,2018-07-13,0.7814833333333334,12,measured
+2018/2019,31840,51,0,tier1,0.5,tier1,10,2,78,Schalke 04,2018-08-02,2018-08-11,Max Meyer,Crystal Palace,tier1,2018-08-02,Schalke 04,2018-08-02,0.4878749999999999,12,measured
+2018/2019,32372,20,0,tier1,0.5,tier1,8,4,78,Deportivo A Coruña,2018-07-26,2018-08-11,F. Schär,Newcastle United,tier1,2018-07-26,Deportivo A Coruña,2018-07-26,0.5286166666666666,12,measured
+2018/2019,32391,20,0,tier1,0.5,tier1,11,1,78,FSV Mainz 05,2018-08-02,2018-08-11,Yoshinori Muto,Newcastle United,tier1,2018-08-02,FSV Mainz 05,2018-08-02,0.34460833333333335,12,measured
+2018/2019,32574,42,0,tier1,0.5,tier1,4,8,78,SC Freiburg,2018-08-09,2018-08-18,Caglar Söyüncü,Leicester City,tier1,2018-08-09,SC Freiburg,2018-08-09,0.26414166666666666,12,measured
+2018/2019,32640,8,0,tier1,0.5,tier1,9,3,78,RB Leipzig,2018-07-01,2018-08-12,Naby Keïta,Liverpool,tier1,2018-07-01,RB Leipzig,2018-07-01,0.5148166666666666,12,measured
+2018/2019,32666,78,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2018-07-05,2018-08-11,Bernardo,Brighton & Hove Albion,tier1,2018-07-05,RB Leipzig,2018-07-05,0.10673333333333333,12,measured
+2018/2019,62342,42,0,tier1,0.5,tier1,11,1,78,Monaco,2019-01-31,2019-02-03,Youri Tielemans,Leicester City,tier1,2019-01-31,Monaco,2019-01-31,0.9091333333333332,12,measured
+2018/2019,62423,29,0,tier1,0.5,tier1,4,8,78,Anderlecht,2018-08-09,2018-08-18,Leander Dendoncker,Wolverhampton Wanderers,tier1,2018-08-09,Anderlecht,2018-08-09,0.23905833333333334,12,measured
+2018/2019,63050,251,0,tier1,0.5,tier1,12,0,78,Montpellier,2018-08-09,2018-08-19,Isaac Mbenza,Huddersfield Town,tier1,2018-08-09,Montpellier,2018-08-09,0.20252500000000004,12,measured
+2018/2019,73147,18,0,tier1,0.5,tier1,12,0,78,Real Madrid,2018-08-09,2018-08-18,Mateo Kovacic,Chelsea,tier1,2018-08-09,Real Madrid,2018-08-09,0.5766,12,measured
+2018/2019,95368,13,0,tier1,0.5,tier1,11,1,78,FC Barcelona,2018-08-01,2018-08-11,L. Digne,Everton,tier1,2018-08-01,FC Barcelona,2018-08-01,0.8249166666666667,12,measured
+2018/2019,95860,42,0,tier1,0.5,tier1,11,1,78,Monaco,2018-08-05,2018-08-10,Rachid Ghezzal,Leicester City,tier1,2018-08-05,Monaco,2018-08-05,0.41380833333333333,12,measured
+2018/2019,96099,8,0,tier1,0.5,tier1,9,3,78,Monaco,2018-07-01,2018-08-12,Fabinho,Liverpool,tier1,2018-07-01,Monaco,2018-07-01,0.3609416666666667,12,measured
+2018/2019,96102,29,0,tier1,0.5,tier1,12,0,78,Monaco,2018-07-24,2018-08-11,João Moutinho,Wolverhampton Wanderers,tier1,2018-07-24,Monaco,2018-07-24,0.9491583333333334,12,measured
+2018/2019,96516,11,0,tier1,0.5,tier1,12,0,78,Nice,2018-07-12,2018-08-11,Daniel Karlsson,Fulham,tier1,2018-07-12,Nice,2018-07-12,0.7198666666666668,12,measured
+2018/2019,96518,11,0,tier1,0.5,tier1,12,0,78,Nice,2018-07-12,2018-08-11,Jean Michaël Seri,Fulham,tier1,2018-07-12,Nice,2018-07-12,0.8441083333333333,12,measured
+2018/2019,96775,251,0,tier1,0.5,tier1,8,4,78,Monaco,2018-07-20,2018-08-11,Adama Diakhaby,Huddersfield Town,tier1,2018-07-20,Monaco,2018-07-20,0.27491666666666664,12,measured
+2018/2019,96799,1,0,tier1,0.5,tier1,12,0,78,Toulouse,2018-07-01,2018-08-12,Issa Diop,West Ham United,tier1,2018-07-01,Toulouse,2018-07-01,0.8333333333333334,12,measured
+2018/2019,96804,11,0,tier1,0.5,tier1,11,1,78,Olympique Marseille,2018-08-09,2018-08-18,Frank Anguissa,Fulham,tier1,2018-08-09,Olympique Marseille,2018-08-09,0.5318166666666667,12,measured
+2018/2019,96838,42,0,tier1,0.5,tier1,12,0,78,Porto,2018-07-01,2018-08-10,Ricardo Pereira,Leicester City,tier1,2018-07-01,Porto,2018-07-01,0.802525,12,measured
+2018/2019,96870,78,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2018-07-17,2018-08-11,Yves Bissouma,Brighton & Hove Albion,tier1,2018-07-17,LOSC Lille,2018-07-17,0.4691916666666667,12,measured
+2018/2019,97087,19,0,tier1,0.5,tier1,11,1,78,Lorient,2018-07-11,2018-08-12,Mattéo Guendouzi,Arsenal,tier1,2018-07-11,Lorient,2018-07-11,0.5015166666666666,12,measured
+2018/2019,129454,1,0,tier1,0.5,tier1,12,0,78,Lazio,2018-07-15,2018-08-12,Felipe Anderson,West Ham United,tier1,2018-07-15,Lazio,2018-07-15,0.905725,12,measured
+2018/2019,129501,18,0,tier1,0.5,tier1,12,0,78,Juventus,2019-01-23,2019-01-30,Gonzalo Higuaín,Chelsea,tier1,2019-01-23,Juventus,2019-01-23,0.757575,12,measured
+2018/2019,129511,18,0,tier1,0.5,tier1,12,0,78,Napoli,2018-07-14,2018-08-11,Jorginho,Chelsea,tier1,2018-07-14,Napoli,2018-07-14,0.9449500000000001,12,measured
+2018/2019,129704,25,0,tier1,0.5,tier1,12,0,78,Bologna,2018-07-02,2018-08-11,Adam Masina,Watford,tier1,2018-07-02,Bologna,2018-07-02,0.1766,12,measured
+2018/2019,129820,8,1,none,0.0,keeper: tier1,12,0,78,Roma,2018-07-19,2018-08-12,Alisson,Liverpool,tier1,2018-07-19,Roma,2018-07-19,1.0,12,measured
+2018/2019,129839,78,0,tier1,0.5,tier1,7,5,78,Valencia,2018-08-09,2018-08-19,Martín Montoya,Brighton & Hove Albion,tier1,2018-08-09,Valencia,2018-08-09,1.0,12,measured
+2018/2019,129900,20,0,tier1,0.5,tier1,3,10,89,Monaco,2019-01-31,2019-02-02,Antonio Barreca,Newcastle United,tier1,2019-01-31,Monaco,2019-01-31,0.033,3,measured
+2018/2019,130022,19,0,tier1,0.5,tier1,12,0,78,Sampdoria,2018-07-10,2018-08-12,Lucas Torreira,Arsenal,tier1,2018-07-10,Sampdoria,2018-07-10,0.7457833333333334,12,measured
+2018/2019,150759,65,0,tier2,0.35,tier2,9,3,78,Basel,2018-07-01,2018-08-12,Mohamed Elyounoussi,Southampton,tier2,2018-07-01,Basel,2018-07-01,0.5026916666666666,12,measured
+2018/2019,158453,29,1,none,0.0,keeper: tier1,12,0,78,Sporting CP,2018-07-01,2018-08-11,Rui Patrício,Wolverhampton Wanderers,tier1,2018-07-01,Sporting CP,2018-07-01,1.0,12,measured
+2018/2019,159372,13,0,tier1,0.5,tier1,5,7,78,FC Barcelona,2018-08-09,2018-08-18,André Gomes,Everton,tier1,2018-08-09,FC Barcelona,2018-08-09,0.9148166666666667,12,measured
+2018/2019,160217,29,0,tier1,0.5,tier1,12,0,78,Benfica,2018-07-01,2018-08-11,Raúl Jiménez,Wolverhampton Wanderers,tier1,2018-07-01,Benfica,2018-07-01,0.8858583333333335,12,measured
+2018/2019,160336,1,0,tier1,0.5,tier1,0,12,78,Vitória Guimarães,2018-08-02,2018-08-12,Xande Silva,West Ham United,tier1,2018-08-02,Vitória Guimarães,2018-08-02,0.023030000000000002,10,measured
+2018/2019,164061,14,0,tier1,0.5,tier1,0,12,78,Porto,2018-07-01,2018-08-10,Diogo Dalot,Manchester United,tier1,2018-07-01,Porto,2018-07-01,0.45202499999999995,12,measured
+2018/2019,172357,65,0,tier2,0.35,tier2,9,3,78,Celtic,2018-07-01,2018-08-12,Stuart Armstrong,Southampton,tier2,2018-07-01,Celtic,2018-07-01,0.45,12,measured
+2018/2019,185723,51,1,none,0.0,keeper: tier1,12,0,78,Getafe,2018-07-01,2018-08-11,Vicente Guaita,Crystal Palace,tier1,2018-07-01,Getafe,2018-07-01,0.0,12,measured
+2018/2019,185866,11,1,none,0.0,keeper: tier2,5,7,78,Beşiktaş,2018-07-24,2018-08-11,Fabri,Fulham,tier2,2018-07-24,Beşiktaş,2018-07-24,0.16666666666666666,12,measured
+2018/2019,186187,11,1,none,0.0,keeper: tier1,10,3,88,Sevilla,2018-08-09,2018-08-11,Sergio Rico,Fulham,tier1,2018-08-09,Sevilla,2018-08-09,0.5,12,measured
+2018/2019,186426,29,0,tier1,0.5,tier1,12,0,78,Atlético de Madrid,2018-07-26,2018-08-11,Jonny Castro,Wolverhampton Wanderers,tier1,2018-07-26,Atlético de Madrid,2018-07-26,0.9223916666666666,12,measured
+2018/2019,186484,69,0,tier1,0.5,tier1,12,0,78,Real Betis,2018-08-09,2018-08-11,Víctor Camarasa,Cardiff City,tier1,2018-08-09,Real Betis,2018-08-09,0.8767666666666667,12,measured
+2018/2019,186488,11,0,tier1,0.5,tier1,12,0,78,Atlético de Madrid,2018-08-09,2018-08-11,Luciano Vietto,Fulham,tier1,2018-08-09,Atlético de Madrid,2018-08-09,0.5096,12,measured
+2018/2019,186606,18,1,none,0.0,keeper: tier1,12,0,78,Athletic Club,2018-08-08,2018-08-11,Kepa Arrizabalaga,Chelsea,tier1,2018-08-08,Athletic Club,2018-08-08,1.0,12,measured
+2018/2019,186766,52,0,tier1,0.5,tier1,10,2,78,Levante,2018-08-07,2018-08-11,J. Lerma,AFC Bournemouth,tier1,2018-08-07,Levante,2018-08-07,0.8523583333333334,12,measured
+2018/2019,186805,78,0,tier1,0.5,tier1,6,6,78,Deportivo A Coruña,2018-07-01,2018-08-11,Florin Andone,Brighton & Hove Albion,tier1,2018-07-01,Deportivo A Coruña,2018-07-01,0.3335166666666667,12,measured
+2018/2019,186954,52,0,tier1,0.5,tier1,7,5,78,Leganés,2018-07-24,2018-08-11,Diego Rico,AFC Bournemouth,tier1,2018-07-24,Leganés,2018-07-24,0.27105,12,measured
+2018/2019,187225,25,0,tier1,0.5,tier1,2,10,78,Espanyol,2018-07-01,2018-08-11,Marc Navarro,Watford,tier1,2018-07-01,Espanyol,2018-07-01,0.0932,12,measured
+2018/2019,191301,25,0,tier2,0.35,tier2,11,1,78,Östersunds FK,2018-07-05,2018-08-11,Ken Sema,Watford,tier2,2018-07-05,Östersunds FK,2018-07-05,0.08585833333333333,12,measured
+2018/2019,204697,1,0,tier1,0.5,tier1,9,3,78,Borussia Dortmund,2018-07-11,2018-08-12,Andriy Yarmolenko,West Ham United,tier1,2018-07-11,Borussia Dortmund,2018-07-11,0.5496583333333334,12,measured
+2018/2019,205411,14,0,tier2,0.35,tier2,12,0,78,Shakhtar Donetsk,2018-07-01,2018-08-10,Fred,Manchester United,tier2,2018-07-01,Shakhtar Donetsk,2018-07-01,0.44326666666666664,12,measured
+2018/2019,205595,13,0,tier2,0.35,tier2,10,2,78,Shakhtar Donetsk,2018-08-09,2018-08-18,Bernard,Everton,tier2,2018-08-09,Shakhtar Donetsk,2018-08-09,0.5638083333333334,12,measured
+2018/2019,219591,1,0,tier3,0.25,tier3,12,0,78,Corinthians,2018-07-14,2018-08-12,F. Balbuena,West Ham United,tier3,2018-07-14,Corinthians,2018-07-14,1.0,12,measured
+2018/2019,220040,13,0,tier1,0.5,tier1,5,7,78,FC Barcelona,2018-08-09,2018-08-18,Yerry Mina,Everton,tier1,2018-08-09,FC Barcelona,2018-08-09,0.645625,12,measured
+2018/2019,257663,20,0,tier3,0.25,tier3,10,2,78,Atlanta United,2019-01-31,2019-02-11,M. Almirón,Newcastle United,tier3,2019-01-31,Atlanta United,2019-01-31,0.8575750000000001,12,measured
+2018/2019,339083,52,0,data_club,0.45,data club: Championship,12,0,76,Brentford,2019-01-22,2019-01-30,Chris Mepham,AFC Bournemouth,Championship origin,2019-01-22,Brentford,2019-01-22,0.7473083333333334,12,measured
+2018/2019,498161,29,0,tier2,0.35,tier2,0,12,78,Maidenhead United,2018-08-09,2018-08-18,M. Kilman,Wolverhampton Wanderers,tier2,2018-08-09,Maidenhead United,2018-08-09,0.0023583333333333334,12,measured
+2018/2019,524309,78,0,tier2,0.35,tier2,0,12,78,Molde,2018-08-08,2018-08-11,L. Østigård,Brighton & Hove Albion,tier2,2018-08-08,Molde,2018-08-08,,0,not measured: never named for the club on or after the arrival
+2019/2020,38,15,1,none,0.0,keeper: tier1,12,0,78,AC Milan,2020-01-13,2020-01-18,Pepe Reina,Aston Villa,tier1,2020-01-13,AC Milan,2020-01-13,0.6666666666666666,12,measured
+2019/2020,334,51,0,data_club,0.45,data club: Premier League,2,0,3,Chelsea,2019-08-05,2019-08-10,Gary Cahill,Crystal Palace,PL origin,2019-08-05,Chelsea,2019-08-05,0.8333333333333334,12,measured
+2019/2020,411,21,0,unknown+override,0.45,unknown+override,8,9,162,TBC,2020-01-03,2020-01-10,J. Rodwell,Sheffield United,unknown+override,2020-01-03,TBC,2020-01-03,0.0262625,8,measured
+2019/2020,526,51,0,data_club,0.45,data club: Premier League,5,0,15,Everton,2019-08-08,2019-08-10,James McCarthy,Crystal Palace,PL origin,2019-08-08,Everton,2019-08-08,0.17306666666666667,12,measured
+2019/2020,627,25,0,data_club,0.45,data club: Premier League,2,1,5,Arsenal,2019-08-07,2019-08-10,Danny Welbeck,Watford,PL origin,2019-08-07,Arsenal,2019-08-07,0.2952833333333334,12,measured
+2019/2020,812,27,0,data_club,0.45,data club: Championship,12,0,78,Stoke City,2019-07-08,2019-08-10,Erik Pieters,Burnley,Championship origin,2019-07-08,Stoke City,2019-07-08,0.8395666666666667,12,measured
+2019/2020,921,15,0,data_club,0.45,data club: Premier League,2,0,3,Chelsea,2020-01-07,2020-01-12,Danny Drinkwater,Aston Villa,PL origin,2020-01-07,Chelsea,2020-01-07,0.39780000000000004,7,measured
+2019/2020,921,27,0,data_club,0.45,data club: Premier League,1,11,77,Chelsea,2019-08-08,2019-08-17,Danny Drinkwater,Burnley,PL origin,2019-08-08,Chelsea,2019-08-08,0.0698111111111111,9,measured
+2019/2020,937,20,0,tier1,0.5,tier1,12,0,78,Schalke 04,2020-01-21,2020-02-01,Nabil Bentaleb,Newcastle United,tier1,2020-01-21,Schalke 04,2020-01-21,0.5762666666666666,12,measured
+2019/2020,1012,21,0,data_club,0.45,data club: Premier League,12,1,85,Everton,2019-08-08,2019-08-10,Muhamed Besic,Sheffield United,PL origin,2019-08-08,Everton,2019-08-08,0.012458333333333333,12,measured
+2019/2020,1022,21,0,data_club,0.45,data club: Championship,11,3,110,Nottingham Forest,2020-01-21,2020-02-01,Jack Robinson,Sheffield United,Championship origin,2020-01-21,Nottingham Forest,2020-01-21,0.4656583333333333,12,measured
+2019/2020,1152,27,0,data_club,0.45,data club: Championship,12,0,78,West Bromwich Albion,2019-07-09,2019-08-10,Jay Rodríguez,Burnley,Championship origin,2019-07-09,West Bromwich Albion,2019-07-09,0.411275,12,measured
+2019/2020,1183,25,0,data_club,0.45,data club: Championship,12,0,78,West Bromwich Albion,2019-07-01,2019-08-10,Craig Dawson,Watford,Championship origin,2019-07-01,West Bromwich Albion,2019-07-01,0.949325,12,measured
+2019/2020,1248,14,0,tier3,0.25,tier3,12,0,78,Shanghai Shenhua,2020-01-31,2020-02-17,Odion Ighalo,Manchester United,tier3,2020-01-31,Shanghai Shenhua,2020-01-31,0.12374166666666665,12,measured
+2019/2020,1252,21,0,tier2,0.35,tier2,2,10,78,Östersunds FK,2019-07-16,2019-08-10,Ravel Morrison,Sheffield United,tier2,2019-07-16,Östersunds FK,2019-07-16,0.0899,2,measured
+2019/2020,1263,51,1,none,0.0,keeper: data club: Championship,2,10,78,Nottingham Forest,2019-07-06,2019-08-10,Stephen Henderson,Crystal Palace,Championship origin,2019-07-06,Nottingham Forest,2019-07-06,0.0,7,measured
+2019/2020,1592,1,0,data_club,0.45,data club: Championship,12,0,78,Hull City,2020-01-31,2020-02-19,Jarrod Bowen,West Ham United,Championship origin,2020-01-31,Hull City,2020-01-31,0.7944416666666666,12,measured
+2019/2020,1791,8,1,none,0.0,keeper: data club: Championship,1,11,13,Middlesbrough,2019-08-12,2019-08-17,Andy Lonergan,Liverpool,Championship origin,2019-08-12,Middlesbrough,2019-08-12,0.0,2,measured
+2019/2020,1928,33,0,data_club,0.45,data club: Premier League,12,0,78,West Ham United,2019-07-16,2019-08-09,S. Byram,Norwich City,PL origin,2019-07-16,West Ham United,2019-07-16,0.19663333333333335,12,measured
+2019/2020,3143,27,0,data_club,0.45,data club: Championship,12,1,90,Bristol City,2020-01-30,2020-02-02,Josh Brownhill,Burnley,Championship origin,2020-01-30,Bristol City,2020-01-30,0.6616166666666666,12,measured
+2019/2020,3146,21,0,data_club,0.45,data club: Championship,12,0,78,Queens Park Rangers,2019-07-03,2019-08-10,Luke Freeman,Sheffield United,Championship origin,2019-07-03,Queens Park Rangers,2019-07-03,0.2420916666666667,12,measured
+2019/2020,3230,21,0,data_club,0.45,data club: Championship,12,8,104,Nottingham Forest,2019-07-26,2019-08-10,Ben Osborn,Sheffield United,Championship origin,2019-07-26,Nottingham Forest,2019-07-26,0.061616666666666674,12,measured
+2019/2020,3298,78,0,data_club,0.45,data club: Championship,12,1,13,Huddersfield Town,2019-08-08,2019-08-10,Aaron Mooy,Brighton & Hove Albion,Championship origin,2019-08-08,Huddersfield Town,2019-08-08,0.33754166666666663,12,measured
+2019/2020,3530,21,0,data_club,0.45,data club: Championship,12,0,78,Preston North End,2019-07-12,2019-08-10,Callum Robinson,Sheffield United,Championship origin,2019-07-12,Preston North End,2019-07-12,0.5006833333333333,12,measured
+2019/2020,3596,65,0,data_club,0.45,data club: Championship,12,2,85,Birmingham City,2019-07-01,2019-08-10,Ché Adams,Southampton,Championship origin,2019-07-01,Birmingham City,2019-07-01,0.4281166666666667,12,measured
+2019/2020,4277,33,0,data_club,0.45,data club: Premier League,5,7,78,Manchester City,2019-07-01,2019-08-09,P. Roberts,Norwich City,PL origin,2019-07-01,Manchester City,2019-07-01,0.058300000000000005,7,measured
+2019/2020,4337,9,0,tier1,0.5,tier1,8,4,78,PSV,2019-07-03,2019-08-10,Angeliño,Manchester City,tier1,2019-07-03,PSV,2019-07-03,0.3952833333333334,12,measured
+2019/2020,4746,21,0,data_club,0.45,data club: Championship,12,0,78,Swansea City,2019-08-02,2019-08-10,Oliver McBurnie,Sheffield United,Championship origin,2019-08-02,Swansea City,2019-08-02,0.4467999999999999,12,measured
+2019/2020,4881,15,0,data_club,0.45,data club: Championship,5,8,109,Swansea City,2020-01-31,2020-02-16,Borja Bastón,Aston Villa,Championship origin,2020-01-31,Swansea City,2020-01-31,0.0561,5,measured
+2019/2020,5149,14,0,data_club,0.45,data club: Championship,12,0,78,Swansea City,2019-07-01,2019-08-11,Daniel James,Manchester United,Championship origin,2019-07-01,Swansea City,2019-07-01,0.8986500000000001,12,measured
+2019/2020,5403,52,0,data_club,0.45,data club: Premier League,12,0,78,Liverpool,2019-08-06,2019-08-10,Harry Wilson,AFC Bournemouth,PL origin,2019-08-06,Liverpool,2019-08-06,0.641925,12,measured
+2019/2020,5917,52,0,data_club,0.45,data club: Championship,7,5,78,Luton Town,2019-07-08,2019-08-10,Jack Stacey,AFC Bournemouth,Championship origin,2019-07-08,Luton Town,2019-07-08,0.4801333333333333,12,measured
+2019/2020,6504,78,0,data_club,0.45,data club: Championship,12,1,79,Bristol City,2019-08-03,2019-08-10,Adam Webster,Brighton & Hove Albion,Championship origin,2019-08-03,Bristol City,2019-08-03,0.6969666666666666,12,measured
+2019/2020,7124,15,0,data_club,0.45,data club: Championship,12,0,78,Brentford,2019-07-11,2019-08-10,E. Konsa,Aston Villa,Championship origin,2019-07-11,Brentford,2019-07-11,0.10084166666666666,12,measured
+2019/2020,7577,42,0,tier1,0.5,tier1,0,12,78,OH Leuven,2019-07-05,2019-08-11,George Hirst,Leicester City,tier1,2019-07-05,OH Leuven,2019-07-05,0.07303333333333334,3,measured
+2019/2020,7655,52,0,data_club,0.45,data club: Championship,12,24,293,Bristol City,2019-07-01,2019-08-10,Lloyd Kelly,AFC Bournemouth,Championship origin,2019-07-01,Bristol City,2019-07-01,0.42828333333333335,12,measured
+2019/2020,7855,20,1,none,0.0,keeper: tier2,0,5,50,Motherwell,2020-07-03,2020-07-08,Mark Gillespie,Newcastle United,tier2,2020-07-03,Motherwell,2020-07-03,0.0,12,measured
+2019/2020,12514,42,0,data_club,0.45,data club: Championship,12,0,78,Luton Town,2019-07-01,2019-08-11,J. Justin,Leicester City,Championship origin,2019-07-01,Luton Town,2019-07-01,0.0,12,measured
+2019/2020,13355,25,0,data_club,0.45,data club: Championship,0,12,78,Leeds,2019-07-12,2019-08-10,Sam Dalby,Watford,Championship origin,2019-07-12,Leeds,2019-07-12,0.0,2,measured
+2019/2020,24391,20,0,tier1,0.5,tier1,11,1,78,Eintracht Frankfurt,2019-08-02,2019-08-11,Jetro Willems,Newcastle United,tier1,2019-08-02,Eintracht Frankfurt,2019-08-02,0.7661583333333333,12,measured
+2019/2020,24927,21,0,tier3,0.25,tier3,8,4,78,Changchun Yatai,2020-01-31,2020-02-09,Richairo Živković,Sheffield United,tier3,2020-01-31,Changchun Yatai,2020-01-31,0.15263333333333332,9,measured
+2019/2020,25126,15,0,tier1,0.5,tier1,8,4,78,Club Brugge,2019-08-01,2019-08-10,M. Nakamba,Aston Villa,tier1,2019-08-01,Club Brugge,2019-08-01,0.75825,12,measured
+2019/2020,25499,1,0,tier1,0.5,tier1,11,1,78,Eintracht Frankfurt,2019-07-17,2019-08-10,Sébastien Haller,West Ham United,tier1,2019-07-17,Eintracht Frankfurt,2019-07-17,1.0,12,measured
+2019/2020,25776,6,0,tier1,0.5,tier1,12,0,78,PSV,2020-01-29,2020-02-02,Steven Bergwijn,Tottenham Hotspur,tier1,2020-01-29,PSV,2020-01-29,0.6112833333333333,12,measured
+2019/2020,26085,21,1,none,0.0,keeper: tier1,1,11,78,Mechelen,2019-08-08,2019-08-18,Michael Verrips,Sheffield United,tier1,2019-08-08,Mechelen,2019-08-08,0.0,12,measured
+2019/2020,26491,52,0,tier1,0.5,tier1,6,6,78,Club Brugge,2019-08-01,2019-08-10,Arnaut Danjuma,AFC Bournemouth,tier1,2019-08-01,Club Brugge,2019-08-01,0.4553833333333333,12,measured
+2019/2020,30554,33,1,none,0.0,keeper: tier1,8,4,78,Schalke 04,2019-07-05,2019-08-09,Ralf Fährmann,Norwich City,tier1,2019-07-05,Schalke 04,2019-07-05,0.018516666666666667,12,measured
+2019/2020,31280,33,0,tier1,0.5,tier1,12,0,78,TSG Hoffenheim,2020-01-13,2020-01-18,Lukas Rupp,Norwich City,tier1,2020-01-13,TSG Hoffenheim,2020-01-13,0.43165000000000003,12,measured
+2019/2020,31771,33,0,tier1,0.5,tier1,10,2,78,Borussia Mönchengladbach,2019-07-01,2019-08-09,Josip Drmic,Norwich City,tier1,2019-07-01,Borussia Mönchengladbach,2019-07-01,0.1532,12,measured
+2019/2020,32421,13,0,tier1,0.5,tier1,2,10,78,FSV Mainz 05,2019-08-02,2019-08-10,Jean-Philippe Gbamin,Everton,tier1,2019-08-02,FSV Mainz 05,2019-08-02,0.1822166666666667,12,measured
+2019/2020,32508,20,0,tier1,0.5,tier1,9,3,78,Nice,2019-08-02,2019-08-11,Allan Saint-Maximin,Newcastle United,tier1,2019-08-02,Nice,2019-08-02,0.6531916666666667,12,measured
+2019/2020,32536,29,0,tier1,0.5,tier1,7,5,78,Real Madrid,2019-07-27,2019-08-11,Vallejo,Wolverhampton Wanderers,tier1,2019-07-27,Real Madrid,2019-07-27,0.15151666666666666,12,measured
+2019/2020,33079,65,0,tier1,0.5,tier1,10,2,78,FC Augsburg,2019-08-08,2019-08-17,Kevin Danso,Southampton,tier1,2019-08-08,FC Augsburg,2019-08-08,0.25993333333333335,12,measured
+2019/2020,33645,20,0,tier1,0.5,tier1,12,0,78,TSG Hoffenheim,2019-07-23,2019-08-11,Joelinton,Newcastle United,tier1,2019-07-23,TSG Hoffenheim,2019-07-23,0.8716583333333333,12,measured
+2019/2020,33792,1,0,tier2,0.35,tier2,12,0,78,Basel,2019-08-08,2019-08-17,Albian Ajeti,West Ham United,tier2,2019-08-08,Basel,2019-08-08,0.096125,12,measured
+2019/2020,33793,33,0,tier1,0.5,tier1,12,0,78,Hertha BSC,2020-01-12,2020-01-18,Ondrej Duda,Norwich City,tier1,2020-01-12,Hertha BSC,2020-01-12,0.6574083333333334,12,measured
+2019/2020,52296,20,0,tier1,0.5,tier1,11,1,78,Inter,2020-01-24,2020-02-01,Valentino Lazaro,Newcastle United,tier1,2020-01-24,Inter,2020-01-24,0.3794583333333333,12,measured
+2019/2020,52671,8,0,tier2,0.35,tier2,11,1,78,Salzburg,2020-01-01,2020-01-11,Takumi Minamino,Liverpool,tier2,2020-01-01,Salzburg,2020-01-01,0.14849166666666666,12,measured
+2019/2020,61654,42,0,tier1,0.5,tier1,12,0,78,Sampdoria,2019-08-08,2019-08-11,Dennis Praet,Leicester City,tier1,2019-08-08,Sampdoria,2019-08-08,0.2748916666666667,12,measured
+2019/2020,61780,78,0,tier1,0.5,tier1,8,4,78,Genk,2019-07-01,2019-08-10,Leandro Trossard,Brighton & Hove Albion,tier1,2019-07-01,Genk,2019-07-01,0.5099916666666666,12,measured
+2019/2020,62122,15,0,tier1,0.5,tier1,11,1,78,Reims,2019-07-16,2019-08-10,Björn Engels,Aston Villa,tier1,2019-07-16,Reims,2019-07-16,0.8991583333333333,12,measured
+2019/2020,62600,15,0,tier1,0.5,tier1,12,0,78,Genk,2020-01-20,2020-02-01,Ally Samatta,Aston Villa,tier1,2020-01-20,Genk,2020-01-20,0.7414666666666667,12,measured
+2019/2020,62865,15,0,tier1,0.5,tier1,12,0,78,Club Brugge,2019-07-01,2019-08-10,Wesley Moraes,Aston Villa,tier1,2019-07-01,Club Brugge,2019-07-01,0.9201999999999999,12,measured
+2019/2020,62879,15,0,tier2,0.35,tier2,11,1,78,Kasımpaşa,2019-07-24,2019-08-10,Mahmoud Trezeguet,Aston Villa,tier2,2019-07-24,Kasımpaşa,2019-07-24,0.6375416666666667,12,measured
+2019/2020,64193,21,0,tier1,0.5,tier1,12,0,78,Genk,2020-01-30,2020-02-01,Sander Berge,Sheffield United,tier1,2020-01-30,Genk,2020-01-30,0.6978166666666666,12,measured
+2019/2020,80655,1,0,tier2,0.35,tier2,11,1,78,Slavia Praha,2020-01-29,2020-02-01,Tomas Soucek,West Ham United,tier2,2020-01-29,Slavia Praha,2020-01-29,0.8789583333333333,12,measured
+2019/2020,95699,13,0,tier1,0.5,tier1,9,3,78,Monaco,2019-08-07,2019-08-10,Djibril Sidibé,Everton,tier1,2019-08-07,Monaco,2019-08-07,0.53535,12,measured
+2019/2020,95711,33,0,tier1,0.5,tier1,10,2,78,Sevilla,2019-08-07,2019-08-17,I. Amadou,Norwich City,tier1,2019-08-07,Sevilla,2019-08-07,0.6835083333333333,12,measured
+2019/2020,95776,78,0,data_club,0.45,data club: Championship,12,0,78,Brentford,2019-08-05,2019-08-10,Neal Maupay,Brighton & Hove Albion,Championship origin,2019-08-05,Brentford,2019-08-05,0.7927583333333333,12,measured
+2019/2020,96656,19,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2019-08-01,2019-08-11,Nicolas Pépé,Arsenal,tier1,2019-08-01,LOSC Lille,2019-08-01,0.6851833333333333,12,measured
+2019/2020,96722,25,0,tier1,0.5,tier1,8,4,78,Rennes,2019-08-08,2019-08-17,Ismaïla Sarr,Watford,tier1,2019-08-08,Rennes,2019-08-08,0.5203666666666666,12,measured
+2019/2020,97664,6,0,tier1,0.5,tier1,7,5,78,Real Betis,2019-08-08,2019-08-17,Giovani Lo Celso,Tottenham Hotspur,tier1,2019-08-08,Real Betis,2019-08-08,0.1802166666666667,12,measured
+2019/2020,99148,6,0,tier1,0.5,tier1,10,2,78,Olympique Lyonnais,2019-07-02,2019-08-10,Tanguy Ndombélé,Tottenham Hotspur,tier1,2019-07-02,Olympique Lyonnais,2019-07-02,0.6086750000000001,12,measured
+2019/2020,108842,1,1,none,0.0,keeper: tier1,12,0,78,Espanyol,2019-07-01,2019-08-10,Roberto,West Ham United,tier1,2019-07-01,Espanyol,2019-07-01,0.4713833333333333,12,measured
+2019/2020,109354,21,0,tier1,0.5,tier1,3,3,57,Bayer 04 Leverkusen,2020-01-31,2020-02-09,Panagiotis Retsos,Sheffield United,tier1,2020-01-31,Bayer 04 Leverkusen,2020-01-31,0.0,3,measured
+2019/2020,129602,14,0,tier1,0.5,tier1,12,0,78,Sporting CP,2020-01-29,2020-02-01,Bruno Fernandes,Manchester United,tier1,2020-01-29,Sporting CP,2020-01-29,0.9193583333333334,12,measured
+2019/2020,129966,20,0,tier1,0.5,tier1,12,0,78,Amiens SC,2019-08-08,2019-08-11,Emil Krafth,Newcastle United,tier1,2019-08-08,Amiens SC,2019-08-08,0.38232499999999997,12,measured
+2019/2020,133769,13,0,tier1,0.5,tier1,11,1,78,Juventus,2019-08-04,2019-08-10,Moise Kean,Everton,tier1,2019-08-04,Juventus,2019-08-04,0.28686666666666666,12,measured
+2019/2020,133805,29,0,tier1,0.5,tier1,12,0,78,AC Milan,2019-07-30,2019-08-11,Patrick Cutrone,Wolverhampton Wanderers,tier1,2019-07-30,AC Milan,2019-07-30,0.2730666666666666,12,measured
+2019/2020,160834,29,0,tier2,0.35,tier2,12,1,82,Olympiacos F.C.,2020-01-30,2020-02-01,Daniel Podence,Wolverhampton Wanderers,tier2,2020-01-30,Olympiacos F.C.,2020-01-30,0.24461666666666662,12,measured
+2019/2020,160956,9,0,tier1,0.5,tier1,12,0,78,Juventus,2019-08-07,2019-08-10,João Cancelo,Manchester City,tier1,2019-08-07,Juventus,2019-08-07,0.2900666666666667,12,measured
+2019/2020,163516,29,0,tier1,0.5,tier1,0,12,78,Lazio,2019-08-02,2019-08-11,Bruno Jordão,Wolverhampton Wanderers,tier1,2019-08-02,Lazio,2019-08-02,0.009933333333333334,12,measured
+2019/2020,164132,6,0,tier1,0.5,tier1,12,0,78,Benfica,2020-01-15,2020-01-18,Gedson Fernandes,Tottenham Hotspur,tier1,2020-01-15,Benfica,2020-01-15,0.0791,12,measured
+2019/2020,172960,19,0,tier2,0.35,tier2,5,7,78,Celtic,2019-08-08,2019-08-11,Kieran Tierney,Arsenal,tier2,2019-08-08,Celtic,2019-08-08,0.4218833333333332,12,measured
+2019/2020,186159,19,0,tier3,0.25,tier3,2,11,117,Flamengo,2020-07-01,2020-02-02,Pablo Marí,Arsenal,tier3,2020-01-29,Flamengo,2020-07-01,0.6666666666666666,12,measured
+2019/2020,186734,19,0,tier1,0.5,tier1,11,1,78,Real Madrid,2019-07-25,2019-08-11,Dani Ceballos,Arsenal,tier1,2019-07-25,Real Madrid,2019-07-25,0.6070666666666666,12,measured
+2019/2020,186815,1,0,tier1,0.5,tier1,12,0,78,Villarreal,2019-07-01,2019-08-10,Pablo Fornals,West Ham United,tier1,2019-07-01,Villarreal,2019-07-01,0.45336666666666664,12,measured
+2019/2020,186910,9,0,tier1,0.5,tier1,10,2,78,Atlético de Madrid,2019-07-04,2019-08-10,Rodri,Manchester City,tier1,2019-07-04,Atlético de Madrid,2019-07-04,0.8232333333333334,12,measured
+2019/2020,225000,15,0,data_club,0.45,data club: Premier League,11,1,78,Manchester City,2019-07-25,2019-08-10,Douglas Luiz,Aston Villa,PL origin,2019-07-25,Manchester City,2019-07-25,0.5989916666666667,12,measured
+2019/2020,333416,25,0,tier1,0.5,tier1,10,2,78,Udinese,2020-01-14,2020-01-18,Ignacio Pussetto,Watford,tier1,2020-01-14,Udinese,2020-01-14,0.090575,12,measured
+2019/2020,496775,29,0,tier1,0.5,tier1,10,2,78,Lazio,2019-08-02,2019-08-11,Pedro Neto,Wolverhampton Wanderers,tier1,2019-08-02,Lazio,2019-08-02,0.15555833333333333,12,measured
+2019/2020,978883,65,0,tier1,0.5,tier1,6,6,78,Standard Liège,2019-07-01,2019-08-10,M. Djenepo,Southampton,tier1,2019-07-01,Standard Liège,2019-07-01,0.5483499999999999,12,measured
+2019/2020,2206678,33,0,tier2,0.35,tier2,0,12,78,Rochdale,2019-07-01,2019-08-09,Daniel Adshead,Norwich City,tier2,2019-07-01,Rochdale,2019-07-01,0.0,1,measured
+2019/2020,2823509,25,0,tier2,0.0,tier2,0,12,78,Manchester City U21,2019-07-24,2019-08-10,T. Dele-Bashiru,Watford,tier2,2019-07-24,Manchester City U21,2019-07-24,0.15716666666666668,12,measured
+2019/2020,9308200,78,0,data_club,0.45,data club: Premier League,8,4,75,Chelsea,2020-01-31,2020-02-08,Tariq Lamptey,Brighton & Hove Albion,PL origin,2020-01-31,Chelsea,2020-01-31,0.7571666666666667,12,measured
+2019/2020,10959356,19,0,tier3,0.25,tier3,10,2,78,Ituano,2019-07-02,2019-08-11,Gabriel Martinelli,Arsenal,tier3,2019-07-02,Ituano,2019-07-02,0.09915833333333333,12,measured
+2019/2020,11658171,8,0,tier1,0.5,tier1,0,12,78,PEC Zwolle,2019-07-01,2019-08-09,Sepp van den Berg,Liverpool,tier1,2019-07-01,PEC Zwolle,2019-07-01,0.0,4,measured
+2019/2020,16136250,27,1,none,0.0,keeper: unknown,0,12,78,Hellerup IK,2019-08-10,2019-08-17,Lukas Jensen,Burnley,unknown,2019-08-10,Hellerup IK,2019-08-10,0.0,3,measured
+2019/2020,19625221,1,0,unknown+override,0.5,unknown+override,0,12,78,Boavista,2019-08-06,2019-08-10,Gonçalo Cardoso,West Ham United,unknown+override,2019-08-06,Boavista,2019-08-06,0.0,3,measured
+2019/2020,23269836,8,0,unknown+override,0.0,unknown+override,1,11,63,Fulham U18,2019-07-28,2019-08-09,H. Elliott,Liverpool,unknown+override,2019-07-28,Fulham U18,2019-07-28,0.011091666666666666,12,measured
+2019/2020,28912777,15,0,data_club,0.45,data club: no arrival on or before the date,0,38,456,,,2019-08-10,Cameron Archer,Aston Villa,"data club, arrival record dated after the fixture",2024-07-11,Sheffield United,2024-07-11,,0,not measured: never named for the club on or after the arrival
+2019/2020,28931574,25,0,tier3,0.25,tier3,4,8,78,Fluminense,2020-01-01,2020-01-12,João Pedro,Watford,tier3,2020-01-01,Fluminense,2020-01-01,0.270725,12,measured
+2019/2020,29336847,29,0,tier3,0.25,tier3,2,10,78,Barcelona Guayaquil,2020-01-21,2020-02-01,L. Campana,Wolverhampton Wanderers,tier3,2020-01-21,Barcelona Guayaquil,2020-01-21,0.0,2,measured
+2019/2020,32404895,13,0,tier2,0.35,tier2,5,7,78,Carlisle United,2020-01-13,2020-01-18,Jarrad Branthwaite,Everton,tier2,2020-01-13,Carlisle United,2020-01-13,0.27929166666666666,12,measured
+2021/2022,105,9,1,none,0.0,keeper: data club: Championship,6,6,66,Derby County,2021-07-20,2021-08-15,Scott Carson,Manchester City,Championship origin,2019-08-08,Derby County,2021-07-20,0.0,12,measured
+2021/2022,165,15,0,tier1,0.5,tier1,12,0,78,Inter,2021-07-01,2021-08-14,Ashley Young,Aston Villa,tier1,2007-01-23,Watford,2021-07-01,0.34421666666666667,12,measured
+2021/2022,244,27,0,tier2,0.35,tier2,11,1,78,Kayserispor,2021-08-25,2021-08-29,Aaron Lennon,Burnley,tier2,2018-01-23,Everton,2021-08-25,0.11562499999999999,12,measured
+2021/2022,519,27,1,none,0.0,keeper: data club: Premier League,7,0,28,Crystal Palace,2021-07-20,2021-08-14,Wayne Hennessey,Burnley,PL origin,2021-07-20,Crystal Palace,2021-07-20,0.0,12,measured
+2021/2022,580,14,0,tier1,0.5,tier1,12,0,78,Juventus,2021-08-31,2021-09-11,Cristiano Ronaldo,Manchester United,tier1,2003-08-12,Sporting CP,2021-08-31,0.8667999999999999,12,measured
+2021/2022,810,15,0,tier1,0.5,tier1,12,0,78,FC Barcelona,2022-01-07,2022-01-15,Philippe Coutinho,Aston Villa,tier1,2022-01-07,FC Barcelona,2022-01-07,0.8351833333333335,12,measured
+2021/2022,992,236,0,unknown+override,0.5,unknown+override,8,4,78,TBC,2022-01-31,2022-02-09,Christian Eriksen,Brentford,unknown+override,2022-01-31,TBC,2022-01-31,0.9489818181818183,11,measured
+2021/2022,995,18,0,tier1,0.5,tier1,8,4,78,Inter,2021-08-12,2021-08-22,Romelu Lukaku,Chelsea,tier1,2011-08-08,Anderlecht,2021-08-12,0.6935916666666665,12,measured
+2021/2022,1016,20,0,tier1,0.5,tier1,4,8,78,Atlético de Madrid,2022-01-07,2022-01-15,Kieran Trippier,Newcastle United,tier1,2022-01-07,Atlético de Madrid,2022-01-07,0.8119999999999999,12,measured
+2021/2022,1271,25,0,data_club,0.45,data club: Premier League,11,1,78,Tottenham Hotspur,2021-07-01,2021-08-14,Danny Rose,Watford,PL origin,2009-03-24,Tottenham Hotspur,2021-07-01,0.5,12,measured
+2021/2022,1440,65,1,none,0.0,keeper: unknown,5,0,15,TBC,2021-12-06,2021-12-11,Willy Caballero,Southampton,unknown,2021-12-06,TBC,2021-12-06,0.16666666666666666,12,measured
+2021/2022,1572,13,0,tier1,0.5,tier1,11,0,66,Bayer 04 Leverkusen,2021-07-22,2021-08-14,Demarai Gray,Everton,tier1,2021-07-22,Bayer 04 Leverkusen,2021-07-22,0.8651333333333331,12,measured
+2021/2022,1651,13,0,tier3,0.25,tier3,11,1,78,Dalian Pro,2021-08-31,2021-09-13,Salomón Rondón,Everton,tier3,2021-08-31,Dalian Pro,2021-08-31,0.6010166666666668,12,measured
+2021/2022,1791,13,1,none,0.0,keeper: data club: Championship,4,1,13,West Bromwich Albion,2021-08-20,2021-08-28,Andy Lonergan,Everton,Championship origin,2021-08-20,West Bromwich Albion,2021-08-20,0.0,12,measured
+2021/2022,2332,51,0,data_club,0.45,data club: Premier League,12,2,90,Watford,2021-08-28,2021-09-11,Will Hughes,Crystal Palace,PL origin,2021-08-28,Watford,2021-08-28,0.16065,12,measured
+2021/2022,2951,65,0,data_club,0.45,data club: Championship,12,0,78,Blackburn Rovers,2021-08-10,2021-08-14,Adam Armstrong,Southampton,Championship origin,2021-08-10,Blackburn Rovers,2021-08-10,0.8058333333333333,12,measured
+2021/2022,4701,25,0,data_club,0.45,data club: Championship,12,3,103,Middlesbrough,2021-07-01,2021-08-14,Ashley Fletcher,Watford,Championship origin,2021-07-01,Middlesbrough,2021-07-01,0.03398333333333333,12,measured
+2021/2022,5410,27,0,data_club,0.45,data club: Championship,12,10,182,Swansea City,2021-08-31,2021-09-13,Connor Roberts,Burnley,Championship origin,2021-08-31,Swansea City,2021-08-31,0.6828249999999999,12,measured
+2021/2022,6588,6,1,none,0.0,keeper: tier1,12,0,78,Atalanta,2021-07-24,2021-08-15,Pierluigi Gollini,Tottenham Hotspur,tier1,2021-07-24,Atalanta,2021-07-24,0.0,12,measured
+2021/2022,9278,51,1,none,0.0,"keeper: data club: data club, neither league that season",1,11,78,Sunderland,2021-07-12,2021-08-14,Remi Matthews,Crystal Palace,data club in neither league that season,2021-07-12,Sunderland,2021-07-12,0.0,12,measured
+2021/2022,24613,236,0,tier2,0.35,tier2,8,5,82,Fenerbahçe,2021-09-09,2021-09-11,Zanka,Brentford,tier2,2021-09-09,Fenerbahçe,2021-09-09,0.40198333333333336,12,measured
+2021/2022,25317,27,0,tier1,0.5,tier1,12,0,78,VfL Wolfsburg,2022-01-31,2022-02-05,Wout Weghorst,Burnley,tier1,2022-01-31,VfL Wolfsburg,2022-01-31,0.8837583333333332,12,measured
+2021/2022,25589,33,0,tier1,0.5,tier1,12,0,78,Werder Bremen,2021-07-01,2021-08-14,Milot Rashica,Norwich City,tier1,2021-07-01,Werder Bremen,2021-07-01,0.6733916666666667,12,measured
+2021/2022,29470,78,1,none,0.0,keeper: tier1,2,10,78,Ajax,2021-07-16,2021-08-14,Kjell Scherpen,Brighton & Hove Albion,tier1,2021-07-16,Ajax,2021-07-16,0.0,8,measured
+2021/2022,32408,236,1,none,0.0,keeper: tier2,4,0,10,FC Midtjylland,2022-01-01,2022-01-11,Jonas Lössl,Brentford,tier2,2022-01-01,FC Midtjylland,2022-01-01,0.16666666666666666,12,measured
+2021/2022,33716,15,0,tier1,0.5,tier1,7,5,78,Bayer 04 Leverkusen,2021-08-04,2021-08-14,Leon Bailey,Aston Villa,tier1,2021-08-04,Bayer 04 Leverkusen,2021-08-04,0.43069166666666664,12,measured
+2021/2022,52868,29,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2021-08-29,2021-09-11,Hee-chan Hwang,Wolverhampton Wanderers,tier1,2021-08-29,RB Leipzig,2021-08-29,0.8546583333333334,12,measured
+2021/2022,55485,42,0,tier2,0.35,tier2,12,0,78,Salzburg,2021-07-01,2021-08-14,Patson Daka,Leicester City,tier2,2021-07-01,Salzburg,2021-07-01,0.105475,12,measured
+2021/2022,62927,25,0,tier1,0.5,tier1,7,5,78,Bordeaux,2022-01-26,2022-02-05,Samuel Kalu,Watford,tier1,2022-01-26,Bordeaux,2022-01-26,0.20424166666666665,12,measured
+2021/2022,73906,1,0,tier2,0.35,tier2,11,1,78,CSKA Moskva,2021-08-31,2021-09-11,Nikola Vlašić,West Ham United,tier2,2021-08-31,CSKA Moskva,2021-08-31,0.14711666666666665,12,measured
+2021/2022,79268,25,0,tier1,0.5,tier1,10,2,78,Parma,2021-08-06,2021-08-14,Juraj Kucka,Watford,tier1,2021-08-06,Parma,2021-08-06,0.841725,12,measured
+2021/2022,82032,1,0,tier2,0.35,tier2,9,3,78,Spartak Moskva,2021-08-31,2021-09-11,Alex Král,West Ham United,tier2,2021-08-31,Spartak Moskva,2021-08-31,0.0,12,measured
+2021/2022,94939,25,0,unknown+override,0.5,unknown+override,4,8,78,TBC,2021-10-07,2021-10-16,Nicolas N'Koulou,Watford,unknown+override,2021-10-07,TBC,2021-10-07,0.37348,5,measured
+2021/2022,95807,14,0,tier1,0.5,tier1,7,5,78,Real Madrid,2021-08-14,2021-08-22,Raphaël Varane,Manchester United,tier1,2021-08-14,Real Madrid,2021-08-14,0.8570166666666666,12,measured
+2021/2022,96642,27,0,tier1,0.5,tier1,10,2,78,Olympique Lyonnais,2021-08-29,2021-09-13,Maxwel Cornet,Burnley,tier1,2021-08-29,Olympique Lyonnais,2021-08-29,0.6372166666666668,12,measured
+2021/2022,96792,51,0,tier2,0.35,tier2,12,0,78,Celtic,2021-08-31,2021-09-11,Odsonne Édouard,Crystal Palace,tier2,2021-08-31,Celtic,2021-08-31,0.5731166666666667,12,measured
+2021/2022,96826,33,0,tier1,0.5,tier1,12,0,78,Nice,2021-07-13,2021-08-14,Pierre Lees-Melou,Norwich City,tier1,2021-07-13,Nice,2021-07-13,0.6787000000000001,12,measured
+2021/2022,96928,236,0,tier1,0.5,tier1,7,5,78,Lorient,2021-08-10,2021-08-13,Yoane Wissa,Brentford,tier1,2021-08-10,Lorient,2021-08-10,0.22083333333333333,12,measured
+2021/2022,97608,25,0,tier1,0.5,tier1,12,0,78,Nice,2022-01-04,2022-01-15,Hassane Kamara,Watford,tier1,2022-01-04,Nice,2022-01-04,0.9836416666666666,12,measured
+2021/2022,100556,8,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2021-07-01,2021-08-14,Ibrahima Konaté,Liverpool,tier1,2021-07-01,RB Leipzig,2021-07-01,0.25,12,measured
+2021/2022,129790,25,0,tier1,0.5,tier1,12,0,78,Udinese,2022-01-06,2022-01-15,Samir Caetano,Watford,tier1,2022-01-06,Udinese,2022-01-06,0.9974250000000001,12,measured
+2021/2022,151418,236,0,tier2,0.35,tier2,8,4,78,Celtic,2021-07-21,2021-08-13,Kristoffer Ajer,Brentford,tier2,2021-07-21,Celtic,2021-07-21,0.6896083333333333,12,measured
+2021/2022,151562,33,0,tier2,0.35,tier2,10,2,78,Rostov,2021-08-29,2021-09-11,M. Normann,Norwich City,tier2,2021-08-29,Rostov,2021-08-29,0.6887750000000001,12,measured
+2021/2022,159483,29,1,none,0.0,keeper: tier2,12,0,78,Olympiacos F.C.,2021-07-15,2021-08-14,José Sá,Wolverhampton Wanderers,tier2,2021-07-15,Olympiacos F.C.,2021-07-15,1.0,12,measured
+2021/2022,160568,25,0,data_club,0.45,data club: Championship,6,6,78,Stoke City,2021-07-09,2021-08-14,Peter Etebo,Watford,Championship origin,2021-07-09,Stoke City,2021-07-09,0.3747666666666667,12,measured
+2021/2022,163190,29,0,tier1,0.5,tier1,11,1,78,FC Barcelona,2021-07-04,2021-08-14,Francisco Trincão,Wolverhampton Wanderers,tier1,2021-07-04,FC Barcelona,2021-07-04,0.6221083333333333,12,measured
+2021/2022,186412,18,0,tier1,0.5,tier1,11,1,78,Atlético de Madrid,2021-08-31,2021-09-11,Saúl Ñíguez,Chelsea,tier1,2021-08-31,Atlético de Madrid,2021-08-31,0.0867,12,measured
+2021/2022,186660,15,0,data_club,0.45,data club: Premier League,12,1,87,Norwich City,2021-07-01,2021-08-14,Emiliano Buendía,Aston Villa,PL origin,2021-07-01,Norwich City,2021-07-01,0.5694,12,measured
+2021/2022,187068,236,1,none,0.0,keeper: tier1,12,0,78,Huesca,2021-08-17,2021-08-21,Álvaro Fernández,Brentford,tier1,2021-08-17,Huesca,2021-08-17,0.3333333333333333,12,measured
+2021/2022,201172,25,0,tier2,0.35,tier2,10,2,78,Fenerbahçe,2021-08-19,2021-08-29,Ozan Tufan,Watford,tier2,2021-08-19,Fenerbahçe,2021-08-19,0.25440833333333335,12,measured
+2021/2022,205944,25,0,tier1,0.5,tier1,11,1,78,Club Brugge,2021-07-01,2021-08-14,Emmanuel Dennis,Watford,tier1,2021-07-01,Club Brugge,2021-07-01,0.823325,12,measured
+2021/2022,219534,65,0,tier1,0.5,tier1,11,1,78,Torino,2021-08-25,2021-08-28,Lyanco,Southampton,tier1,2021-08-25,Torino,2021-08-25,0.23211666666666667,12,measured
+2021/2022,221615,6,0,tier1,0.5,tier1,11,1,78,FC Barcelona,2021-08-31,2021-09-11,Emerson Royal,Tottenham Hotspur,tier1,2021-08-31,FC Barcelona,2021-08-31,0.95085,12,measured
+2021/2022,241036,8,0,tier1,0.5,tier1,12,0,78,Porto,2022-01-30,2022-02-10,Luis Díaz,Liverpool,tier1,2022-01-30,Porto,2022-01-30,0.6522583333333334,12,measured
+2021/2022,310288,19,0,tier1,0.5,tier1,12,0,78,Bologna,2021-08-31,2021-09-11,Takehiro Tomiyasu,Arsenal,tier1,2021-08-31,Bologna,2021-08-31,0.9717583333333334,12,measured
+2021/2022,333731,6,0,tier1,0.5,tier1,9,3,78,Atalanta,2021-08-06,2021-08-15,Cristian Romero,Tottenham Hotspur,tier1,2021-08-06,Atalanta,2021-08-06,0.743775,12,measured
+2021/2022,333797,6,0,tier1,0.5,tier1,11,1,78,Juventus,2022-01-31,2022-02-09,Rodrigo Bentancur,Tottenham Hotspur,tier1,2022-01-31,Juventus,2022-01-31,0.865025,12,measured
+2021/2022,337432,65,0,tier1,0.5,tier1,12,0,78,Brest,2021-07-02,2021-08-14,Romain Perraud,Southampton,tier1,2021-07-02,Brest,2021-07-02,0.402375,12,measured
+2021/2022,432912,42,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2021-07-02,2021-08-14,Boubakary Soumaré,Leicester City,tier1,2021-07-02,LOSC Lille,2021-07-02,0.5882166666666667,12,measured
+2021/2022,448448,78,0,tier1,0.5,tier1,12,0,78,Getafe,2021-08-31,2021-09-11,Marc Cucurella,Brighton & Hove Albion,tier1,2021-08-31,Getafe,2021-08-31,0.940325,12,measured
+2021/2022,449187,71,0,tier1,0.5,tier1,7,5,78,FC Barcelona,2021-07-06,2021-08-14,Junior Firpo,Leeds United,tier1,2021-07-06,FC Barcelona,2021-07-06,0.7551333333333333,12,measured
+2021/2022,455794,71,1,none,0.0,keeper: tier2,12,0,78,Vålerenga,2021-07-31,2021-08-14,Kristoffer Klaesson,Leeds United,tier2,2021-07-31,Vålerenga,2021-07-31,0.0,12,measured
+2021/2022,459145,20,0,tier1,0.5,tier1,12,0,78,Olympique Lyonnais,2022-01-30,2022-02-08,Bruno Guimarães,Newcastle United,tier1,2022-01-30,Olympique Lyonnais,2022-01-30,0.5514416666666667,12,measured
+2021/2022,537108,236,0,tier2,0.35,tier2,11,1,78,FC Midtjylland,2021-07-20,2021-08-13,Frank Onyeka,Brentford,tier2,2021-07-20,FC Midtjylland,2021-07-20,0.5978583333333334,12,measured
+2021/2022,537271,13,0,tier2,0.35,tier2,9,3,78,Dynamo Kyiv,2022-01-01,2022-01-15,Vitaliy Mykolenko,Everton,tier2,2022-01-01,Dynamo Kyiv,2022-01-01,0.6673666666666667,12,measured
+2021/2022,538034,14,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2021-07-23,2021-08-14,Jadon Sancho,Manchester United,tier1,2021-07-23,Borussia Dortmund,2021-07-23,0.40099166666666664,12,measured
+2021/2022,538907,19,0,tier1,0.5,tier1,12,0,78,Anderlecht,2021-07-19,2021-08-13,Albert Sambi Lokonga,Arsenal,tier1,2021-07-19,Anderlecht,2021-07-19,0.6666500000000001,12,measured
+2021/2022,1854914,78,0,tier2,0.35,tier2,8,4,78,Salzburg,2021-07-06,2021-08-14,Enock Mwepu,Brighton & Hove Albion,tier2,2021-07-06,Salzburg,2021-07-06,0.39880000000000004,12,measured
+2021/2022,3876535,25,0,tier1,0.5,tier1,9,3,78,Nantes,2021-07-01,2021-08-14,Imrân Louza,Watford,tier1,2021-07-01,Nantes,2021-07-01,0.2539666666666666,12,measured
+2021/2022,4536500,51,0,data_club,0.45,data club: Premier League,12,0,78,Chelsea,2021-07-18,2021-08-14,Marc Guéhi,Crystal Palace,PL origin,2021-07-18,Chelsea,2021-07-18,1.0,12,measured
+2021/2022,4545525,8,0,data_club,0.45,data club: no arrival on or before the date,1,16,170,,,2022-01-23,Rhys Williams,Liverpool,"data club, arrival record dated after the fixture",2023-05-31,Blackpool,2023-05-31,,0,not measured: never named for the club on or after the arrival
+2021/2022,4545529,6,0,tier1,0.5,tier1,10,2,78,Sevilla,2021-07-26,2021-08-15,Bryan Gil,Tottenham Hotspur,tier1,2021-07-26,Sevilla,2021-07-26,0.08185833333333334,12,measured
+2021/2022,5640817,33,0,tier1,0.5,tier1,2,0,3,Schalke 04,2021-08-30,2021-09-11,Ozan Kabak,Norwich City,tier1,2021-08-30,Schalke 04,2021-08-30,0.68305,12,measured
+2021/2022,5640884,33,0,tier1,0.5,tier1,11,1,78,Werder Bremen,2021-08-09,2021-08-14,Josh Sargent,Norwich City,tier1,2021-08-09,Werder Bremen,2021-08-09,0.5912666666666666,12,measured
+2021/2022,9308193,19,0,tier1,0.5,tier1,12,0,78,Benfica,2021-07-10,2021-08-13,Nuno Tavares,Arsenal,tier1,2021-07-10,Benfica,2021-07-10,0.389075,12,measured
+2021/2022,9964067,25,0,tier1,0.5,tier1,12,0,78,KAS Eupen,2022-01-07,2022-01-15,Edo Kayembe,Watford,tier1,2022-01-07,KAS Eupen,2022-01-07,0.38408333333333333,12,measured
+2021/2022,11705403,27,0,data_club,0.45,data club: Championship,12,1,87,Stoke City,2021-07-01,2021-08-14,Nathan Collins,Burnley,Championship origin,2021-07-01,Stoke City,2021-07-01,0.3333333333333333,12,measured
+2021/2022,14338024,6,0,tier1,0.5,tier1,12,0,78,Juventus,2022-01-31,2022-02-09,Dejan Kulusevski,Tottenham Hotspur,tier1,2022-01-31,Juventus,2022-01-31,0.8292833333333335,12,measured
+2021/2022,23697427,65,0,tier2,0.0,tier2,8,4,78,Chelsea U21,2021-08-10,2021-08-14,Armando Broja,Southampton,tier2,2021-08-10,Chelsea U21,2021-08-10,0.5161083333333333,12,measured
+2021/2022,23739107,25,0,tier2,0.35,tier2,0,3,33,Grimsby Town,2021-07-01,2021-08-14,Mattie Pollock,Watford,tier2,2021-07-01,Grimsby Town,2021-07-01,0.124975,12,measured
+2021/2022,24799911,65,0,tier2,0.0,tier2,10,0,55,Chelsea U21,2021-08-02,2021-08-14,Tino Livramento,Southampton,tier2,2021-08-02,Chelsea U21,2021-08-02,0.9922666666666666,12,measured
+2021/2022,24799914,65,0,unknown+override,0.0,unknown+override,0,12,78,Chelsea U23,2021-07-27,2021-08-14,Dynel Simeu,Southampton,unknown+override,2021-07-27,Chelsea U23,2021-07-27,0.0,3,measured
+2021/2022,24799984,51,0,data_club,0.45,data club: Championship,12,3,114,Reading,2021-07-08,2021-08-14,Michael Olise,Crystal Palace,Championship origin,2021-07-08,Reading,2021-07-08,0.27315833333333334,12,measured
+2021/2022,24817182,33,0,tier2,0.35,tier2,12,1,88,PAOK,2021-08-12,2021-08-14,Christos Tzolis,Norwich City,tier2,2021-08-12,PAOK,2021-08-12,0.15150833333333333,12,measured
+2021/2022,26715427,29,1,none,0.0,keeper: unknown,4,8,78,Man City U23,2021-07-01,2021-08-14,Louie Moulden,Wolverhampton Wanderers,unknown,2021-07-01,Man City U23,2021-07-01,0.0,9,measured
+2021/2022,27453989,1,0,unknown+override,0.0,unknown+override,0,12,78,Chelsea U23,2021-07-01,2021-08-15,Pierre Ekwah,West Ham United,unknown+override,2021-07-01,Chelsea U23,2021-07-01,0.0,1,measured
+2021/2022,28912777,15,0,data_club,0.45,data club: no arrival on or before the date,12,8,119,,,2021-08-14,Cameron Archer,Aston Villa,"data club, arrival record dated after the fixture",2024-07-11,Sheffield United,2024-07-11,,0,not measured: never named for the club on or after the arrival
+2021/2022,28912783,71,0,unknown+override,0.0,unknown+override,1,11,78,Chelsea U23,2021-07-22,2021-08-14,Lewis Bate,Leeds United,unknown+override,2021-07-22,Chelsea U23,2021-07-22,0.03984166666666667,12,measured
+2021/2022,31238191,236,0,tier2,0.0,tier2,0,12,78,Chelsea U21,2021-07-23,2021-08-13,Myles Peart-Harris,Brentford,tier2,2021-07-23,Chelsea U21,2021-07-23,0.022233333333333338,12,measured
+2021/2022,33186827,15,0,tier2,0.35,tier2,5,3,21,,,2021-08-14,Jaden Philogene,Aston Villa,tier2,2024-07-19,Hull City,2024-07-19,0.3269083333333333,12,measured
+2021/2022,35280539,78,0,tier1,0.0,tier1,4,8,78,Benfica U19,2021-07-02,2021-08-14,Jeremy Sarmiento,Brighton & Hove Albion,tier1,2021-07-02,Benfica U19,2021-07-02,0.05086666666666667,12,measured
+2021/2022,37260638,13,0,tier2,0.35,tier2,6,6,78,Rangers,2022-01-04,2022-01-15,Nathan Patterson,Everton,tier2,2022-01-04,Rangers,2022-01-04,0.5,12,measured
+2021/2022,37324014,25,0,tier2,0.35,tier2,1,11,78,Rochdale,2021-07-01,2021-08-14,Kwadwo Baah,Watford,tier2,2021-07-01,Rochdale,2021-07-01,0.23029999999999998,12,measured
+2021/2022,37336214,71,0,tier2,0.0,tier2,6,6,78,Celtic II,2021-08-27,2021-09-12,Leo Hjelde,Leeds United,tier2,2021-08-27,Celtic II,2021-08-27,0.139275,12,measured
+2021/2022,37365878,18,0,data_club,0.45,data club: Championship,0,14,168,Derby,2022-01-24,2022-02-19,D. Williams,Chelsea,Championship origin,2022-01-24,Derby,2022-01-24,,0,not measured: never named for the club on or after the arrival
+2021/2022,37373580,8,0,unknown+override,0.0,unknown+override,4,34,152,Derby U18,2021-02-06,2021-08-14,Kaide Gordon,Liverpool,unknown+override,2021-02-06,Derby U18,2021-02-06,0.029849999999999998,6,measured
+2021/2022,37391634,236,1,none,0.0,keeper: unknown,3,9,78,AFC Wimbledon,2021-07-22,2021-08-13,Matthew Cox,Brentford,unknown,2021-07-22,AFC Wimbledon,2021-07-22,0.0,12,measured
+2021/2022,37400484,29,0,tier3,0.25,tier3,2,10,78,Atlético Nacional,2021-07-01,2021-08-14,Yerson Mosquera,Wolverhampton Wanderers,tier3,2021-07-01,Atlético Nacional,2021-07-01,0.0,12,measured
+2021/2022,37404802,29,0,tier1,0.5,tier1,9,3,78,Estoril,2022-01-17,2022-01-22,Francisco Jorge Tavares Oliveira,Wolverhampton Wanderers,tier1,2022-01-17,Estoril,2022-01-17,0.07793333333333334,12,measured
+2021/2022,37561126,65,0,unknown+override,0.35,unknown+override,0,12,78,Southampton Aca,2021-07-01,2021-08-14,Tyler Dibling,Southampton,unknown+override,2021-07-01,Southampton Aca,2021-07-01,0.006016666666666667,12,measured
+2021/2022,37564717,15,0,unknown+override,0.0,unknown+override,0,12,78,Fleetwood U18,2021-07-06,2021-08-14,J. Feeney,Aston Villa,unknown+override,2021-07-06,Fleetwood U18,2021-07-06,0.0,3,measured
+2021/2022,900742746,15,0,unknown+override,0.35,unknown+override,0,12,78,Northampton,2021-08-16,2021-08-21,Caleb Chukwuemeka,Aston Villa,unknown+override,2021-08-16,Northampton,2021-08-16,,0,not measured: never named for the club on or after the arrival
+2022/2023,992,14,0,data_club,0.45,data club: Premier League,1,0,1,Brentford,2022-07-15,2022-08-07,Christian Eriksen,Manchester United,PL origin,2022-07-15,Brentford,2022-07-15,0.870625,12,measured
+2022/2023,1004,11,0,data_club,0.45,data club: Premier League,11,0,66,Manchester United,2022-07-11,2022-08-06,Andreas Pereira,Fulham,PL origin,2022-07-11,Manchester United,2022-07-11,0.8886083333333334,12,measured
+2022/2023,1011,71,1,none,0.0,keeper: tier1,2,10,78,Real Betis,2022-08-09,2022-08-13,Joel Robles,Leeds United,tier1,2022-08-09,Real Betis,2022-08-09,0.0,12,measured
+2022/2023,1030,13,0,tier1,0.5,tier1,12,0,78,Paris Saint Germain,2022-09-01,2022-09-03,Idrissa Gueye,Everton,tier1,2016-08-02,Aston Villa,2022-09-01,0.8133083333333334,12,measured
+2022/2023,1309,63,0,tier3,0.25,tier3,12,0,78,Al Sadd,2023-02-02,2023-02-05,André Ayew,Nottingham Forest,tier3,2023-02-02,Al Sadd,2023-02-02,0.26067499999999993,12,measured
+2022/2023,1317,11,0,tier3+override,0.25,tier3+override,11,2,88,Corinthians,2022-09-01,2022-09-03,Willian,Fulham,tier3+override,2022-09-01,Corinthians,2022-09-01,0.80805,12,measured
+2022/2023,1339,29,0,unknown+override,0.25,unknown+override,9,3,78,TBC,2022-09-12,2022-09-17,Diego Costa,Wolverhampton Wanderers,unknown+override,2022-09-12,TBC,2022-09-12,0.608325,12,measured
+2022/2023,1449,52,1,none,0.0,keeper: data club: Premier League,1,3,4,West Ham United,2023-01-26,2023-02-04,Darren Randolph,AFC Bournemouth,PL origin,2023-01-26,West Ham United,2023-01-26,0.0,4,measured
+2022/2023,1574,13,1,none,0.0,keeper: unknown,1,11,24,TBC,2022-09-13,2022-09-18,Eldin Jakupović,Everton,unknown,2022-09-13,TBC,2022-09-13,0.0,1,measured
+2022/2023,3463,63,0,data_club,0.45,data club: Championship,12,5,91,Huddersfield Town,2022-07-20,2022-08-06,Harry Toffolo,Nottingham Forest,Championship origin,2022-07-20,Huddersfield Town,2022-07-20,0.5578916666666666,12,measured
+2022/2023,4343,11,0,tier1,0.5,tier1,12,0,78,VfL Wolfsburg,2022-07-27,2022-08-06,Kevin Mbabu,Fulham,tier1,2022-07-27,VfL Wolfsburg,2022-07-27,0.13180833333333333,12,measured
+2022/2023,4613,52,0,data_club,0.45,data club: Championship,12,9,186,Blackburn Rovers,2022-07-01,2022-08-06,Joe Rothwell,AFC Bournemouth,Championship origin,2022-07-01,Blackburn Rovers,2022-07-01,0.15501666666666666,12,measured
+2022/2023,4817,20,1,none,0.0,keeper: unknown,7,5,78,TBC,2022-09-12,2022-09-17,Loris Karius,Newcastle United,unknown,2022-09-12,TBC,2022-09-12,0.0,12,measured
+2022/2023,5681,52,0,data_club,0.45,data club: Championship,7,0,28,Cardiff City,2022-01-31,2022-08-06,Kieffer Moore,AFC Bournemouth,Championship origin,2022-01-31,Cardiff City,2022-01-31,0.442,12,measured
+2022/2023,6513,65,0,data_club,0.45,data club: Championship,6,12,169,Luton Town,2023-01-26,2023-02-04,James Bree,Southampton,Championship origin,2023-01-26,Luton Town,2023-01-26,0.3351916666666666,12,measured
+2022/2023,7926,63,0,data_club,0.45,data club: Premier League,10,0,55,Wolverhampton Wanderers,2022-08-19,2022-08-20,Morgan Gibbs-White,Nottingham Forest,PL origin,2022-08-19,Wolverhampton Wanderers,2022-08-19,0.8782666666666668,12,measured
+2022/2023,9826,65,0,tier2,0.35,tier2,12,0,78,Rangers,2022-07-09,2022-08-06,Joe Aribo,Southampton,tier2,2022-07-09,Rangers,2022-07-09,0.7432666666666665,12,measured
+2022/2023,26491,6,0,tier1,0.5,tier1,12,0,78,Villarreal,2023-01-25,2023-02-05,Arnaut Danjuma,Tottenham Hotspur,tier1,2023-01-25,Villarreal,2023-01-25,0.09448333333333332,12,measured
+2022/2023,26506,63,0,tier1,0.5,tier1,12,0,78,FC Union Berlin,2022-07-01,2022-08-06,Taiwo Awoniyi,Nottingham Forest,tier1,2022-07-01,FC Union Berlin,2022-07-01,0.4103666666666667,12,measured
+2022/2023,26955,42,0,tier1,0.5,tier1,11,1,78,Reims,2022-09-01,2022-09-04,Wout Faes,Leicester City,tier1,2022-09-01,Reims,2022-09-01,1.0,12,measured
+2022/2023,30062,8,0,tier1,0.5,tier1,12,0,78,PSV,2023-01-01,2023-01-14,Cody Gakpo,Liverpool,tier1,2023-01-01,PSV,2023-01-01,0.7724166666666666,12,measured
+2022/2023,30178,1,0,tier1,0.5,tier1,10,2,78,Sassuolo,2022-07-26,2022-08-07,Gianluca Scamacca,West Ham United,tier1,2022-07-26,Sassuolo,2022-07-26,0.6101583333333334,12,measured
+2022/2023,31002,6,0,tier1,0.5,tier1,12,0,78,Inter,2022-07-01,2022-08-06,Ivan Perišić,Tottenham Hotspur,tier1,2022-07-01,Inter,2022-07-01,0.5774583333333333,12,measured
+2022/2023,32582,14,0,tier1,0.5,tier1,10,2,78,FC Bayern München,2023-01-31,2023-02-04,Marcel Sabitzer,Manchester United,tier1,2023-01-31,FC Bayern München,2023-01-31,0.5829583333333334,12,measured
+2022/2023,32738,1,0,tier1,0.5,tier1,12,0,78,Paris Saint Germain,2022-08-17,2022-08-21,Thilo Kehrer,West Ham United,tier1,2022-08-17,Paris Saint Germain,2022-08-17,1.0,12,measured
+2022/2023,34053,20,0,tier1,0.5,tier1,3,9,78,Real Sociedad,2022-08-26,2022-08-31,Alexander Isak,Newcastle United,tier1,2022-08-26,Real Sociedad,2022-08-26,0.6735833333333333,12,measured
+2022/2023,34594,9,1,none,0.0,keeper: tier1,12,0,78,DSC Arminia Bielefeld,2022-07-01,2022-08-07,Stefan Ortega,Manchester City,tier1,2022-07-01,DSC Arminia Bielefeld,2022-07-01,0.0,12,measured
+2022/2023,52573,65,0,tier1,0.5,tier1,12,0,78,Olympique Marseille,2022-09-01,2022-09-16,Duje Caleta-Car,Southampton,tier1,2022-09-01,Olympique Marseille,2022-09-01,0.5077499999999999,12,measured
+2022/2023,52850,71,0,tier2,0.35,tier2,10,2,78,Salzburg,2023-01-03,2023-01-13,Maximilian Wöber,Leeds United,tier2,2023-01-03,Salzburg,2023-01-03,0.8152583333333334,12,measured
+2022/2023,61806,18,0,tier1,0.5,tier1,9,3,78,Napoli,2022-07-16,2022-08-06,Kalidou Koulibaly,Chelsea,tier1,2022-07-16,Napoli,2022-07-16,0.7645666666666666,12,measured
+2022/2023,72977,65,0,tier2,0.35,tier2,3,9,78,Dinamo Zagreb,2023-01-06,2023-01-14,Mislav Orsic,Southampton,tier2,2023-01-06,Dinamo Zagreb,2023-01-06,0.025825,4,measured
+2022/2023,84143,65,0,tier1,0.5,tier1,12,0,78,Genk,2023-01-31,2023-02-04,Paul Onuachu,Southampton,tier1,2023-01-31,Genk,2023-01-31,0.3096666666666667,12,measured
+2022/2023,84462,15,0,tier1,0.5,tier1,8,4,78,Sevilla,2022-07-11,2022-08-06,Ludwig Augustinsson,Aston Villa,tier1,2022-07-11,Sevilla,2022-07-11,0.07715,12,measured
+2022/2023,84528,71,0,tier2,0.35,tier2,11,1,78,Salzburg,2022-07-01,2022-08-06,Rasmus Kristensen,Leeds United,tier2,2022-07-01,Salzburg,2022-07-01,0.8858333333333333,12,measured
+2022/2023,95094,63,0,unknown+override,0.5,unknown+override,10,2,78,TBC,2022-09-07,2022-09-16,Serge Aurier,Nottingham Forest,unknown+override,2022-09-07,TBC,2022-09-07,0.8723416666666667,12,measured
+2022/2023,95746,11,0,tier1,0.5,tier1,3,9,78,Paris Saint Germain,2022-09-01,2022-09-16,Gufeng Zhu,Fulham,tier1,2022-09-01,Paris Saint Germain,2022-09-01,0.16396666666666668,9,measured
+2022/2023,96017,29,0,tier1,0.5,tier1,12,1,86,Nice,2023-01-13,2023-01-14,Mario Lemina,Wolverhampton Wanderers,tier1,2023-01-13,Nice,2023-01-13,0.737275,12,measured
+2022/2023,96689,15,0,tier1,0.5,tier1,2,10,78,Sevilla,2022-07-01,2022-08-06,Diego Carlos,Aston Villa,tier1,2022-07-01,Sevilla,2022-07-01,0.191225,12,measured
+2022/2023,96741,6,0,tier1,0.5,tier1,11,1,78,FC Barcelona,2022-07-08,2022-08-06,Clément Lenglet,Tottenham Hotspur,tier1,2022-07-08,FC Barcelona,2022-07-08,0.3917916666666667,12,measured
+2022/2023,97626,15,0,tier1,0.5,tier1,7,5,78,Olympique Marseille,2022-07-01,2022-08-06,Boubacar Kamara,Aston Villa,tier1,2022-07-01,Olympique Marseille,2022-07-01,0.8563666666666667,12,measured
+2022/2023,97692,29,0,tier1,0.5,tier1,12,0,78,Valencia,2022-08-08,2022-08-13,Gonçalo Guedes,Wolverhampton Wanderers,tier1,2022-08-08,Valencia,2022-08-08,0.48090000000000005,12,measured
+2022/2023,98874,63,0,tier1,0.5,tier1,2,10,78,FSV Mainz 05,2022-07-06,2022-08-06,Moussa Niakhaté,Nottingham Forest,tier1,2022-07-06,FSV Mainz 05,2022-07-06,0.81255,12,measured
+2022/2023,125482,11,0,tier2,0.35,tier2,1,11,78,Shakhtar Donetsk,2022-07-25,2022-08-06,Manor Solomon,Fulham,tier2,2022-07-25,Shakhtar Donetsk,2022-07-25,0.35655,12,measured
+2022/2023,128798,52,1,none,0.0,keeper: tier1,11,1,78,FC Barcelona,2022-08-07,2022-08-13,Neto,AFC Bournemouth,tier1,2022-08-07,FC Barcelona,2022-08-07,0.7074000000000001,12,measured
+2022/2023,129394,236,1,none,0.0,keeper: tier1,7,5,78,Lazio,2022-07-14,2022-08-07,Thomas Strakosha,Brentford,tier1,2022-07-14,Lazio,2022-07-14,0.0,12,measured
+2022/2023,129794,1,0,data_club,0.45,data club: Premier League,11,0,66,Chelsea,2022-08-23,2022-08-28,Emerson,West Ham United,PL origin,2022-08-23,Chelsea,2022-08-23,0.213,12,measured
+2022/2023,130145,63,0,tier1,0.5,tier1,12,0,78,Atalanta,2022-08-14,2022-08-20,Remo Freuler,Nottingham Forest,tier1,2022-08-14,Atalanta,2022-08-14,0.6810999999999999,12,measured
+2022/2023,130248,11,0,tier1,0.5,tier1,11,1,78,Torino,2023-01-31,2023-02-03,Saša Lukić,Fulham,tier1,2023-01-31,Torino,2023-01-31,0.30982499999999996,12,measured
+2022/2023,154421,9,0,tier1,0.5,tier1,11,1,78,Borussia Dortmund,2022-07-01,2022-08-07,Erling Haaland,Manchester City,tier1,2022-07-01,Borussia Dortmund,2022-07-01,0.8670666666666668,12,measured
+2022/2023,159700,14,0,tier1,0.5,tier1,12,0,78,Real Madrid,2022-08-22,2022-08-27,Casemiro,Manchester United,tier1,2022-08-22,Real Madrid,2022-08-22,0.7477416666666666,12,measured
+2022/2023,160072,11,0,tier1,0.5,tier1,11,1,78,Sporting CP,2022-07-04,2022-08-06,João Palhinha,Fulham,tier1,2022-07-04,Sporting CP,2022-07-04,0.9857583333333334,12,measured
+2022/2023,160121,63,0,tier1,0.5,tier1,12,0,78,Atlético de Madrid,2023-01-31,2023-02-05,Felipe,Nottingham Forest,tier1,2023-01-31,Atlético de Madrid,2023-01-31,0.9039166666666666,12,measured
+2022/2023,163152,18,0,tier1,0.5,tier1,10,3,89,Atlético de Madrid,2023-01-11,2023-01-12,João Félix,Chelsea,tier1,2023-01-11,Atlético de Madrid,2023-01-11,0.7303833333333333,12,measured
+2022/2023,173121,42,0,data_club,0.45,data club: Championship,12,0,78,Stoke City,2023-01-31,2023-02-04,Harry Souttar,Leicester City,Championship origin,2023-01-31,Stoke City,2023-01-31,0.8333333333333334,12,measured
+2022/2023,186025,29,0,tier1,0.5,tier1,11,1,78,Paris Saint Germain,2023-01-17,2023-01-22,Pablo Sarabia,Wolverhampton Wanderers,tier1,2023-01-17,Paris Saint Germain,2023-01-17,0.6455666666666666,12,measured
+2022/2023,186029,63,1,none,0.0,keeper: tier1,12,0,78,Paris Saint Germain,2023-01-31,2023-02-05,Keylor Navas,Nottingham Forest,tier1,2023-01-31,Paris Saint Germain,2023-01-31,1.0,12,measured
+2022/2023,186585,15,0,tier1,0.5,tier1,12,0,78,Real Betis,2023-01-11,2023-01-13,Álex Moreno,Aston Villa,tier1,2023-01-11,Real Betis,2023-01-11,0.7664833333333334,12,measured
+2022/2023,186922,71,0,tier1,0.5,tier1,12,0,78,FC Bayern München,2022-07-01,2022-08-06,Marc Roca,Leeds United,tier1,2022-07-01,FC Bayern München,2022-07-01,0.8130166666666666,12,measured
+2022/2023,187969,78,0,tier1,0.5,tier1,12,0,78,Villarreal,2022-08-16,2022-08-21,Pervis Estupiñán,Brighton & Hove Albion,tier1,2022-08-16,Villarreal,2022-08-16,0.5740083333333333,12,measured
+2022/2023,198051,18,0,tier1,0.5,tier1,10,2,78,Juventus,2022-09-01,2022-10-01,Denis Zakaria,Chelsea,tier1,2022-09-01,Juventus,2022-09-01,0.288975,12,measured
+2022/2023,198062,9,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2022-09-01,2022-09-17,Manuel Akanji,Manchester City,tier1,2022-09-01,Borussia Dortmund,2022-09-01,0.9393166666666667,12,measured
+2022/2023,205944,63,0,data_club,0.45,data club: Championship,12,0,23,Watford,2022-08-13,2022-08-20,Emmanuel Dennis,Nottingham Forest,Championship origin,2022-08-13,Watford,2022-08-13,0.3266666666666667,12,measured
+2022/2023,219172,63,0,tier3,0.25,tier3,9,3,78,Palmeiras,2023-01-01,2023-01-04,Gustavo Scarpa,Nottingham Forest,tier3,2023-01-01,Palmeiras,2023-01-01,0.22745555555555555,9,measured
+2022/2023,219920,8,0,tier1,0.5,tier1,2,11,88,Juventus,2022-09-01,2022-09-03,Arthur Melo,Liverpool,tier1,2022-09-01,Juventus,2022-09-01,0.0,7,measured
+2022/2023,220052,1,0,tier1,0.5,tier1,10,3,84,Olympique Lyonnais,2022-08-29,2022-08-31,Lucas Paquetá,West Ham United,tier1,2022-08-29,Olympique Lyonnais,2022-08-29,0.8417500000000001,12,measured
+2022/2023,221450,63,0,tier1,0.5,tier1,10,3,86,Atlético de Madrid,2022-08-29,2022-08-31,Renan Lodi,Nottingham Forest,tier1,2022-08-29,Atlético de Madrid,2022-08-29,0.7599083333333333,12,measured
+2022/2023,239578,71,0,tier1,0.5,tier1,9,3,78,Feyenoord,2022-07-07,2022-08-06,Luis Sinisterra,Leeds United,tier1,2022-07-07,Feyenoord,2022-07-07,0.49499999999999994,12,measured
+2022/2023,262324,71,0,tier1,0.5,tier1,11,1,78,RB Leipzig,2022-07-06,2022-08-06,Tyler Adams,Leeds United,tier1,2022-07-06,RB Leipzig,2022-07-06,1.0,12,measured
+2022/2023,262551,19,1,none,0.0,keeper: tier3,11,1,78,New England,2022-07-01,2022-08-05,Matt Turner,Arsenal,tier3,2022-07-01,New England,2022-07-01,0.0,12,measured
+2022/2023,333989,52,0,tier1,0.5,tier1,12,0,78,Feyenoord,2022-08-08,2022-08-13,Marcos Senesi,AFC Bournemouth,tier1,2022-08-08,Feyenoord,2022-08-08,0.7044666666666667,12,measured
+2022/2023,456276,52,0,tier1,0.5,tier1,10,2,78,Roma,2023-01-30,2023-02-04,Matías Viña,AFC Bournemouth,tier1,2023-01-30,Roma,2023-01-30,0.239175,12,measured
+2022/2023,463153,11,0,tier1,0.5,tier1,12,0,78,Benfica,2022-09-01,2022-09-03,Carlos Vinícius,Fulham,tier1,2022-09-01,Benfica,2022-09-01,0.3263666666666667,12,measured
+2022/2023,516291,1,0,tier1,0.5,tier1,0,12,78,Rennes,2022-07-01,2022-08-07,Nayef Aguerd,West Ham United,tier1,2022-07-01,Rennes,2022-07-01,0.8082083333333333,12,measured
+2022/2023,518749,1,0,data_club,0.45,data club: Championship,12,0,78,Swansea City,2022-07-07,2022-08-07,Flynn Downes,West Ham United,Championship origin,2022-07-07,Swansea City,2022-07-07,0.14706666666666665,12,measured
+2022/2023,523939,63,0,tier1,0.5,tier1,8,4,78,VfB Stuttgart,2022-07-31,2022-08-06,Orel Mangala,Nottingham Forest,tier1,2022-07-31,VfB Stuttgart,2022-07-31,0.37612500000000004,12,measured
+2022/2023,537493,52,0,data_club,0.45,data club: Championship,12,0,78,Middlesbrough,2022-08-01,2022-08-06,Marcus Tavernier,AFC Bournemouth,Championship origin,2022-08-01,Middlesbrough,2022-08-01,0.9491999999999999,12,measured
+2022/2023,537514,13,0,tier1,0.5,tier1,11,1,78,Sporting CP,2022-07-27,2022-08-06,Rúben Vinagre,Everton,tier1,2022-07-27,Sporting CP,2022-07-27,0.030458333333333334,12,measured
+2022/2023,581206,63,0,tier1,0.5,tier1,0,12,78,FC Bayern München,2022-07-10,2022-08-06,Omar Richards,Nottingham Forest,tier1,2022-07-10,FC Bayern München,2022-07-10,,0,not measured: never named for the club on or after the arrival
+2022/2023,608189,71,0,tier1,0.5,tier1,12,0,78,Juventus,2023-01-30,2023-02-05,Weston McKennie,Leeds United,tier1,2023-01-30,Juventus,2023-01-30,0.8062999999999999,12,measured
+2022/2023,1548028,29,0,tier1,0.5,tier1,1,11,78,VfB Stuttgart,2022-08-31,2022-09-03,Sasa Kalajdzic,Wolverhampton Wanderers,tier1,2022-08-31,VfB Stuttgart,2022-08-31,0.17350833333333335,12,measured
+2022/2023,1846739,29,0,tier1,0.5,tier1,11,1,78,Atlético de Madrid,2023-01-01,2023-01-04,Matheus Cunha,Wolverhampton Wanderers,tier1,2023-01-01,Atlético de Madrid,2023-01-01,0.5354916666666666,12,measured
+2022/2023,2158417,14,0,tier1,0.5,tier1,12,0,78,Feyenoord,2022-07-05,2022-08-07,Tyrell Malacia,Manchester United,tier1,2022-07-05,Feyenoord,2022-07-05,0.41966666666666663,12,measured
+2022/2023,2206665,14,0,tier1,0.5,tier1,12,0,78,Ajax,2022-07-27,2022-08-07,Lisandro Martínez,Manchester United,tier1,2022-07-27,Ajax,2022-07-27,0.9455749999999999,12,measured
+2022/2023,2511082,52,0,tier1,0.5,tier1,7,5,78,Sassuolo,2023-01-31,2023-02-04,Hamed Junior Traoré,AFC Bournemouth,tier1,2023-01-31,Sassuolo,2023-01-31,0.43160833333333337,12,measured
+2022/2023,4536524,13,0,data_club,0.45,data club: Premier League,10,11,77,Manchester United,2022-09-01,2022-09-18,James Garner,Everton,PL origin,2022-09-01,Manchester United,2022-09-01,0.15266666666666664,12,measured
+2022/2023,4536537,9,0,tier1,0.5,tier1,12,0,78,Anderlecht,2022-08-16,2022-08-21,Sergio Gómez,Manchester City,tier1,2022-08-16,Anderlecht,2022-08-16,0.113875,12,measured
+2022/2023,4545394,18,0,tier1,0.5,tier1,12,0,78,Monaco,2023-01-05,2023-01-12,Benoît Badiashile,Chelsea,tier1,2023-01-05,Monaco,2023-01-05,0.5924083333333333,12,measured
+2022/2023,4545525,8,0,data_club,0.45,data club: no arrival on or before the date,2,17,213,,,2023-02-04,Rhys Williams,Liverpool,"data club, arrival record dated after the fixture",2023-05-31,Blackpool,2023-05-31,,0,not measured: never named for the club on or after the arrival
+2022/2023,4552689,71,0,tier2,0.35,tier2,12,0,78,Salzburg,2022-07-01,2022-08-06,Brenden Aaronson,Leeds United,tier2,2022-07-01,Salzburg,2022-07-01,0.924975,12,measured
+2022/2023,5270468,20,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2022-07-01,2022-08-06,Sven Botman,Newcastle United,tier1,2022-07-01,LOSC Lille,2022-07-01,0.7517166666666667,12,measured
+2022/2023,5270497,19,0,tier1,0.5,tier1,10,2,78,Porto,2022-07-01,2022-08-05,Fábio Vieira,Arsenal,tier1,2022-07-01,Porto,2022-07-01,0.237175,12,measured
+2022/2023,5640926,51,0,tier1,0.5,tier1,10,2,78,Lens,2022-07-11,2022-08-05,Cheick Doucouré,Crystal Palace,tier1,2022-07-11,Lens,2022-07-11,0.8786083333333333,12,measured
+2022/2023,6013424,8,0,tier1,0.5,tier1,8,4,78,Benfica,2022-07-01,2022-08-06,Darwin Núñez,Liverpool,tier1,2022-07-01,Benfica,2022-07-01,0.7189249999999999,12,measured
+2022/2023,6306131,63,0,tier1,0.5,tier1,10,2,78,Troyes,2022-07-03,2022-08-06,Giulian Biancone,Nottingham Forest,tier1,2022-07-03,Troyes,2022-07-03,0.027090000000000003,10,measured
+2022/2023,7026573,6,0,data_club,0.45,data club: Championship,12,6,123,Middlesbrough,2022-07-19,2022-08-06,Djed Spence,Tottenham Hotspur,Championship origin,2022-07-19,Middlesbrough,2022-07-19,0.020283333333333334,12,measured
+2022/2023,8403613,19,0,tier1,0.5,tier1,11,1,78,Spezia,2023-01-23,2023-02-04,Jakub Kiwior,Arsenal,tier1,2023-01-23,Spezia,2023-01-23,0.02020833333333333,12,measured
+2022/2023,8449373,236,0,tier1,0.5,tier1,11,1,78,Sampdoria,2022-08-10,2022-08-13,Mikkel Damsgaard,Brentford,tier1,2022-08-10,Sampdoria,2022-08-10,0.26505833333333334,12,measured
+2022/2023,8456257,6,0,tier1,0.5,tier1,12,0,78,Sporting CP,2023-01-31,2023-02-05,Pedro Porro,Tottenham Hotspur,tier1,2023-01-31,Sporting CP,2023-01-31,0.7065750000000001,12,measured
+2022/2023,9938919,18,0,tier2,0.35,tier2,12,0,78,Shakhtar Donetsk,2023-01-15,2023-01-21,Mykhaylo Mudryk,Chelsea,tier2,2023-01-15,Shakhtar Donetsk,2023-01-15,0.41739166666666666,12,measured
+2022/2023,10279739,63,0,tier1,0.5,tier1,1,9,75,Rennes,2022-09-01,2022-09-16,Loïc Badé,Nottingham Forest,tier1,2022-09-01,Rennes,2022-09-01,0.0,1,measured
+2022/2023,10310312,63,0,data_club,0.45,data club: Championship,12,3,87,Huddersfield Town,2022-07-20,2022-08-06,Lewis O'Brien,Nottingham Forest,Championship origin,2022-07-20,Huddersfield Town,2022-07-20,0.4897,12,measured
+2022/2023,10990678,52,0,data_club,0.45,data club: Championship,12,0,78,Bristol City,2023-01-27,2023-02-04,Antoine Semenyo,AFC Bournemouth,Championship origin,2023-01-27,Bristol City,2023-01-27,0.24449999999999997,12,measured
+2022/2023,11311795,18,0,data_club,0.45,data club: Premier League,1,0,1,Leicester City,2022-08-31,2022-09-03,Wesley Fofana,Chelsea,PL origin,2022-08-31,Leicester City,2022-08-31,0.8752166666666666,12,measured
+2022/2023,11720838,63,0,data_club,0.45,data club: Premier League,12,0,78,Liverpool,2022-07-10,2022-08-06,Neco Williams,Nottingham Forest,PL origin,2022-07-10,Liverpool,2022-07-10,0.8775666666666667,12,measured
+2022/2023,12393293,14,0,tier1,0.5,tier1,8,4,78,Ajax,2022-08-30,2022-09-04,Antony,Manchester United,tier1,2022-08-30,Ajax,2022-08-30,0.8311166666666666,12,measured
+2022/2023,14338066,63,1,none,0.0,keeper: unknown,0,12,78,Sarajevo,2022-09-20,2022-10-03,Adnan Kanuric,Nottingham Forest,unknown,2022-09-20,Sarajevo,2022-09-20,,0,not measured: never named for the club on or after the arrival
+2022/2023,16845996,65,1,none,0.0,keeper: tier2,12,0,78,Manchester City U21,2022-07-01,2022-08-06,Gavin Bazunu,Southampton,tier2,2022-07-01,Manchester City U21,2022-07-01,1.0,12,measured
+2022/2023,18218609,51,0,tier1,0.5,tier1,6,6,78,FC Bayern München,2022-07-27,2022-08-05,Chris Richards,Crystal Palace,tier1,2022-07-27,FC Bayern München,2022-07-27,0.24540833333333334,12,measured
+2022/2023,21412957,8,0,data_club,0.45,data club: Premier League,12,0,78,Fulham,2022-07-01,2022-08-06,Fábio Carvalho,Liverpool,PL origin,2022-07-01,Fulham,2022-07-01,0.3186916666666667,12,measured
+2022/2023,21781428,29,0,tier1,0.5,tier1,12,1,79,Sporting CP,2022-08-18,2022-08-20,Matheus Nunes,Wolverhampton Wanderers,tier1,2022-08-18,Sporting CP,2022-08-18,0.7804000000000001,12,measured
+2022/2023,21782390,71,0,tier1,0.5,tier1,12,0,78,TSG Hoffenheim,2023-01-14,2023-01-22,Georginio Rutter,Leeds United,tier1,2023-01-14,TSG Hoffenheim,2023-01-14,0.21225000000000002,12,measured
+2022/2023,22878573,13,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2022-08-09,2022-08-13,Amadou Onana,Everton,tier1,2022-08-09,LOSC Lille,2022-08-09,0.8304666666666666,12,measured
+2022/2023,24065255,52,0,tier2,0.35,tier2,5,7,78,Dynamo Kyiv,2023-01-31,2023-02-04,Ilya Zabarnyi,AFC Bournemouth,tier2,2023-01-31,Dynamo Kyiv,2023-01-31,0.3653666666666667,12,measured
+2022/2023,25217662,18,0,tier1,0.5,tier1,10,2,78,PSV,2023-01-20,2023-02-03,Noni Madueke,Chelsea,tier1,2023-01-20,PSV,2023-01-20,0.3495416666666667,12,measured
+2022/2023,27066567,65,0,tier1,0.5,tier1,10,2,78,VfL Bochum 1848,2022-07-01,2022-08-06,Armel Bella-Kotchap,Southampton,tier1,2022-07-01,VfL Bochum 1848,2022-07-01,0.830225,12,measured
+2022/2023,27067062,236,0,tier1,0.5,tier1,12,0,78,SC Freiburg,2023-01-04,2023-01-14,Kevin Schade,Brentford,tier1,2023-01-04,SC Freiburg,2023-01-04,0.2972083333333333,12,measured
+2022/2023,27440826,236,0,tier1,0.5,tier1,9,3,78,Bologna,2022-07-09,2022-08-07,Aaron Hickey,Brentford,tier1,2022-07-09,Bologna,2022-07-09,0.673825,12,measured
+2022/2023,28552845,236,0,data_club,0.45,data club: Championship,12,4,100,Hull City,2022-07-12,2022-08-07,Keane Lewis-Potter,Brentford,Championship origin,2022-07-12,Hull City,2022-07-12,0.26766666666666666,12,measured
+2022/2023,28912777,15,0,data_club,0.45,data club: no arrival on or before the date,12,3,89,,,2022-08-06,Cameron Archer,Aston Villa,"data club, arrival record dated after the fixture",2024-07-11,Sheffield United,2024-07-11,,0,not measured: never named for the club on or after the arrival
+2022/2023,29313293,42,0,tier1,0.5,tier1,12,0,78,Olympique Lyonnais,2023-01-29,2023-02-04,Tetê,Leicester City,tier1,2023-01-29,Olympique Lyonnais,2023-01-29,0.538125,12,measured
+2022/2023,29419594,78,0,tier3,0.25,tier3,6,6,78,Libertad,2022-07-01,2022-08-07,Julio Enciso,Brighton & Hove Albion,tier3,2022-07-01,Libertad,2022-07-01,0.10939166666666666,12,measured
+2022/2023,29709995,18,0,tier1,0.5,tier1,12,0,78,Benfica,2023-01-31,2023-02-03,Enzo Fernández,Chelsea,tier1,2023-01-31,Benfica,2023-01-31,0.9456583333333333,12,measured
+2022/2023,30071882,15,0,tier3,0.25,tier3,12,0,78,Chicago Fire,2023-01-23,2023-02-04,Jhon Durán,Aston Villa,tier3,2023-01-23,Chicago Fire,2023-01-23,0.094425,12,measured
+2022/2023,31626620,20,0,tier2,0.0,tier2,0,12,12,West Ham United U21,2023-01-31,2023-02-04,Harrison Ashby,Newcastle United,tier2,2023-01-31,West Ham United U21,2023-01-31,0.0,2,measured
+2022/2023,32796077,71,0,tier2,0.0,tier2,3,9,78,Manchester City U21,2022-07-04,2022-08-06,Darko Gyabi,Leeds United,tier2,2022-07-04,Manchester City U21,2022-07-04,0.010416666666666666,12,measured
+2022/2023,32796825,42,0,tier2,0.35,tier2,9,3,78,FC København,2023-01-20,2023-02-04,Victor Kristiansen,Leicester City,tier2,2023-01-20,FC København,2023-01-20,0.8217333333333333,12,measured
+2022/2023,36084757,29,0,tier1,0.5,tier1,9,3,78,Metz,2022-09-01,2022-09-17,Boubacar Traoré,Wolverhampton Wanderers,tier1,2022-09-01,Metz,2022-09-01,0.39510833333333334,12,measured
+2022/2023,37259180,78,0,data_club,0.45,data club: Premier League,12,3,89,Chelsea,2022-08-05,2022-08-07,Levi Colwill,Brighton & Hove Albion,PL origin,2022-08-05,Chelsea,2022-08-05,0.18356666666666666,12,measured
+2022/2023,37260590,8,0,tier2,0.35,tier2,0,12,78,Aberdeen,2022-07-01,2022-08-06,Calvin Ramsay,Liverpool,tier2,2022-07-01,Aberdeen,2022-07-01,0.0,12,measured
+2022/2023,37289022,65,0,tier1,0.5,tier1,11,1,78,Bordeaux,2022-07-25,2022-08-06,Sékou Mara,Southampton,tier1,2022-07-25,Bordeaux,2022-07-25,0.21102500000000002,12,measured
+2022/2023,37298063,51,0,data_club,0.45,"data club: data club, neither league that season",12,0,78,Derby County,2022-07-01,2022-08-05,Malcolm Ebiowei,Crystal Palace,data club in neither league that season,2022-07-01,Derby County,2022-07-01,0.024783333333333334,12,measured
+2022/2023,37316841,65,0,tier2,0.0,tier2,11,1,74,Manchester City U21,2022-09-01,2022-09-03,Samuel Edozie,Southampton,tier2,2022-09-01,Manchester City U21,2022-09-01,0.32703333333333334,12,measured
+2022/2023,37316940,51,0,tier1,0.5,tier1,8,4,78,VfB Stuttgart,2023-01-31,2023-02-04,Naouirou Ahamada,Crystal Palace,tier1,2023-01-31,VfB Stuttgart,2023-01-31,0.10967500000000001,12,measured
+2022/2023,37316986,71,0,tier2,0.35,tier2,10,2,78,Zürich,2022-09-01,2022-10-02,Wilfried Gnonto,Leeds United,tier2,2022-09-01,Zürich,2022-09-01,0.5775333333333333,12,measured
+2022/2023,37402348,29,0,tier3,0.25,tier3,11,1,78,Flamengo,2023-01-30,2023-02-04,João Gomes,Wolverhampton Wanderers,tier3,2023-01-30,Flamengo,2023-01-30,0.4071166666666666,12,measured
+2022/2023,37410255,65,0,tier3,0.25,tier3,12,0,78,Racing Club,2023-01-11,2023-01-14,Carlos Alcaraz,Southampton,tier3,2023-01-11,Racing Club,2023-01-11,0.40216666666666673,12,measured
+2022/2023,37438667,65,0,tier1,0.5,tier1,12,0,78,Rennes,2023-01-31,2023-02-04,Kamaldeen Sulemana,Southampton,tier1,2023-01-31,Rennes,2023-01-31,0.6565166666666667,12,measured
+2022/2023,37526157,78,0,tier2,0.35,tier2,8,4,78,AIK,2023-01-30,2023-02-04,Yasin Ayari,Brighton & Hove Albion,tier2,2023-01-30,AIK,2023-01-30,0.023508333333333336,12,measured
+2022/2023,37533413,63,0,tier3,0.25,tier3,10,2,78,Palmeiras,2023-01-16,2023-01-21,Danilo,Nottingham Forest,tier3,2023-01-16,Palmeiras,2023-01-16,0.5834,12,measured
+2022/2023,37536874,65,0,tier2,0.0,tier2,3,0,6,Manchester City U21,2022-07-06,2022-08-06,Roméo Lavia,Southampton,tier2,2022-07-06,Manchester City U21,2022-07-06,0.7473333333333333,12,measured
+2022/2023,37537876,65,0,tier2,0.0,tier2,9,4,81,Manchester City U21,2022-09-01,2022-09-03,Juan Larios,Southampton,tier2,2022-09-01,Manchester City U21,2022-09-01,0.19142222222222222,9,measured
+2022/2023,37543248,52,0,tier1,0.5,tier1,12,0,78,Lorient,2023-01-19,2023-01-21,Dango Ouattara,AFC Bournemouth,tier1,2023-01-19,Lorient,2023-01-19,0.7661916666666667,12,measured
+2022/2023,37545384,9,0,tier3,0.25,tier3,4,8,78,Vélez Sarsfield,2023-01-23,2023-02-05,Máximo Perrone,Manchester City,tier3,2023-01-23,Vélez Sarsfield,2023-01-23,0.03685,6,measured
+2022/2023,37555964,18,0,tier2,0.35,tier2,6,6,78,Molde,2023-01-01,2023-01-05,David Datro Fofana,Chelsea,tier2,2023-01-01,Molde,2023-01-01,0.08839999999999999,9,measured
+2022/2023,37567314,19,0,tier3,0.25,tier3,9,3,78,São Paulo,2022-07-01,2022-08-05,Marquinhos,Arsenal,tier3,2022-07-01,São Paulo,2022-07-01,0.0017333333333333333,12,measured
+2022/2023,37568149,78,0,tier3,0.25,tier3,10,2,78,Rosario Central,2023-01-01,2023-01-14,Facundo Buonanotte,Brighton & Hove Albion,tier3,2023-01-01,Rosario Central,2023-01-01,0.16684166666666664,12,measured
+2022/2023,37592030,65,0,unknown+override,0.0,unknown+override,0,12,78,Tottenham Yth.,2022-08-17,2022-08-20,Samuel Amo-Ameyaw,Southampton,unknown+override,2022-08-17,Tottenham Yth.,2022-08-17,0.08839166666666666,12,measured
+2022/2023,37602125,8,0,unknown+override,0.0,unknown+override,0,12,78,Celtic Youth,2022-07-01,2022-08-06,Ben Gannon-Doak,Liverpool,unknown+override,2022-07-01,Celtic Youth,2022-07-01,0.041699999999999994,12,measured
+2023/2024,968,115,0,tier1,0.5,tier1,7,5,78,Nice,2023-08-09,2023-08-12,Ross Barkley,Luton Town,tier1,2023-08-09,Nice,2023-08-09,0.8315333333333333,12,measured
+2023/2024,979,27,0,tier2,0.35,tier2,7,5,74,Beşiktaş,2023-07-21,2023-08-11,Nathan Redmond,Burnley,tier2,2023-07-21,Beşiktaş,2023-07-21,0.1396416666666667,12,measured
+2023/2024,1155,1,0,data_club,0.45,data club: Championship,12,0,12,Southampton,2023-08-14,2023-08-20,James Ward-Prowse,West Ham United,Championship origin,2023-08-14,Southampton,2023-08-14,0.9687666666666667,12,measured
+2023/2024,1249,115,0,unknown+override,0.45,unknown+override,12,0,78,TBC,2023-10-11,2023-10-21,Andros Townsend,Luton Town,unknown+override,2023-10-11,TBC,2023-10-11,0.6124583333333333,12,measured
+2023/2024,1472,63,0,tier1,0.5,tier1,9,3,78,AC Milan,2023-09-01,2023-09-18,Divock Origi,Nottingham Forest,tier1,2023-09-01,AC Milan,2023-09-01,0.19445,12,measured
+2023/2024,1692,21,0,data_club,0.45,data club: Premier League,12,4,106,Everton,2024-02-01,2024-02-03,Mason Holgate,Sheffield United,PL origin,2024-02-01,Everton,2024-02-01,0.6446500000000001,12,measured
+2023/2024,1956,63,0,tier1,0.5,tier1,9,3,78,Torino,2023-07-22,2023-08-12,Ola Aina,Nottingham Forest,tier1,2023-07-22,Torino,2023-07-22,0.7258249999999999,12,measured
+2023/2024,2975,63,1,none,0.0,keeper: tier1,12,0,78,Strasbourg,2024-02-01,2024-02-04,Matz Sels,Nottingham Forest,tier1,2024-02-01,Strasbourg,2024-02-01,1.0,12,measured
+2023/2024,6038,29,1,none,0.0,keeper: tier2,0,12,78,Northampton Town,2023-07-03,2023-08-14,Tom King,Wolverhampton Wanderers,tier2,2023-07-03,Northampton Town,2023-07-03,0.004514285714285715,7,measured
+2023/2024,7278,115,0,data_club,0.45,data club: Championship,12,0,78,Stoke City,2023-08-10,2023-08-12,Jacob Brown,Luton Town,Championship origin,2023-08-10,Stoke City,2023-08-10,0.5294,12,measured
+2023/2024,7835,21,0,tier1,0.5,tier1,12,3,105,Villarreal,2024-01-05,2024-01-21,Ben Brereton Díaz,Sheffield United,tier1,2024-01-05,Villarreal,2024-01-05,0.776175,12,measured
+2023/2024,9372,27,1,none,0.0,keeper: tier2,1,11,78,Leyton Orient,2023-07-01,2023-08-11,Lawrence Vigouroux,Burnley,tier2,2023-07-01,Leyton Orient,2023-07-01,0.0,5,measured
+2023/2024,25489,14,0,tier1,0.5,tier1,11,1,78,Fiorentina,2023-09-01,2023-09-16,Sofyan Amrabat,Manchester United,tier1,2023-09-01,Fiorentina,2023-09-01,0.57455,12,measured
+2023/2024,26354,52,0,tier1,0.5,tier1,11,1,78,Getafe,2024-02-01,2024-02-04,Enes Ünal,AFC Bournemouth,tier1,2024-02-01,Getafe,2024-02-01,0.18857499999999996,12,measured
+2023/2024,26393,14,1,none,0.0,keeper: tier1,12,0,78,Inter,2023-07-20,2023-08-14,André Onana,Manchester United,tier1,2023-07-20,Inter,2023-07-20,1.0,12,measured
+2023/2024,26803,52,0,tier1,0.5,tier1,12,0,78,Roma,2023-07-01,2023-08-12,Justin Kluivert,AFC Bournemouth,tier1,2023-07-01,Roma,2023-07-01,0.381225,12,measured
+2023/2024,26813,21,0,data_club,0.45,data club: Championship,12,0,78,Coventry City,2023-08-12,2023-08-18,Gustavo Hamer,Sheffield United,Championship origin,2023-08-12,Coventry City,2023-08-12,0.87825,12,measured
+2023/2024,31823,6,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2024-01-09,2024-01-14,Timo Werner,Tottenham Hotspur,tier1,2024-01-09,RB Leipzig,2024-01-09,0.7137083333333333,12,measured
+2023/2024,31892,63,1,none,0.0,keeper: tier1,12,0,78,Benfica,2023-09-01,2023-09-18,Odysseas Vlachodimos,Nottingham Forest,tier1,2023-09-01,Benfica,2023-09-01,0.4166666666666667,12,measured
+2023/2024,32347,78,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2023-07-01,2023-08-12,Mahmoud Dahoud,Brighton & Hove Albion,tier1,2023-07-01,Borussia Dortmund,2023-07-01,0.36995,12,measured
+2023/2024,32792,27,0,tier1,0.5,tier1,11,1,78,TSG Hoffenheim,2023-07-27,2023-08-11,Jacob Bruun Larsen,Burnley,tier1,2023-07-27,TSG Hoffenheim,2023-07-27,0.20366666666666666,12,measured
+2023/2024,34737,236,1,none,0.0,keeper: tier1,11,1,78,SC Freiburg,2023-07-01,2023-08-13,Mark Flekken,Brentford,tier1,2023-07-01,SC Freiburg,2023-07-01,0.9595750000000001,12,measured
+2023/2024,54191,78,0,tier1,0.5,tier1,12,0,78,Fiorentina,2023-07-26,2023-08-12,Igor Julio,Brighton & Hove Albion,tier1,2023-07-26,Fiorentina,2023-07-26,0.3101,12,measured
+2023/2024,62337,11,0,data_club,0.45,data club: Championship,12,0,23,Leicester City,2023-08-29,2023-09-02,Timothy Castagne,Fulham,Championship origin,2023-08-29,Leicester City,2023-08-29,0.8696,12,measured
+2023/2024,64193,27,0,data_club,0.45,data club: Premier League,12,0,78,Sheffield United,2023-08-09,2023-08-11,Sander Berge,Burnley,PL origin,2023-08-09,Sheffield United,2023-08-09,0.7251,12,measured
+2023/2024,64296,27,0,tier1,0.5,tier1,10,2,78,Anderlecht,2023-08-22,2023-08-27,Hannes Delcroix,Burnley,tier1,2023-08-22,Anderlecht,2023-08-22,0.29895,12,measured
+2023/2024,74092,21,1,none,0.0,keeper: tier1,10,2,78,Atlético de Madrid,2024-01-26,2024-01-30,Ivo Grbic,Sheffield United,tier1,2024-01-26,Atlético de Madrid,2024-01-26,0.7111083333333333,12,measured
+2023/2024,85277,115,0,data_club,0.45,"data club: data club, neither league that season",8,4,78,Barnsley,2023-07-03,2023-08-12,Mads Juel Andersen,Luton Town,data club in neither league that season,2023-07-03,Barnsley,2023-07-03,0.3760333333333334,12,measured
+2023/2024,96884,18,0,tier1,0.5,tier1,0,12,78,RB Leipzig,2023-07-01,2023-08-13,Christopher Nkunku,Chelsea,tier1,2023-07-01,RB Leipzig,2023-07-01,0.4197666666666666,12,measured
+2023/2024,96943,63,0,tier1,0.5,tier1,11,1,78,PSV,2023-09-01,2023-09-18,Ibrahim Sangaré,Nottingham Forest,tier1,2023-09-01,PSV,2023-09-01,0.733975,12,measured
+2023/2024,97078,11,0,tier1,0.5,tier1,12,0,78,AC Milan,2023-09-01,2023-09-16,Fodé Ballo-Touré,Fulham,tier1,2023-09-01,AC Milan,2023-09-01,0.03639166666666666,12,measured
+2023/2024,99076,29,0,tier1,0.5,tier1,8,4,78,Strasbourg,2023-09-01,2023-09-16,Jean-Ricner Bellegarde,Wolverhampton Wanderers,tier1,2023-09-01,Strasbourg,2023-09-01,0.4947916666666667,12,measured
+2023/2024,100385,18,0,tier1,0.5,tier1,12,0,78,Monaco,2023-08-04,2023-08-13,Axel Disasi,Chelsea,tier1,2023-08-04,Monaco,2023-08-04,0.8920083333333334,12,measured
+2023/2024,109417,1,0,tier1,0.5,tier1,9,3,78,VfB Stuttgart,2023-08-22,2023-08-26,Konstantinos Mavropanos,West Ham United,tier1,2023-08-22,VfB Stuttgart,2023-08-22,0.2117083333333333,12,measured
+2023/2024,122090,115,0,data_club,0.45,data club: Championship,12,0,78,Rotherham United,2023-07-01,2023-08-12,Chiedozie Ogbene,Luton Town,Championship origin,2023-07-01,Rotherham United,2023-07-01,0.7054166666666668,12,measured
+2023/2024,130199,52,1,none,0.0,keeper: tier1,11,1,78,Inter,2023-07-27,2023-08-12,Ionuț Radu,AFC Bournemouth,tier1,2023-07-27,Inter,2023-07-27,0.16666666666666666,12,measured
+2023/2024,133127,15,0,tier2,0.35,tier2,11,1,78,Galatasaray,2023-08-18,2023-08-27,Nicolò Zaniolo,Aston Villa,tier2,2023-08-18,Galatasaray,2023-08-18,0.4252166666666666,12,measured
+2023/2024,133779,6,1,none,0.0,keeper: tier1,12,0,78,Empoli,2023-07-01,2023-08-13,Guglielmo Vicario,Tottenham Hotspur,tier1,2023-07-01,Empoli,2023-07-01,1.0,12,measured
+2023/2024,239578,52,0,data_club,0.45,data club: Championship,12,1,25,Leeds United,2023-09-01,2023-09-17,Luis Sinisterra,AFC Bournemouth,Championship origin,2023-09-01,Leeds United,2023-09-01,0.28375,12,measured
+2023/2024,254052,1,0,tier1,0.5,tier1,11,1,78,Ajax,2023-08-10,2023-08-20,Edson Álvarez,West Ham United,tier1,2023-08-10,Ajax,2023-08-10,0.8236500000000001,12,measured
+2023/2024,262280,21,0,data_club,0.45,data club: Premier League,12,0,78,Arsenal,2023-08-03,2023-08-12,Auston Trusty,Sheffield United,PL origin,2023-08-03,Arsenal,2023-08-03,0.4449916666666667,12,measured
+2023/2024,309344,8,0,tier1,0.5,tier1,12,0,78,VfB Stuttgart,2023-08-18,2023-08-19,Wataru Endo,Liverpool,tier1,2023-08-18,VfB Stuttgart,2023-08-18,0.21734166666666666,12,measured
+2023/2024,333781,63,0,tier1,0.5,tier1,7,5,78,Sevilla,2023-08-23,2023-08-26,Gonzalo Montiel,Nottingham Forest,tier1,2023-08-23,Sevilla,2023-08-23,0.35718333333333335,12,measured
+2023/2024,335653,63,0,tier1,0.5,tier1,12,0,78,Bologna,2023-09-01,2023-09-18,Nicolás Domínguez,Nottingham Forest,tier1,2023-09-01,Bologna,2023-09-01,0.5755916666666667,12,measured
+2023/2024,380886,14,0,data_club,0.45,data club: Premier League,10,3,87,Tottenham Hotspur,2023-09-01,2023-09-03,Sergio Reguilón,Manchester United,PL origin,2023-09-01,Tottenham Hotspur,2023-09-01,0.37918333333333337,12,measured
+2023/2024,380970,15,0,tier1,0.5,tier1,12,0,78,Villarreal,2023-07-12,2023-08-12,Pau Torres,Aston Villa,tier1,2023-07-12,Villarreal,2023-07-12,0.9754,12,measured
+2023/2024,432913,15,0,tier1,0.5,tier1,12,0,78,Bayer 04 Leverkusen,2023-07-22,2023-08-12,Moussa Diaby,Aston Villa,tier1,2023-07-22,Bayer 04 Leverkusen,2023-07-22,0.8427333333333333,12,measured
+2023/2024,438751,14,1,none,0.0,keeper: tier2,12,0,78,Fenerbahçe,2023-09-01,2023-09-03,Altay Bayındır,Manchester United,tier2,2023-09-01,Fenerbahçe,2023-09-01,0.0,12,measured
+2023/2024,459653,29,0,tier1,0.5,tier1,8,4,78,Girona,2023-08-31,2023-09-03,Santiago Bueno,Wolverhampton Wanderers,tier1,2023-08-31,Girona,2023-08-31,0.19175,12,measured
+2023/2024,524045,51,0,tier1,0.5,tier1,12,0,78,Genk,2024-01-30,2024-02-03,Daniel Muñoz,Crystal Palace,tier1,2024-01-30,Genk,2024-01-30,0.9982833333333333,12,measured
+2023/2024,531971,236,1,none,0.0,keeper: tier2,0,12,78,Elfsborg,2024-01-26,2024-01-31,Hákon Valdimarsson,Brentford,tier2,2024-01-26,Elfsborg,2024-01-26,0.0,12,measured
+2023/2024,538472,18,1,none,0.0,keeper: tier3,12,0,78,New England,2023-08-26,2023-09-02,Djordje Petrovic,Chelsea,tier3,2023-08-26,New England,2023-08-26,0.0,12,measured
+2023/2024,538850,27,0,tier1,0.5,tier1,10,2,78,Genk,2023-09-01,2023-09-18,Mike Tresor,Burnley,tier1,2023-09-01,Genk,2023-09-01,0.27185833333333337,12,measured
+2023/2024,540027,11,0,tier1,0.5,tier1,12,0,78,Ajax,2023-07-28,2023-08-12,Calvin Bassey,Fulham,tier1,2023-07-28,Ajax,2023-07-28,0.45255833333333334,12,measured
+2023/2024,581094,27,0,data_club,0.45,data club: Championship,12,3,104,West Bromwich Albion,2023-07-01,2023-08-11,Dara O'Shea,Burnley,Championship origin,2023-07-01,West Bromwich Albion,2023-07-01,0.8674083333333332,12,measured
+2023/2024,785998,8,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2023-07-02,2023-08-13,Dominik Szoboszlai,Liverpool,tier1,2023-07-02,RB Leipzig,2023-07-02,0.9716999999999999,12,measured
+2023/2024,1494236,115,0,data_club,0.45,data club: Championship,12,0,78,Birmingham City,2023-07-14,2023-08-12,Tahith Chong,Luton Town,Championship origin,2023-07-14,Birmingham City,2023-07-14,0.4878833333333334,12,measured
+2023/2024,1494663,52,0,data_club,0.45,data club: Championship,12,0,78,Norwich City,2023-08-10,2023-08-12,Max Aarons,AFC Bournemouth,Championship origin,2023-08-10,Norwich City,2023-08-10,0.8728916666666668,12,measured
+2023/2024,2511082,52,0,tier1,0.5,tier1,5,0,15,Sassuolo,2023-07-01,2023-08-12,Hamed Junior Traoré,AFC Bournemouth,tier1,2023-01-31,Sassuolo,2023-07-01,0.07104166666666667,12,measured
+2023/2024,2823228,20,0,tier1,0.5,tier1,9,3,78,AC Milan,2023-07-03,2023-08-12,Sandro Tonali,Newcastle United,tier1,2023-07-03,AC Milan,2023-07-03,0.4895500000000001,12,measured
+2023/2024,2875858,63,0,data_club,0.45,data club: Premier League,8,4,60,Chelsea,2023-09-01,2023-09-18,Callum Hudson-Odoi,Nottingham Forest,PL origin,2023-09-01,Chelsea,2023-09-01,0.44906666666666667,12,measured
+2023/2024,3876667,115,0,tier1,0.5,tier1,8,4,78,Sint-Truiden,2024-01-30,2024-02-03,Daiki Hashioka,Luton Town,tier1,2024-01-30,Sint-Truiden,2024-01-30,0.46439166666666676,12,measured
+2023/2024,4545525,8,0,data_club,0.45,data club: Championship,0,16,160,Blackpool,2023-05-31,2024-02-04,Rhys Williams,Liverpool,Championship origin,2023-05-31,Blackpool,2023-05-31,,0,not measured: never named for the club on or after the arrival
+2023/2024,4592198,15,0,data_club,0.45,data club: Championship,12,0,78,Middlesbrough,2024-02-01,2024-02-03,Morgan Rogers,Aston Villa,Championship origin,2024-02-01,Middlesbrough,2024-02-01,0.47759166666666664,12,measured
+2023/2024,5270462,8,0,tier1,0.5,tier1,11,1,78,FC Bayern München,2023-09-01,2023-09-16,Ryan Gravenberch,Liverpool,tier1,2023-09-01,FC Bayern München,2023-09-01,0.47171666666666656,12,measured
+2023/2024,5270466,19,0,tier1,0.5,tier1,1,11,78,Ajax,2023-07-14,2023-08-12,Jurriën Timber,Arsenal,tier1,2023-07-14,Ajax,2023-07-14,0.7643999999999999,12,measured
+2023/2024,5640849,1,0,tier1,0.5,tier1,12,0,78,Ajax,2023-08-27,2023-09-01,Mohammed Kudus,West Ham United,tier1,2023-08-27,Ajax,2023-08-27,0.599275,12,measured
+2023/2024,9308193,63,0,data_club,0.45,data club: Premier League,5,8,87,Arsenal,2023-09-01,2023-09-02,Nuno Tavares,Nottingham Forest,PL origin,2023-09-01,Arsenal,2023-09-01,0.42368333333333336,12,measured
+2023/2024,9605714,29,0,data_club,0.45,data club: Premier League,12,1,88,Manchester City,2023-09-01,2023-09-16,Tommy Doyle,Wolverhampton Wanderers,PL origin,2023-09-01,Manchester City,2023-09-01,0.2770916666666667,12,measured
+2023/2024,9606076,27,0,data_club,0.45,data club: Championship,8,27,297,Bristol City,2023-08-31,2023-09-18,Han-Noah Massengo,Burnley,Championship origin,2023-08-31,Bristol City,2023-08-31,0.10119166666666667,12,measured
+2023/2024,10309700,21,0,data_club,0.45,data club: Championship,12,0,33,Leicester City,2023-08-31,2023-09-02,Luke Thomas,Sheffield United,Championship origin,2023-08-31,Leicester City,2023-08-31,0.7657833333333334,12,measured
+2023/2024,12759174,21,0,tier1,0.5,tier1,11,1,78,Troyes,2023-07-17,2023-08-12,Yasser Larouci,Sheffield United,tier1,2023-07-17,Troyes,2023-07-17,0.21029999999999996,12,measured
+2023/2024,14338473,115,0,data_club,0.45,data club: Premier League,12,0,78,Wolverhampton Wanderers,2023-07-28,2023-08-12,Ryan Giles,Luton Town,PL origin,2023-07-28,Wolverhampton Wanderers,2023-07-28,0.2723416666666667,12,measured
+2023/2024,21773178,13,0,tier1,0.5,tier1,11,1,78,Udinese,2023-08-29,2023-09-02,Beto,Everton,tier1,2023-08-29,Udinese,2023-08-29,0.40051666666666663,12,measured
+2023/2024,23269740,78,0,tier1,0.5,tier1,9,3,78,FC Barcelona,2023-09-01,2023-09-16,Ansu Fati,Brighton & Hove Albion,tier1,2023-09-01,FC Barcelona,2023-09-01,0.3323416666666667,12,measured
+2023/2024,23697990,9,0,tier1,0.5,tier1,12,0,78,Rennes,2023-08-24,2023-08-27,Jérémy Doku,Manchester City,tier1,2023-08-24,Rennes,2023-08-24,0.6335500000000001,12,measured
+2023/2024,23715982,6,0,tier1,0.5,tier1,12,0,78,Genoa,2024-01-11,2024-01-14,Radu Drăgușin,Tottenham Hotspur,tier1,2024-01-11,Genoa,2024-01-11,0.23106666666666667,12,measured
+2023/2024,24092472,15,1,none,0.0,keeper: tier3,3,9,78,Adelaide United,2024-02-01,2024-02-11,Joe Gauci,Aston Villa,tier3,2024-02-01,Adelaide United,2024-02-01,0.0,12,measured
+2023/2024,24469185,115,0,data_club,0.45,data club: Premier League,12,0,78,Manchester United,2023-08-31,2023-09-16,Teden Mengi,Luton Town,PL origin,2023-08-31,Manchester United,2023-08-31,0.7121166666666667,12,measured
+2023/2024,24799911,20,0,data_club,0.45,data club: Championship,10,0,55,Southampton,2023-08-08,2023-08-12,Tino Livramento,Newcastle United,Championship origin,2023-08-08,Southampton,2023-08-08,0.13530833333333334,12,measured
+2023/2024,24830085,63,0,data_club,0.45,data club: Championship,12,14,239,Norwich City,2023-09-01,2023-09-18,Andrew Omobamidele,Nottingham Forest,Championship origin,2023-09-01,Norwich City,2023-09-01,0.4603833333333333,12,measured
+2023/2024,24838191,9,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2023-08-05,2023-08-11,Josko Gvardiol,Manchester City,tier1,2023-08-05,RB Leipzig,2023-08-05,0.6798416666666666,12,measured
+2023/2024,28575686,27,1,none,0.0,keeper: data club: Premier League,12,0,78,Manchester City,2023-07-20,2023-08-11,James Trafford,Burnley,PL origin,2023-07-20,Manchester City,2023-07-20,1.0,12,measured
+2023/2024,28912768,27,0,tier2,0.0,tier2,12,6,109,Aston Villa U21,2023-08-22,2023-08-27,Aaron Ramsey,Burnley,tier2,2023-08-22,Aston Villa U21,2023-08-22,0.25145,12,measured
+2023/2024,28912777,15,0,data_club,0.45,data club: no arrival on or before the date,2,1,33,,,2023-08-12,Cameron Archer,Aston Villa,"data club, arrival record dated after the fixture",2024-07-11,Sheffield United,2024-07-11,,0,not measured: never named for the club on or after the arrival
+2023/2024,28912777,21,0,data_club,0.45,data club: Premier League,10,0,55,Aston Villa,2023-08-27,2023-09-02,Cameron Archer,Sheffield United,PL origin,2023-08-27,Aston Villa,2023-08-27,0.8626583333333334,12,measured
+2023/2024,28931574,78,0,data_club,0.45,data club: Championship,12,0,78,Watford,2023-07-01,2023-08-12,João Pedro,Brighton & Hove Albion,Championship origin,2023-07-01,Watford,2023-07-01,0.5420083333333333,12,measured
+2023/2024,30446925,115,0,data_club,0.45,data club: Premier League,12,0,78,Manchester City,2023-07-21,2023-08-12,Issa Kaboré,Luton Town,PL origin,2023-07-21,Manchester City,2023-07-21,0.7093166666666667,12,measured
+2023/2024,32031212,21,0,tier1,0.5,tier1,12,0,78,Lommel SK,2023-08-09,2023-08-12,Vinicius de Souza Costa,Sheffield United,tier1,2023-08-09,Lommel SK,2023-08-09,0.8596833333333334,12,measured
+2023/2024,33186827,15,0,tier2,0.35,tier2,1,2,34,,,2023-08-12,Jaden Philogene,Aston Villa,tier2,2024-07-19,Hull City,2024-07-19,0.3269083333333333,12,measured
+2023/2024,34432365,63,0,tier1,0.5,tier1,10,2,78,Borussia Dortmund,2024-01-31,2024-02-04,Giovanni Reyna,Nottingham Forest,tier1,2024-01-31,Borussia Dortmund,2024-01-31,0.22940000000000002,12,measured
+2023/2024,35281182,27,0,tier1,0.5,tier1,12,1,82,Rennes,2024-02-01,2024-02-03,Lorenz Assignon,Burnley,tier1,2024-02-01,Rennes,2024-02-01,0.9194666666666667,12,measured
+2023/2024,36084757,29,0,tier1,0.5,tier1,1,0,1,Metz,2023-07-01,2023-08-14,Boubacar Traoré,Wolverhampton Wanderers,tier1,2022-09-01,Metz,2023-07-01,0.2588833333333333,12,measured
+2023/2024,37257596,78,1,none,0.0,keeper: tier1,12,0,78,Anderlecht,2023-07-03,2023-08-12,Bart Verbruggen,Brighton & Hove Albion,tier1,2023-07-03,Anderlecht,2023-07-03,0.4166666666666667,12,measured
+2023/2024,37261110,27,0,tier2,0.35,tier2,12,0,78,Basel,2023-07-19,2023-08-11,Zeki Amdouni,Burnley,tier2,2023-07-19,Basel,2023-07-19,0.655675,12,measured
+2023/2024,37296248,6,0,tier1,0.5,tier1,11,1,78,VfL Wolfsburg,2023-08-08,2023-08-13,Micky van de Ven,Tottenham Hotspur,tier1,2023-08-08,VfL Wolfsburg,2023-08-08,0.9390916666666668,12,measured
+2023/2024,37325012,14,0,tier1,0.5,tier1,9,3,78,Atalanta,2023-08-05,2023-08-14,Rasmus Højlund,Manchester United,tier1,2023-08-05,Atalanta,2023-08-05,0.7321083333333335,12,measured
+2023/2024,37350704,51,0,data_club,0.45,data club: Championship,12,0,78,Blackburn Rovers,2024-02-01,2024-02-03,Adam Wharton,Crystal Palace,Championship origin,2024-02-01,Blackburn Rovers,2024-02-01,0.8463083333333333,12,measured
+2023/2024,37351292,27,0,tier1,0.5,tier1,12,0,78,Montpellier,2024-02-01,2024-02-03,Maxime Estève,Burnley,tier1,2024-02-01,Montpellier,2024-02-01,0.9135916666666667,12,measured
+2023/2024,37357411,21,0,tier2,0.35,tier2,10,2,78,Brøndby IF,2023-07-13,2023-08-12,Anis Slimane,Sheffield United,tier2,2023-07-13,Brøndby IF,2023-07-13,0.11115833333333335,12,measured
+2023/2024,37357499,29,0,unknown+override,0.0,unknown+override,3,1,10,Without Club,2023-09-18,2023-12-02,Tawanda Chirewa,Wolverhampton Wanderers,unknown+override,2023-09-18,Without Club,2023-09-18,0.016291666666666666,12,measured
+2023/2024,37381778,52,0,tier1,0.5,tier1,12,0,78,AZ Alkmaar,2023-07-20,2023-08-12,Milos Kerkez,AFC Bournemouth,tier1,2023-07-19,AZ Alkmaar,2023-07-20,0.7801250000000001,12,measured
+2023/2024,37423141,18,0,tier1,0.5,tier1,12,0,78,Rennes,2023-08-01,2023-08-13,Lesley Ugochukwu,Chelsea,tier1,2023-08-01,Rennes,2023-08-01,0.159125,12,measured
+2023/2024,37536874,18,0,data_club,0.45,data club: Championship,2,34,36,Southampton,2023-08-18,2023-08-25,Roméo Lavia,Chelsea,Championship origin,2023-08-18,Southampton,2023-08-18,0.4287666666666667,12,measured
+2023/2024,37540621,18,0,tier1,0.5,tier1,11,1,78,Villarreal,2023-07-01,2023-08-13,Nicolas Jackson,Chelsea,tier1,2023-07-01,Villarreal,2023-07-01,0.8430583333333334,12,measured
+2023/2024,37550443,52,0,data_club,0.45,data club: Championship,12,12,207,Bristol City,2023-08-10,2023-08-19,Alex Scott,AFC Bournemouth,Championship origin,2023-08-10,Bristol City,2023-08-10,0.5462083333333333,12,measured
+2023/2024,37553666,21,0,tier2,0.35,tier2,12,0,78,Häcken,2023-07-18,2023-08-12,Bénie Traoré,Sheffield United,tier2,2023-07-18,Häcken,2023-07-18,0.29796666666666666,12,measured
+2023/2024,37555964,27,0,data_club,0.45,data club: Premier League,3,0,6,Chelsea,2024-01-13,2024-01-31,David Datro Fofana,Burnley,PL origin,2024-01-13,Chelsea,2024-01-13,0.744425,12,measured
+2023/2024,37562129,63,0,data_club,0.45,data club: Premier League,6,6,77,Chelsea,2023-08-25,2023-09-02,Andrey Santos,Nottingham Forest,PL origin,2023-08-25,Chelsea,2023-08-25,0.018699999999999998,6,measured
+2023/2024,37567285,51,0,tier3,0.25,tier3,4,8,78,Flamengo,2023-08-05,2023-08-12,Matheus França,Crystal Palace,tier3,2023-08-05,Flamengo,2023-08-05,0.06199166666666666,12,measured
+2023/2024,37568165,6,0,tier3,0.25,tier3,5,7,78,Rosario Central,2023-08-08,2023-08-13,Alejo Veliz,Tottenham Hotspur,tier3,2023-08-08,Rosario Central,2023-08-08,0.05749166666666666,12,measured
+2023/2024,37577727,78,0,tier3,0.25,tier3,6,6,78,Boca Juniors,2024-01-20,2024-01-30,Valentín Barco,Brighton & Hove Albion,tier3,2024-01-20,Boca Juniors,2024-01-20,0.3134272727272727,11,measured
+2023/2024,37582649,6,0,data_club,0.45,data club: Championship,7,13,189,Blackburn Rovers,2023-08-05,2023-08-13,Ashley Phillips,Tottenham Hotspur,Championship origin,2023-08-05,Blackburn Rovers,2023-08-05,0.0,7,measured
+2023/2024,37587573,13,0,tier1,0.5,tier1,11,1,78,Sporting CP,2023-08-11,2023-08-20,Youssef Chermiti,Everton,tier1,2023-08-11,Sporting CP,2023-08-11,0.07030833333333332,12,measured
+2023/2024,37588823,78,0,tier1,0.5,tier1,11,1,78,LOSC Lille,2023-08-29,2023-09-02,Carlos Baleba,Brighton & Hove Albion,tier1,2023-08-29,LOSC Lille,2023-08-29,0.44436666666666674,12,measured
+2023/2024,37592734,18,0,tier1,0.0,tier1,1,2,33,Benfica II,2023-07-01,2023-08-13,Diego Moreira,Chelsea,tier1,2023-07-01,Benfica II,2023-07-01,0.0,1,measured
+2023/2024,37593240,27,0,tier1,0.5,tier1,8,4,78,Troyes,2023-08-12,2023-08-27,Wilson Odobert,Burnley,tier1,2023-08-12,Troyes,2023-08-12,0.303625,12,measured
+2023/2024,37595813,29,0,tier1,0.5,tier1,5,7,78,Paris Saint Germain,2024-01-31,2024-02-04,Noha Lemina,Wolverhampton Wanderers,tier1,2024-01-31,Paris Saint Germain,2024-01-31,0.0,5,measured
+2023/2024,37597738,63,0,tier1,0.5,tier1,10,2,78,Sporting CP,2024-02-01,2024-02-04,Rodrigo Ribeiro,Nottingham Forest,tier1,2024-02-01,Sporting CP,2024-02-01,0.0323,12,measured
+2023/2024,37619858,52,1,none,0.0,keeper: unknown,1,11,78,Queen's Park,2024-02-01,2024-02-04,Callan McKenna,AFC Bournemouth,unknown,2024-02-01,Queen's Park,2024-02-01,0.0,4,measured
+2023/2024,37622998,27,0,tier1,0.0,tier1,12,0,78,Espanyol II,2023-07-25,2023-08-11,Luca Koleosho,Burnley,tier1,2023-07-25,Espanyol II,2023-07-25,0.6991999999999999,12,measured
+2023/2024,37627036,63,0,tier3,0.25,tier3,10,2,78,Corinthians,2023-08-31,2023-09-18,Murillo,Nottingham Forest,tier3,2023-08-31,Corinthians,2023-08-31,0.9670416666666667,12,measured
+2023/2024,37627277,236,0,unknown+override,0.35,unknown+override,2,3,15,Seongnam FC,2023-07-01,2023-10-07,Ji-soo Kim,Brentford,unknown+override,2023-07-01,Seongnam FC,2023-07-01,0.0,12,measured
+2023/2024,37655005,236,0,data_club,0.45,"data club: data club, neither league that season",0,12,78,Peterborough,2023-08-31,2023-09-16,Benjamin Arthur,Brentford,data club in neither league that season,2023-08-31,Peterborough,2023-08-31,0.0,7,measured
+2023/2024,37655932,29,0,tier3,0.25,tier3,1,11,78,Libertad,2023-08-31,2023-09-03,Enso González,Wolverhampton Wanderers,tier3,2023-08-31,Libertad,2023-08-31,0.007622222222222221,9,measured
+2023/2024,37666048,18,0,unknown+override,0.0,unknown+override,0,12,78,Newcastle U18,2023-08-21,2023-08-25,Ollie Harrison,Chelsea,unknown+override,2023-08-21,Newcastle U18,2023-08-21,0.0,1,measured
+2023/2024,37669492,8,0,unknown+override,0.0,unknown+override,1,4,15,Leicester U18,2023-09-02,2023-11-12,Trey Nyoni,Liverpool,unknown+override,2023-09-02,Leicester U18,2023-09-02,0.0,12,measured
+2023/2024,37691410,18,0,tier3,0.25,tier3,9,3,78,Santos,2023-08-24,2023-09-02,Deivid Washington,Chelsea,tier3,2023-08-24,Santos,2023-08-24,0.012758333333333335,12,measured
+2023/2024,37709434,236,0,tier2,0.35,tier2,0,12,78,Sivasspor,2024-01-11,2024-01-20,Yunus Konak,Brentford,tier2,2024-01-11,Sivasspor,2024-01-11,0.02594166666666667,12,measured
+2024/2025,519,63,1,none,0.0,keeper: unknown,5,7,77,TBC,2025-01-13,2025-01-19,Wayne Hennessey,Nottingham Forest,unknown,2022-07-15,Burnley,2025-01-13,0.0,5,measured
+2024/2025,4842,9,0,tier1,0.5,tier1,12,0,78,FC Barcelona,2024-08-23,2024-08-24,İlkay Gündoğan,Manchester City,tier1,2016-07-01,Borussia Dortmund,2024-08-23,0.7084166666666668,12,measured
+2024/2025,5801,116,0,data_club,0.45,data club: Championship,12,0,78,West Bromwich Albion,2024-08-01,2024-08-17,Conor Townsend,Ipswich Town,Championship origin,2024-08-01,West Bromwich Albion,2024-08-01,0.005833333333333334,12,measured
+2024/2025,6610,11,0,data_club,0.45,data club: Premier League,7,5,78,Tottenham Hotspur,2024-07-26,2024-08-16,Ryan Sessegnon,Fulham,PL origin,2024-07-26,Tottenham Hotspur,2024-07-26,0.009166666666666667,12,measured
+2024/2025,8740,116,0,data_club,0.45,data club: Championship,12,0,78,Blackburn Rovers,2024-08-16,2024-08-17,Sammie Szmodics,Ipswich Town,Championship origin,2024-08-16,Blackburn Rovers,2024-08-16,0.5499583333333332,12,measured
+2024/2025,25738,78,0,tier2,0.35,tier2,7,5,78,Fenerbahçe,2024-08-24,2024-08-31,Ferdi Kadıoğlu,Brighton & Hove Albion,tier2,2024-08-24,Fenerbahçe,2024-08-24,0.5362416666666666,12,measured
+2024/2025,26768,14,0,tier1,0.5,tier1,12,0,78,FC Bayern München,2024-08-13,2024-08-16,Matthijs de Ligt,Manchester United,tier1,2024-08-13,FC Bayern München,2024-08-13,0.7904749999999999,12,measured
+2024/2025,28716,14,0,tier1,0.5,tier1,12,0,78,FC Bayern München,2024-08-13,2024-08-16,Noussair Mazraoui,Manchester United,tier1,2024-08-13,FC Bayern München,2024-08-13,0.8330833333333333,12,measured
+2024/2025,31532,1,0,tier1,0.5,tier1,3,9,78,Borussia Dortmund,2024-08-05,2024-08-17,Niclas Füllkrug,West Ham United,tier1,2024-08-05,Borussia Dortmund,2024-08-05,0.4347666666666667,12,measured
+2024/2025,32710,19,0,tier1,0.5,tier1,7,5,78,Real Sociedad,2024-08-27,2024-08-31,Mikel Merino,Arsenal,tier1,2024-08-27,Real Sociedad,2024-08-27,0.5407333333333333,12,measured
+2024/2025,33079,6,0,tier1,0.5,tier1,8,4,78,Lens,2025-02-02,2025-02-16,Kevin Danso,Tottenham Hotspur,tier1,2025-02-02,Lens,2025-02-02,0.7816916666666667,12,measured
+2024/2025,96722,51,0,tier1,0.5,tier1,12,0,78,Olympique Marseille,2024-08-01,2024-08-18,Ismaïla Sarr,Crystal Palace,tier1,2024-08-01,Olympique Marseille,2024-08-01,0.5277333333333334,12,measured
+2024/2025,122090,116,0,data_club,0.45,data club: Championship,7,29,108,Luton Town,2024-08-28,2024-08-31,Chiedozie Ogbene,Ipswich Town,Championship origin,2024-08-28,Luton Town,2024-08-28,0.35706000000000004,10,measured
+2024/2025,129836,8,0,tier1,0.5,tier1,2,10,78,Juventus,2024-08-29,2024-09-01,Federico Chiesa,Liverpool,tier1,2024-08-29,Juventus,2024-08-29,0.032391666666666666,12,measured
+2024/2025,163152,18,0,tier1,0.5,tier1,12,0,78,Atlético de Madrid,2024-08-21,2024-08-25,João Félix,Chelsea,tier1,2023-01-11,Atlético de Madrid,2024-08-21,0.20859999999999998,12,measured
+2024/2025,178032,63,0,tier1,0.5,tier1,11,1,78,Fiorentina,2024-07-18,2024-08-17,Nikola Milenković,Nottingham Forest,tier1,2024-07-18,Fiorentina,2024-07-18,1.0,12,measured
+2024/2025,186606,52,1,none,0.0,keeper: data club: Premier League,10,3,89,Chelsea,2024-08-29,2024-08-31,Kepa Arrizabalaga,AFC Bournemouth,PL origin,2024-08-29,Chelsea,2024-08-29,1.0,12,measured
+2024/2025,186668,15,0,tier1,0.5,tier1,11,1,78,Paris Saint Germain,2025-02-03,2025-02-15,Marco Asensio,Aston Villa,tier1,2025-02-03,Paris Saint Germain,2025-02-03,0.64815,12,measured
+2024/2025,186968,1,0,tier1,0.5,tier1,12,0,78,Paris Saint Germain,2024-08-30,2024-09-14,Carlos Soler,West Ham United,tier1,2024-08-30,Paris Saint Germain,2024-08-30,0.5026333333333334,12,measured
+2024/2025,194768,116,0,tier1,0.5,tier1,9,3,78,Napoli,2024-08-19,2024-08-24,Jens Cajuste,Ipswich Town,tier1,2024-08-19,Napoli,2024-08-19,0.4974333333333334,12,measured
+2024/2025,254081,1,0,tier1,0.5,tier1,12,0,78,Real Betis,2024-08-06,2024-08-17,Guido Rodríguez,West Ham United,tier1,2024-08-06,Real Betis,2024-08-06,0.7296666666666667,12,measured
+2024/2025,289398,29,0,tier1,0.5,tier1,12,0,78,Reims,2025-02-03,2025-02-16,Marshall Munetsi,Wolverhampton Wanderers,tier1,2025-02-03,Reims,2025-02-03,0.89385,12,measured
+2024/2025,294000,9,0,tier1,0.5,tier1,12,0,78,Eintracht Frankfurt,2025-01-23,2025-01-25,Omar Marmoush,Manchester City,tier1,2025-01-23,Eintracht Frankfurt,2025-01-23,0.8388416666666666,12,measured
+2024/2025,310131,51,0,tier1,0.5,tier1,11,1,78,Lazio,2024-07-01,2024-08-18,Daichi Kamada,Crystal Palace,tier1,2024-07-01,Lazio,2024-07-01,0.5714916666666666,12,measured
+2024/2025,458682,29,0,tier1,0.5,tier1,12,0,78,Celta de Vigo,2024-07-02,2024-08-17,Jørgen Strand Larsen,Wolverhampton Wanderers,tier1,2024-07-02,Celta de Vigo,2024-07-02,0.8841833333333332,12,measured
+2024/2025,524847,42,0,tier1,0.5,tier1,8,4,78,Parma,2025-01-15,2025-01-18,Woyo Coulibaly,Leicester City,tier1,2025-01-15,Parma,2025-01-15,0.12532000000000001,10,measured
+2024/2025,529856,1,0,tier1,0.5,tier1,12,0,78,Nice,2024-08-10,2024-08-17,Jean-Clair Todibo,West Ham United,tier1,2024-08-10,Nice,2024-08-10,0.5284833333333333,12,measured
+2024/2025,537758,15,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2025-01-14,2025-01-18,Donyell Malen,Aston Villa,tier1,2025-01-14,Borussia Dortmund,2025-01-14,0.26484166666666664,12,measured
+2024/2025,538034,18,0,data_club,0.45,data club: Premier League,9,2,51,Manchester United,2024-08-30,2024-09-14,Jadon Sancho,Chelsea,PL origin,2024-08-30,Manchester United,2024-08-30,0.613275,12,measured
+2024/2025,540613,18,0,data_club,0.45,data club: Premier League,12,12,145,Leicester City,2024-07-02,2024-08-18,Kiernan Dewsbury-Hall,Chelsea,PL origin,2024-07-02,Leicester City,2024-07-02,0.13635,12,measured
+2024/2025,581094,116,0,data_club,0.45,data club: Championship,12,0,23,Burnley,2024-08-25,2024-08-31,Dara O'Shea,Ipswich Town,Championship origin,2024-08-25,Burnley,2024-08-25,0.8902666666666667,12,measured
+2024/2025,784373,11,0,tier1,0.5,tier1,4,8,78,Villarreal,2024-08-03,2024-08-16,Jorge Cuenca,Fulham,tier1,2024-08-03,Villarreal,2024-08-03,0.093675,12,measured
+2024/2025,893705,14,0,tier1,0.5,tier1,12,0,78,Paris Saint Germain,2024-08-30,2024-09-14,Manuel Ugarte,Manchester United,tier1,2024-08-30,Paris Saint Germain,2024-08-30,0.46832500000000005,12,measured
+2024/2025,1494712,78,0,tier2,0.35,tier2,4,8,78,Celtic,2024-08-26,2024-08-31,Matt O'Riley,Brighton & Hove Albion,tier2,2024-08-26,Celtic,2024-08-26,0.4356416666666667,12,measured
+2024/2025,1498548,63,0,tier1,0.5,tier1,12,0,78,Vitória Guimarães,2024-08-01,2024-08-17,Jota Silva,Nottingham Forest,tier1,2024-08-01,Vitória Guimarães,2024-08-01,0.27386666666666665,12,measured
+2024/2025,3188067,65,0,data_club,0.45,data club: Championship,12,9,170,Swansea City,2024-07-05,2024-08-17,Nathan Wood,Southampton,Championship origin,2024-07-05,Swansea City,2024-07-05,0.53835,12,measured
+2024/2025,5666458,51,0,tier1,0.5,tier1,12,0,78,VfL Wolfsburg,2024-08-30,2024-09-14,Maxence Lacroix,Crystal Palace,tier1,2024-08-30,VfL Wolfsburg,2024-08-30,1.0,12,measured
+2024/2025,5666480,65,0,tier1,0.5,tier1,12,0,78,AZ Alkmaar,2024-07-14,2024-08-17,Yukinari Sugawara,Southampton,tier1,2024-07-14,AZ Alkmaar,2024-07-14,0.6257666666666667,12,measured
+2024/2025,9605680,14,0,tier1,0.5,tier1,12,0,78,Bologna,2024-07-14,2024-08-16,Joshua Zirkzee,Manchester United,tier1,2024-07-14,Bologna,2024-07-14,0.44011666666666666,12,measured
+2024/2025,9939203,1,0,data_club,0.45,data club: Championship,12,0,78,Leeds United,2024-08-03,2024-08-17,Crysencio Summerville,West Ham United,Championship origin,2024-08-03,Leeds United,2024-08-03,0.4088583333333333,12,measured
+2024/2025,10310765,116,0,data_club,0.45,data club: Championship,12,0,78,Sunderland,2024-08-24,2024-08-31,Jack Clarke,Ipswich Town,Championship origin,2024-08-24,Sunderland,2024-08-24,0.45541666666666675,12,measured
+2024/2025,11298616,52,0,tier1,0.5,tier1,12,0,78,Porto,2024-08-16,2024-08-25,Evanilson,AFC Bournemouth,tier1,2024-08-16,Porto,2024-08-16,0.78825,12,measured
+2024/2025,11658171,236,0,data_club,0.45,data club: Premier League,12,0,78,Liverpool,2024-08-22,2024-08-25,Sepp van den Berg,Brentford,PL origin,2024-08-22,Liverpool,2024-08-22,0.8351999999999999,12,measured
+2024/2025,21412957,236,0,data_club,0.45,data club: Premier League,12,0,78,Liverpool,2024-08-12,2024-08-18,Fábio Carvalho,Brentford,PL origin,2024-08-12,Liverpool,2024-08-12,0.28192500000000004,12,measured
+2024/2025,21782390,78,0,data_club,0.45,data club: Championship,12,0,78,Leeds United,2024-08-19,2024-08-24,Georginio Rutter,Brighton & Hove Albion,Championship origin,2024-08-19,Leeds United,2024-08-19,0.6799750000000001,12,measured
+2024/2025,22146099,13,0,tier1,0.5,tier1,11,1,78,Napoli,2024-07-26,2024-08-17,Jesper Lindstrøm,Everton,tier1,2024-07-26,Napoli,2024-07-26,0.44969166666666666,12,measured
+2024/2025,23260605,52,0,tier1,0.5,tier1,11,1,78,FC Barcelona,2024-08-13,2024-08-17,Julián Araujo,AFC Bournemouth,tier1,2024-08-13,FC Barcelona,2024-08-13,0.32595833333333335,12,measured
+2024/2025,23269737,9,0,tier1,0.5,tier1,12,0,78,Porto,2025-02-03,2025-02-15,Nico González,Manchester City,tier1,2025-02-03,Porto,2025-02-03,0.5938583333333334,12,measured
+2024/2025,23278684,19,0,tier1,0.5,tier1,8,4,78,Bologna,2024-07-29,2024-08-17,Riccardo Calafiori,Arsenal,tier1,2024-07-29,Bologna,2024-07-29,0.5623333333333335,12,measured
+2024/2025,23661272,13,0,tier1,0.5,tier1,12,0,78,Olympique Marseille,2024-07-03,2024-08-17,Iliman Ndiaye,Everton,tier1,2024-07-03,Olympique Marseille,2024-07-03,0.8212666666666667,12,measured
+2024/2025,23715941,18,1,none,0.0,keeper: tier1,11,1,78,Villarreal,2024-07-30,2024-08-18,Filip Jørgensen,Chelsea,tier1,2024-07-30,Villarreal,2024-07-30,0.0,12,measured
+2024/2025,24082563,78,0,tier1,0.5,tier1,9,3,78,Feyenoord,2024-07-05,2024-08-17,Mats Wieffer,Brighton & Hove Albion,tier1,2024-07-05,Feyenoord,2024-07-05,0.4005250000000001,12,measured
+2024/2025,28176047,42,0,tier1,0.5,tier1,12,0,78,Atalanta,2024-07-09,2024-08-19,Caleb Okoli,Leicester City,tier1,2024-07-09,Atalanta,2024-07-09,0.6624583333333334,12,measured
+2024/2025,28912974,78,0,data_club,0.45,data club: Championship,11,3,92,Derby County,2025-01-31,2025-02-14,Eiran Cashin,Brighton & Hove Albion,Championship origin,2025-01-31,Derby County,2025-01-31,0.0252,11,measured
+2024/2025,28912976,116,0,tier2,0.0,tier2,12,0,78,Manchester City U21,2024-07-13,2024-08-17,Liam Delap,Ipswich Town,tier2,2024-07-13,Manchester City U21,2024-07-13,0.7656333333333333,12,measured
+2024/2025,29311982,63,1,none,0.0,keeper: tier3,12,0,78,Corinthians,2024-07-09,2024-08-17,Carlos Miguel,Nottingham Forest,tier3,2024-07-09,Corinthians,2024-07-09,0.0,12,measured
+2024/2025,33186827,15,0,data_club,0.45,data club: Championship,12,3,103,Hull City,2024-07-19,2024-08-17,Jaden Philogene,Aston Villa,Championship origin,2024-07-19,Hull City,2024-07-19,0.3269083333333333,12,measured
+2024/2025,36073933,63,0,tier1,0.5,tier1,11,1,78,Benfica,2024-08-30,2024-09-14,Morato,Nottingham Forest,tier1,2024-08-30,Benfica,2024-08-30,0.1939833333333333,12,measured
+2024/2025,37255841,116,0,data_club,0.45,data club: Championship,12,8,116,Hull City,2024-07-12,2024-08-17,Jacob Greaves,Ipswich Town,Championship origin,2024-07-12,Hull City,2024-07-12,0.9166666666666666,12,measured
+2024/2025,37261923,29,0,tier1,0.5,tier1,10,2,78,Reims,2025-01-09,2025-01-15,Emmanuel Agbadou,Wolverhampton Wanderers,tier1,2025-01-09,Reims,2025-01-09,0.9705416666666666,12,measured
+2024/2025,37350031,65,0,data_club,0.45,"data club: data club, neither league that season",0,12,78,Peterborough United,2024-07-03,2024-08-17,Ronnie Edwards,Southampton,data club in neither league that season,2024-07-03,Peterborough United,2024-07-03,0.42345000000000005,12,measured
+2024/2025,37354841,29,0,tier1,0.5,tier1,12,0,78,Sporting Braga,2024-07-01,2024-08-17,Rodrigo Gomes,Wolverhampton Wanderers,tier1,2024-07-01,Sporting Braga,2024-07-01,0.19799166666666668,12,measured
+2024/2025,37391514,6,0,unknown+override,0.0,unknown+override,1,2,0,Wigan Youth,2020-07-28,2024-08-19,Alfie Devine,Tottenham Hotspur,unknown+override,2020-07-28,Wigan Youth,2020-07-28,0.0,11,measured
+2024/2025,37391641,52,0,data_club,0.45,data club: Championship,2,0,21,Sheffield United,2024-07-10,2024-08-17,Daniel Jebbison,AFC Bournemouth,Championship origin,2024-07-10,Sheffield United,2024-07-10,0.10180833333333333,12,measured
+2024/2025,37402303,63,0,tier3,0.25,tier3,10,2,78,Talleres Córdoba,2024-08-16,2024-08-24,Ramón Sosa,Nottingham Forest,tier3,2024-08-16,Talleres Córdoba,2024-08-16,0.17170833333333335,12,measured
+2024/2025,37407204,236,0,tier1,0.5,tier1,1,11,78,Club Brugge,2024-07-01,2024-08-18,Igor Thiago,Brentford,tier1,2024-07-01,Club Brugge,2024-07-01,0.4879833333333334,12,measured
+2024/2025,37410255,13,0,tier3,0.25,tier3,11,0,66,Flamengo,2025-02-03,2025-02-12,Carlos Alcaraz,Everton,tier3,2025-02-03,Flamengo,2025-02-03,0.5403416666666666,12,measured
+2024/2025,37410636,29,0,tier1,0.5,tier1,12,0,78,Ajax,2024-08-30,2024-09-15,Carlos Forbs,Wolverhampton Wanderers,tier1,2024-08-30,Ajax,2024-08-30,0.20121666666666668,12,measured
+2024/2025,37430162,6,1,none,0.0,keeper: tier2,12,0,78,Slavia Praha,2025-01-05,2025-01-15,Antonín Kinský,Tottenham Hotspur,tier2,2025-01-05,Slavia Praha,2025-01-05,0.3333333333333333,12,measured
+2024/2025,37451258,65,0,tier3,0.25,tier3,8,4,78,São Paulo,2025-01-01,2025-01-04,Welington,Southampton,tier3,2025-01-01,São Paulo,2025-01-01,0.3608,12,measured
+2024/2025,37509380,65,0,tier1,0.5,tier1,6,6,78,Rennes,2025-01-21,2025-01-25,Albert Grønbæk,Southampton,tier1,2025-01-21,Rennes,2025-01-21,0.2659666666666667,6,measured
+2024/2025,37526007,29,0,tier3,0.25,tier3,12,0,78,Fluminense,2024-08-30,2024-08-31,André,Wolverhampton Wanderers,tier3,2024-08-30,Fluminense,2024-08-30,0.574825,12,measured
+2024/2025,37527169,9,0,tier1,0.5,tier1,11,1,78,Troyes,2024-07-18,2024-08-18,Savinho,Manchester City,tier1,2024-07-18,Troyes,2024-07-18,0.5773083333333334,12,measured
+2024/2025,37528754,13,0,tier1,0.5,tier1,12,0,78,Olympique Lyonnais,2024-07-30,2024-08-17,Jake O'Brien,Everton,tier1,2024-07-30,Olympique Lyonnais,2024-07-30,0.025891666666666664,12,measured
+2024/2025,37531504,6,0,tier1,0.5,tier1,12,0,78,FC Bayern München,2025-02-03,2025-02-16,Mathys Tel,Tottenham Hotspur,tier1,2025-02-03,FC Bayern München,2025-02-03,0.6878416666666666,12,measured
+2024/2025,37536874,18,0,data_club,0.45,data club: Championship,10,4,14,Southampton,2023-08-18,2024-08-18,Roméo Lavia,Chelsea,Championship origin,2023-08-18,Southampton,2023-08-18,0.4287666666666667,12,measured
+2024/2025,37537876,65,0,tier3,0.25,tier3,0,1,12,São Paulo,2024-08-16,2024-08-17,Juan Larios,Southampton,tier3,2022-09-01,Manchester City U21,2024-08-16,,0,not measured: never named for the club on or after the arrival
+2024/2025,37537937,51,0,tier1,0.5,tier1,2,10,78,Real Betis,2024-07-02,2024-08-18,Chadi Riad,Crystal Palace,tier1,2024-07-02,Real Betis,2024-07-02,0.2629916666666667,12,measured
+2024/2025,37558991,78,0,tier1,0.5,tier1,6,6,78,FSV Mainz 05,2024-08-14,2024-08-17,Brajan Gruda,Brighton & Hove Albion,tier1,2024-08-14,FSV Mainz 05,2024-08-14,0.2699833333333333,12,measured
+2024/2025,37559109,42,0,tier1,0.5,tier1,12,0,78,Genk,2024-08-29,2024-08-31,Bilal El Khannouss,Leicester City,tier1,2024-08-29,Genk,2024-08-29,0.3339583333333333,12,measured
+2024/2025,37560802,29,0,tier2,0.35,tier2,12,0,78,Crvena Zvezda,2025-02-03,2025-02-16,Nasser Djiga,Wolverhampton Wanderers,tier2,2025-02-03,Crvena Zvezda,2025-02-03,0.026875,12,measured
+2024/2025,37563876,78,0,tier3,0.25,tier3,10,2,78,Inter Miami,2025-01-01,2025-01-04,Diego Gómez,Brighton & Hove Albion,tier3,2025-01-01,Inter Miami,2025-01-01,0.40771666666666667,12,measured
+2024/2025,37565028,78,0,tier2,0.0,tier2,0,2,23,Arsenal U21,2024-07-07,2024-08-17,Amario Cozier-Duberry,Brighton & Hove Albion,tier2,2024-07-07,Arsenal U21,2024-07-07,0.0,1,measured
+2024/2025,37581741,6,0,data_club,0.45,data club: Championship,12,0,78,Leeds United,2024-07-02,2024-08-19,Archie Gray,Tottenham Hotspur,Championship origin,2024-07-02,Leeds United,2024-07-02,0.06510833333333334,12,measured
+2024/2025,37589611,42,0,tier2,0.0,tier2,0,12,78,Chelsea U21,2024-07-07,2024-08-19,Michael Golding,Leicester City,tier2,2024-07-07,Chelsea U21,2024-07-07,0.0,2,measured
+2024/2025,37593153,65,0,tier1,0.5,tier1,12,0,78,Sporting CP,2024-08-20,2024-08-24,Mateus Fernandes,Southampton,tier1,2024-08-20,Sporting CP,2024-08-20,0.8093916666666668,12,measured
+2024/2025,37593154,18,0,tier2,0.35,tier2,12,0,78,Basel,2024-07-12,2024-08-18,Renato Veiga,Chelsea,tier2,2024-07-12,Basel,2024-07-12,0.16585833333333333,12,measured
+2024/2025,37593240,6,0,data_club,0.45,data club: Championship,12,22,34,Burnley,2024-08-16,2024-08-19,Wilson Odobert,Tottenham Hotspur,Championship origin,2024-08-16,Burnley,2024-08-16,0.49329166666666663,12,measured
+2024/2025,37600357,14,0,tier1,0.5,tier1,0,12,78,LOSC Lille,2024-07-18,2024-08-16,Leny Yoro,Manchester United,tier1,2024-07-18,LOSC Lille,2024-07-18,0.5265,12,measured
+2024/2025,37600942,236,0,tier1,0.5,tier1,10,2,78,Fiorentina,2025-01-24,2025-02-02,Michael Kayode,Brentford,tier1,2025-01-24,Fiorentina,2025-01-24,0.40192500000000003,12,measured
+2024/2025,37607151,6,0,tier2,0.35,tier2,12,0,78,Djurgården,2024-07-01,2024-08-19,Lucas Bergvall,Tottenham Hotspur,tier2,2024-07-01,Djurgården,2024-07-01,0.06645,12,measured
+2024/2025,37610432,51,0,data_club,0.45,data club: Championship,12,1,82,Millwall,2025-01-18,2025-01-26,Romain Esse,Crystal Palace,Championship origin,2025-01-18,Millwall,2025-01-18,0.044583333333333336,12,measured
+2024/2025,37612542,52,0,tier1,0.5,tier1,12,0,78,Juventus,2024-07-30,2024-08-17,Dean Huijsen,AFC Bournemouth,tier1,2024-07-30,Juventus,2024-07-30,0.23897500000000002,12,measured
+2024/2025,37614062,236,0,tier2,0.0,tier2,12,3,89,Southampton U21,2024-08-30,2024-09-14,Jayden Meghoma,Brentford,tier2,2024-08-30,Southampton U21,2024-08-30,0.0101,12,measured
+2024/2025,37623459,9,0,tier1,0.5,tier1,11,1,78,Lens,2025-01-20,2025-01-25,Abdukodir Khusanov,Manchester City,tier1,2025-01-20,Lens,2025-01-20,0.47703333333333336,12,measured
+2024/2025,37623493,52,0,tier3,0.25,tier3,7,5,78,DC United,2025-01-03,2025-01-14,Matai Akinmboni,AFC Bournemouth,tier3,2025-01-03,DC United,2025-01-03,0.0,8,measured
+2024/2025,37627749,52,0,tier3,0.25,tier3,7,5,78,Lanús,2025-01-07,2025-01-14,Julio Soler,AFC Bournemouth,tier3,2025-01-07,Lanús,2025-01-07,0.012866666666666667,12,measured
+2024/2025,37643341,236,1,none,0.0,keeper: unknown,0,12,78,Blue Devils,2024-07-01,2024-08-18,Julian Eyestone,Brentford,unknown,2024-07-01,Blue Devils,2024-07-01,0.0,1,measured
+2024/2025,37645422,63,0,tier1,0.5,tier1,6,6,78,St. Pauli,2024-07-01,2024-08-17,Eric da Silva Moreira,Nottingham Forest,tier1,2024-07-01,St. Pauli,2024-07-01,0.03409090909090909,11,measured
+2024/2025,37653176,14,0,tier1,0.5,tier1,10,2,78,Lecce,2025-02-02,2025-02-16,Patrick Dorgu,Manchester United,tier1,2025-02-02,Lecce,2025-02-02,0.7673583333333335,12,measured
+2024/2025,37655226,78,0,data_club,0.45,data club: Premier League,7,5,78,Newcastle United,2024-07-01,2024-08-17,Yankuba Minteh,Brighton & Hove Albion,PL origin,2024-07-01,Newcastle United,2024-07-01,0.49755,12,measured
+2024/2025,37656468,15,0,tier1,0.5,tier1,12,0,78,Levante,2025-01-21,2025-01-26,Andrés García,Aston Villa,tier1,2025-01-21,Levante,2025-01-21,0.2917416666666667,12,measured
+2024/2025,37658191,29,0,tier1,0.5,tier1,0,12,78,Nantes,2024-08-29,2024-09-15,Bastien Meupiyou,Wolverhampton Wanderers,tier1,2024-08-29,Nantes,2024-08-29,0.0,5,measured
+2024/2025,37664041,18,0,tier1,0.5,tier1,3,9,78,FC Barcelona,2024-07-01,2024-08-18,Marc Guiu,Chelsea,tier1,2024-07-01,FC Barcelona,2024-07-01,0.07306666666666667,12,measured
+2024/2025,37668614,65,0,tier1,0.5,tier1,0,12,78,Valenciennes,2025-01-09,2025-01-16,Joachim Kayi Sanda,Southampton,tier1,2025-01-09,Valenciennes,2025-01-09,0.11795,2,measured
+2024/2025,37668618,18,0,tier1,0.5,tier1,4,8,78,Saint-Étienne,2025-02-03,2025-02-14,Mathis Amougou,Chelsea,tier1,2025-02-03,Saint-Étienne,2025-02-03,0.02865,4,measured
+2024/2025,37676786,14,0,data_club,0.45,data club: Premier League,6,6,56,Arsenal,2025-02-01,2025-02-16,Ayden Heaven,Manchester United,PL origin,2025-02-01,Arsenal,2025-02-01,0.16273333333333334,12,measured
+2024/2025,37679255,1,0,tier3,0.25,tier3,8,4,78,Palmeiras,2024-07-01,2024-08-17,Luís Guilherme,West Ham United,tier3,2024-07-01,Palmeiras,2024-07-01,0.016525,12,measured
+2024/2025,37682332,78,0,tier2,0.35,tier2,0,2,23,IFK Göteborg,2024-07-12,2024-08-17,Malick Yalcouyé,Brighton & Hove Albion,tier2,2024-07-12,IFK Göteborg,2024-07-12,0.43674999999999997,2,measured
+2024/2025,37689559,9,0,tier3,0.25,tier3,9,3,78,Palmeiras,2025-01-21,2025-01-25,Vitor Reis,Manchester City,tier3,2025-01-21,Palmeiras,2025-01-21,0.0066363636363636356,11,measured
+2024/2025,37700504,6,0,tier3,0.25,tier3,2,2,42,Gangwon,2025-01-01,2025-01-04,Minhyeok Yang,Tottenham Hotspur,tier3,2025-01-01,Gangwon,2025-01-01,0.0,2,measured
+2024/2025,37704861,236,0,tier3,0.25,tier3,0,12,78,Grêmio,2024-08-28,2024-08-31,Gustavo Nunes,Brentford,tier3,2024-08-28,Grêmio,2024-08-28,0.02171111111111111,9,measured
+2024/2025,37729609,29,0,tier3,0.25,tier3,2,10,78,Sport Recife,2024-07-01,2024-08-17,Pedro Lima,Wolverhampton Wanderers,tier3,2024-07-01,Sport Recife,2024-07-01,0.05295,12,measured
+2025/2026,323,236,0,tier1,0.5,tier1,12,0,78,Ajax,2025-07-15,2025-08-17,Jordan Henderson,Brentford,tier1,2025-07-15,Ajax,2025-07-15,0.8337166666666667,12,measured
+2025/2026,1887,3,0,tier1,0.5,tier1,12,0,78,Bayer 04 Leverkusen,2025-07-30,2025-08-16,Granit Xhaka,Sunderland,tier1,2025-07-30,Bayer 04 Leverkusen,2025-07-30,1.0,12,measured
+2025/2026,1941,3,0,tier2,0.35,tier2,11,1,78,Beşiktaş,2025-08-10,2025-08-16,Arthur Masuaku,Sunderland,tier2,2025-08-10,Beşiktaş,2025-08-10,0.12708181818181818,11,measured
+2025/2026,2951,29,0,data_club,0.45,data club: Championship,12,0,78,Southampton,2026-02-02,2026-02-07,Adam Armstrong,Wolverhampton Wanderers,Championship origin,2026-02-02,Southampton,2026-02-02,0.9097750000000001,12,measured
+2025/2026,3139,15,0,tier2,0.35,tier2,12,0,78,Beşiktaş,2026-01-27,2026-02-01,Tammy Abraham,Aston Villa,tier2,2018-08-31,Chelsea,2026-01-27,0.29175,12,measured
+2025/2026,3268,9,1,none,0.0,keeper: data club: Premier League,0,12,63,Chelsea,2025-06-10,2025-08-16,Marcus Bettinelli,Manchester City,PL origin,2025-06-10,Chelsea,2025-06-10,0.0,2,measured
+2025/2026,4254,3,0,tier1,0.5,tier1,12,0,78,Ajax,2025-09-01,2025-09-13,Bertrand Traoré,Sunderland,tier1,2025-09-01,Ajax,2025-09-01,0.48765,12,measured
+2025/2026,6038,13,1,none,0.0,keeper: data club: Premier League,3,9,72,Wolverhampton Wanderers,2025-08-15,2025-08-18,Tom King,Everton,PL origin,2025-08-15,Wolverhampton Wanderers,2025-08-15,0.0,12,measured
+2025/2026,12514,71,0,data_club,0.45,data club: Championship,12,0,23,Leicester City,2025-08-25,2025-08-30,James Justin,Leeds United,Championship origin,2025-08-25,Leicester City,2025-08-25,0.15841666666666665,12,measured
+2025/2026,24238,15,1,none,0.0,keeper: tier1,12,0,78,Brest,2025-07-15,2025-08-16,Marco Bizot,Aston Villa,tier1,2025-07-15,Brest,2025-07-15,0.16666666666666666,12,measured
+2025/2026,31504,78,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2026-01-02,2026-01-03,Pascal Groß,Brighton & Hove Albion,tier1,2017-07-01,Ingolstadt,2026-01-02,0.9307,12,measured
+2025/2026,32792,27,0,tier1,0.5,tier1,10,2,78,VfB Stuttgart,2025-07-11,2025-08-16,Jacob Bruun Larsen,Burnley,tier1,2023-07-27,TSG Hoffenheim,2025-07-11,0.4638583333333333,12,measured
+2025/2026,33079,6,0,tier1,0.5,tier1,2,0,3,Lens,2025-07-01,2025-08-16,Kevin Danso,Tottenham Hotspur,tier1,2025-02-02,Lens,2025-07-01,0.2933833333333334,12,measured
+2025/2026,74160,51,0,tier1,0.5,tier1,12,0,78,Ajax,2025-07-11,2025-08-17,Borna Sosa,Crystal Palace,tier1,2025-07-11,Ajax,2025-07-11,0.0042499999999999994,12,measured
+2025/2026,80902,29,0,tier1,0.5,tier1,11,2,80,Girona,2025-08-28,2025-08-30,Ladislav Krejci,Wolverhampton Wanderers,tier1,2025-08-28,Girona,2025-08-28,0.8861499999999999,12,measured
+2025/2026,95093,11,1,none,0.0,keeper: tier1,12,0,78,Montpellier,2025-07-26,2025-08-16,Benjamin Lecomte,Fulham,tier1,2025-07-26,Montpellier,2025-07-26,0.0,12,measured
+2025/2026,96513,78,0,tier1,0.5,tier1,12,0,78,PSV,2025-07-02,2025-08-16,Olivier Boscagli,Brighton & Hove Albion,tier1,2025-07-02,PSV,2025-07-02,0.04124166666666667,12,measured
+2025/2026,97383,51,1,none,0.0,keeper: tier1,10,2,78,PSV,2025-07-01,2025-08-17,Walter Benítez,Crystal Palace,tier1,2025-07-01,PSV,2025-07-01,0.0,12,measured
+2025/2026,97669,3,0,tier1,0.5,tier1,11,1,78,Paris Saint Germain,2025-08-17,2025-08-23,Nordi Mukiele,Sunderland,tier1,2025-08-17,Paris Saint Germain,2025-08-17,1.0,12,measured
+2025/2026,129771,9,1,none,0.0,keeper: tier1,12,0,78,Paris Saint Germain,2025-09-01,2025-09-14,Gianluigi Donnarumma,Manchester City,tier1,2025-09-01,Paris Saint Germain,2025-09-01,1.0,12,measured
+2025/2026,160072,6,0,tier1,0.5,tier1,12,0,78,FC Bayern München,2025-08-03,2025-08-16,João Palhinha,Tottenham Hotspur,tier1,2025-08-03,FC Bayern München,2025-08-03,0.8752749999999999,12,measured
+2025/2026,163108,3,0,tier1,0.5,tier1,9,3,78,Atlético de Madrid,2025-07-08,2025-08-16,Reinildo Mandava,Sunderland,tier1,2025-07-08,Atlético de Madrid,2025-07-08,0.944725,12,measured
+2025/2026,163210,27,0,tier1,0.5,tier1,12,0,78,Benfica,2025-09-01,2025-09-14,Florentino,Burnley,tier1,2025-09-01,Benfica,2025-09-01,0.8674166666666666,12,measured
+2025/2026,193196,71,0,tier1,0.5,tier1,12,0,78,LOSC Lille,2025-07-08,2025-08-18,Gabriel Gudmundsson,Leeds United,tier1,2025-07-08,LOSC Lille,2025-07-08,0.9117666666666665,12,measured
+2025/2026,194167,19,0,tier1,0.5,tier1,10,2,78,Sporting CP,2025-07-26,2025-08-17,Viktor Gyökeres,Arsenal,tier1,2025-07-26,Sporting CP,2025-07-26,0.7655,12,measured
+2025/2026,219900,63,1,none,0.0,keeper: tier3,12,0,78,Botafogo,2025-08-31,2025-09-13,John Victor,Nottingham Forest,tier3,2025-08-31,Botafogo,2025-08-31,0.0,12,measured
+2025/2026,225000,63,0,tier1,0.5,tier1,7,5,78,Juventus,2025-08-21,2025-08-24,Douglas Luiz,Nottingham Forest,tier1,2025-08-21,Juventus,2025-08-21,0.2951083333333333,12,measured
+2025/2026,258137,3,0,tier1,0.5,tier1,9,3,78,Getafe,2025-08-12,2025-08-16,Omar Alderete,Sunderland,tier1,2025-08-12,Getafe,2025-08-12,0.87075,12,measured
+2025/2026,339093,236,0,unknown+override,0.0,unknown+override,0,12,78,TBC,2025-10-23,2025-11-01,Josh Dasilva,Brentford,unknown+override,2018-08-21,Arsenal U21,2025-10-23,0.03502,5,measured
+2025/2026,432872,6,0,tier1,0.5,tier1,9,3,78,Paris Saint Germain,2025-09-01,2025-09-13,Randal Kolo Muani,Tottenham Hotspur,tier1,2025-09-01,Paris Saint Germain,2025-09-01,0.6047666666666666,12,measured
+2025/2026,460159,71,1,none,0.0,keeper: tier1,8,4,78,Olympique Lyonnais,2025-07-26,2025-08-18,Lucas Perri,Leeds United,tier1,2025-07-26,Olympique Lyonnais,2025-07-26,0.9166666666666666,12,measured
+2025/2026,524055,1,0,tier1,0.5,tier1,12,0,78,Lazio,2026-01-05,2026-01-06,Taty Castellanos,West Ham United,tier1,2026-01-05,Lazio,2026-01-05,0.8459500000000001,12,measured
+2025/2026,530762,19,0,tier1,0.5,tier1,12,0,78,Real Sociedad,2025-07-06,2025-08-17,Martín Zubimendi,Arsenal,tier1,2025-07-06,Real Sociedad,2025-07-06,0.9480333333333334,12,measured
+2025/2026,537217,71,0,tier1,0.5,tier1,12,0,78,VfL Wolfsburg,2025-07-01,2025-08-18,Lukas Nmecha,Leeds United,tier1,2025-07-01,VfL Wolfsburg,2025-07-01,0.3361083333333333,12,measured
+2025/2026,538472,52,1,none,0.0,keeper: data club: Premier League,12,0,78,Chelsea,2025-07-16,2025-08-15,Djordje Petrovic,AFC Bournemouth,PL origin,2025-07-16,Chelsea,2025-07-16,1.0,12,measured
+2025/2026,608285,29,0,tier1,0.5,tier1,12,0,78,Olympique Marseille,2026-02-02,2026-02-07,Angel Gomes,Wolverhampton Wanderers,tier1,2026-02-02,Olympique Marseille,2026-02-02,0.36722499999999997,12,measured
+2025/2026,785373,29,0,tier3,0.25,tier3,12,0,78,Fluminense,2025-07-24,2025-08-16,Jhon Arias,Wolverhampton Wanderers,tier3,2025-07-24,Fluminense,2025-07-24,0.5229833333333332,12,measured
+2025/2026,1494245,6,0,tier1,0.5,tier1,11,1,78,Atlético de Madrid,2026-01-14,2026-01-17,Conor Gallagher,Tottenham Hotspur,tier1,2026-01-14,Atlético de Madrid,2026-01-14,0.7539666666666668,12,measured
+2025/2026,1548632,71,0,tier1,0.5,tier1,11,1,78,Udinese,2025-07-01,2025-08-18,Jaka Bijol,Leeds United,tier1,2025-07-01,Udinese,2025-07-01,0.2828333333333333,12,measured
+2025/2026,2178735,71,0,tier1,0.5,tier1,12,0,78,TSG Hoffenheim,2025-07-22,2025-08-18,Anton Stach,Leeds United,tier1,2025-07-22,TSG Hoffenheim,2025-07-22,0.7540416666666667,12,measured
+2025/2026,3156873,9,0,tier1,0.5,tier1,12,0,78,AC Milan,2025-06-10,2025-08-16,Tijjani Reijnders,Manchester City,tier1,2025-06-10,AC Milan,2025-06-10,0.7125250000000002,12,measured
+2025/2026,4237168,52,1,none,0.0,keeper: tier1,12,0,78,Lazio,2026-01-27,2026-01-31,Christos Mandas,AFC Bournemouth,tier1,2026-01-27,Lazio,2026-01-27,0.0,12,measured
+2025/2026,4536529,71,0,tier1,0.5,tier1,12,1,84,AC Milan,2025-08-21,2025-08-23,Noah Okafor,Leeds United,tier1,2025-08-21,AC Milan,2025-08-21,0.5812583333333334,12,measured
+2025/2026,4536574,71,0,tier1,0.5,tier1,5,7,78,VfL Wolfsburg,2025-07-01,2025-08-18,Sebastiaan Bornauw,Leeds United,tier1,2025-07-01,VfL Wolfsburg,2025-07-01,0.14990833333333334,12,measured
+2025/2026,4598752,3,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2025-09-01,2025-09-13,Lutsharel Geertruida,Sunderland,tier1,2025-09-01,RB Leipzig,2025-09-01,0.5157083333333333,12,measured
+2025/2026,5270372,63,0,tier1,0.5,tier1,4,8,78,Strasbourg,2025-09-01,2025-09-13,Dilane Bakwa,Nottingham Forest,tier1,2025-09-01,Strasbourg,2025-09-01,0.30290833333333333,12,measured
+2025/2026,7330507,3,0,tier1,0.5,tier1,12,0,78,Ajax,2025-09-01,2025-09-13,Brian Brobbey,Sunderland,tier1,2025-09-01,Ajax,2025-09-01,0.25761666666666666,12,measured
+2025/2026,8403182,8,0,tier1,0.5,tier1,6,6,78,Bayer 04 Leverkusen,2025-07-01,2025-08-15,Jeremie Frimpong,Liverpool,tier1,2025-07-01,Bayer 04 Leverkusen,2025-07-01,0.45283333333333337,12,measured
+2025/2026,11669604,63,0,tier1,0.5,tier1,5,7,78,Napoli,2026-01-23,2026-02-01,Lorenzo Lucca,Nottingham Forest,tier1,2026-01-23,Napoli,2026-01-23,0.25653333333333334,6,measured
+2025/2026,14004542,52,0,tier1,0.5,tier1,12,0,78,Bayer 04 Leverkusen,2025-08-21,2025-08-23,Amine Adli,AFC Bournemouth,tier1,2025-08-21,Bayer 04 Leverkusen,2025-08-21,0.30307500000000004,12,measured
+2025/2026,15434627,11,0,tier1,0.5,tier1,9,3,78,AC Milan,2025-09-01,2025-09-13,Samuel Chukwueze,Fulham,tier1,2025-09-01,AC Milan,2025-09-01,0.47140000000000004,12,measured
+2025/2026,19978623,63,0,tier1,0.5,tier1,12,0,78,Bologna,2025-07-31,2025-08-17,Dan Ndoye,Nottingham Forest,tier1,2025-07-31,Bologna,2025-07-31,0.7587333333333334,12,measured
+2025/2026,21072805,9,0,tier1,0.5,tier1,8,4,78,Olympique Lyonnais,2025-06-10,2025-08-16,Rayan Cherki,Manchester City,tier1,2025-06-10,Olympique Lyonnais,2025-06-10,0.466925,12,measured
+2025/2026,21762216,20,0,tier1,0.5,tier1,12,0,78,AC Milan,2025-08-12,2025-08-16,Malick Thiaw,Newcastle United,tier1,2025-08-12,AC Milan,2025-08-12,0.6737666666666667,12,measured
+2025/2026,21782219,15,0,tier1,0.5,tier1,12,0,78,Nice,2025-08-08,2025-08-16,Evann Guessand,Aston Villa,tier1,2025-08-08,Nice,2025-08-08,0.3961583333333334,12,measured
+2025/2026,22536030,52,0,tier1,0.5,tier1,12,1,87,LOSC Lille,2025-08-13,2025-08-15,Bafodé Diakité,AFC Bournemouth,tier1,2025-08-13,LOSC Lille,2025-08-13,0.7904,12,measured
+2025/2026,23269650,63,0,tier1,0.5,tier1,10,2,78,Rennes,2025-08-18,2025-08-24,Arnaud Kalimuendo,Nottingham Forest,tier1,2025-08-18,Rennes,2025-08-18,0.10083333333333333,12,measured
+2025/2026,23269659,78,0,tier1,0.5,tier1,11,1,78,Club Brugge,2025-07-05,2025-08-16,Maxim De Cuyper,Brighton & Hove Albion,tier1,2025-07-05,Club Brugge,2025-07-05,0.5085999999999999,12,measured
+2025/2026,23269670,14,1,none,0.0,keeper: tier1,12,0,78,Antwerp,2025-09-01,2025-09-14,Senne Lammens,Manchester United,tier1,2025-09-01,Antwerp,2025-09-01,0.75,12,measured
+2025/2026,23707367,63,0,tier1,0.5,tier1,11,1,78,Borussia Mönchengladbach,2026-02-02,2026-02-06,Luca Netz,Nottingham Forest,tier1,2026-02-02,Borussia Mönchengladbach,2026-02-02,0.3053916666666667,12,measured
+2025/2026,24468970,51,0,tier1,0.5,tier1,12,0,78,Villarreal,2025-08-29,2025-08-31,Yéremy Pino,Crystal Palace,tier1,2025-08-29,Villarreal,2025-08-29,0.6744499999999999,12,measured
+2025/2026,24818280,14,0,tier1,0.5,tier1,11,1,78,RB Leipzig,2025-08-09,2025-08-17,Benjamin Sesko,Manchester United,tier1,2025-08-09,RB Leipzig,2025-08-09,0.5948666666666667,12,measured
+2025/2026,28543553,52,0,tier1,0.5,tier1,12,0,78,Rennes,2025-07-01,2025-08-15,Adrien Truffert,AFC Bournemouth,tier1,2025-07-01,Rennes,2025-07-01,0.974425,12,measured
+2025/2026,29328429,63,0,tier3,0.25,tier3,11,1,78,Botafogo,2025-07-05,2025-08-17,Igor Jesus,Nottingham Forest,tier3,2025-07-05,Botafogo,2025-07-05,0.4627583333333334,12,measured
+2025/2026,32777430,20,0,tier1,0.5,tier1,12,0,78,VfB Stuttgart,2025-08-30,2025-09-13,Nick Woltemade,Newcastle United,tier1,2025-08-30,VfB Stuttgart,2025-08-30,0.8547333333333335,12,measured
+2025/2026,33166012,29,0,tier1,0.5,tier1,11,1,78,AZ Alkmaar,2025-08-02,2025-08-16,David Møller Wolfe,Wolverhampton Wanderers,tier1,2025-08-02,AZ Alkmaar,2025-08-02,0.28745,12,measured
+2025/2026,37260431,29,0,tier1,0.5,tier1,12,0,78,Genk,2025-09-01,2025-09-13,Tolu Arokodare,Wolverhampton Wanderers,tier1,2025-09-01,Genk,2025-09-01,0.30890833333333334,12,measured
+2025/2026,37261496,19,0,tier1,0.5,tier1,8,4,78,Bayer 04 Leverkusen,2025-09-01,2025-09-13,Piero Hincapié,Arsenal,tier1,2025-09-01,Bayer 04 Leverkusen,2025-09-01,0.6925166666666667,12,measured
+2025/2026,37266009,13,0,tier1,0.5,tier1,5,7,78,SC Freiburg,2025-09-01,2025-09-13,Merlin Röhl,Everton,tier1,2025-09-01,SC Freiburg,2025-09-01,0.3503,12,measured
+2025/2026,37288979,8,0,tier1,0.5,tier1,11,1,78,Eintracht Frankfurt,2025-07-23,2025-08-15,Hugo Ekitiké,Liverpool,tier1,2025-07-23,Eintracht Frankfurt,2025-07-23,0.6316583333333333,12,measured
+2025/2026,37316840,18,0,tier1,0.5,tier1,12,0,78,Borussia Dortmund,2025-07-05,2025-08-17,Jamie Gittens,Chelsea,tier1,2025-07-05,Borussia Dortmund,2025-07-05,0.329625,12,measured
+2025/2026,37317392,6,0,tier1,0.5,tier1,12,0,78,RB Leipzig,2025-08-29,2025-09-13,Xavi Simons,Tottenham Hotspur,tier1,2025-08-29,RB Leipzig,2025-08-29,0.6508,12,measured
+2025/2026,37325016,3,1,none,0.0,keeper: tier2,12,0,78,Malmö FF,2026-02-01,2026-02-07,Melker Ellborg,Sunderland,tier2,2026-02-01,Malmö FF,2026-02-01,0.25,12,measured
+2025/2026,37337041,27,0,tier1,0.5,tier1,12,0,78,Lazio,2025-07-02,2025-08-16,Loum Tchaouna,Burnley,tier1,2025-07-02,Lazio,2025-07-02,0.47480833333333344,12,measured
+2025/2026,37344112,27,0,tier1,0.5,tier1,12,0,78,Feyenoord,2025-07-01,2025-08-16,Quilindschy Hartman,Burnley,tier1,2025-07-01,Feyenoord,2025-07-01,0.9831583333333334,12,measured
+2025/2026,37376834,63,0,tier1,0.5,tier1,10,2,78,Juventus,2025-08-30,2025-09-13,Nicolò Savona,Nottingham Forest,tier1,2025-08-30,Juventus,2025-08-30,0.8503333333333333,12,measured
+2025/2026,37397144,3,1,none,0.0,keeper: tier1,12,0,78,NEC Nijmegen,2025-08-01,2025-08-16,Robin Roefs,Sunderland,tier1,2025-08-01,NEC Nijmegen,2025-08-01,1.0,12,measured
+2025/2026,37429246,8,0,tier1,0.5,tier1,11,1,78,Bayer 04 Leverkusen,2025-07-01,2025-08-15,Florian Wirtz,Liverpool,tier1,2025-07-01,Bayer 04 Leverkusen,2025-07-01,0.6855083333333334,12,measured
+2025/2026,37430894,11,0,tier2,0.35,tier2,12,0,78,Shakhtar Donetsk,2025-09-01,2025-09-13,Kevin,Fulham,tier2,2025-09-01,Shakhtar Donetsk,2025-09-01,0.4087666666666667,12,measured
+2025/2026,37551836,29,0,tier1,0.5,tier1,12,0,78,Hellas Verona,2025-08-19,2025-08-23,Jackson Tchatchoua,Wolverhampton Wanderers,tier1,2025-08-19,Hellas Verona,2025-08-19,0.6559833333333334,12,measured
+2025/2026,37554917,1,0,tier1,0.5,tier1,9,4,84,Gil Vicente,2026-01-02,2026-01-03,Pablo,West Ham United,tier1,2026-01-02,Gil Vicente,2026-01-02,0.65945,12,measured
+2025/2026,37561126,13,0,data_club,0.45,data club: Championship,12,0,12,Southampton,2025-08-25,2025-08-30,Tyler Dibling,Everton,Championship origin,2025-08-25,Southampton,2025-08-25,0.07844999999999999,12,measured
+2025/2026,37564315,18,0,tier1,0.5,tier1,3,9,78,Sporting CP,2025-06-10,2025-08-17,Dário Essugo,Chelsea,tier1,2025-06-10,Sporting CP,2025-06-10,0.04643,10,measured
+2025/2026,37567350,3,0,tier1,0.5,tier1,6,6,78,Anderlecht,2026-02-02,2026-02-07,Nilson Angulo,Sunderland,tier1,2026-02-02,Anderlecht,2026-02-02,0.56581,10,measured
+2025/2026,37575228,236,0,tier1,0.5,tier1,4,8,78,Feyenoord,2025-07-03,2025-08-17,Antoni Milambo,Brentford,tier1,2025-07-03,Feyenoord,2025-07-03,0.123725,4,measured
+2025/2026,37577660,9,0,tier2,0.35,tier2,0,1,12,Rosenborg,2025-07-17,2025-08-16,Sverre Nypan,Manchester City,tier2,2025-07-17,Rosenborg,2025-07-17,,0,not measured: never named for the club on or after the arrival
+2025/2026,37581992,3,0,tier1,0.5,tier1,4,8,78,Strasbourg,2025-07-01,2025-08-16,Habib Diarra,Sunderland,tier1,2025-07-01,Strasbourg,2025-07-01,0.8372916666666667,12,measured
+2025/2026,37582278,27,1,none,0.0,keeper: tier1,12,0,78,Karlsruher SC,2025-07-01,2025-08-16,Max Weiß,Burnley,tier1,2025-07-01,Karlsruher SC,2025-07-01,0.0,12,measured
+2025/2026,37583548,78,0,data_club,0.45,data club: Premier League,11,13,162,Sunderland,2025-07-01,2025-08-16,Tom Watson,Brighton & Hove Albion,PL origin,2025-07-01,Sunderland,2025-07-01,0.07952727272727272,11,measured
+2025/2026,37584705,52,0,tier1,0.5,tier1,12,0,78,AC Milan,2025-09-01,2025-09-13,Álex Jiménez,AFC Bournemouth,tier1,2025-09-01,AC Milan,2025-09-01,0.5717583333333334,12,measured
+2025/2026,37585962,1,0,tier1,0.5,tier1,12,0,78,Monaco,2025-08-29,2025-09-13,Soungoutou Magassa,West Ham United,tier1,2025-08-29,Monaco,2025-08-29,0.3386833333333333,12,measured
+2025/2026,37590634,3,0,tier1,0.5,tier1,12,0,78,Club Brugge,2025-07-09,2025-08-16,Chemsdine Talbi,Sunderland,tier1,2025-07-09,Club Brugge,2025-07-09,0.5674416666666667,12,measured
+2025/2026,37590697,78,0,tier1,0.5,tier1,12,0,78,Hellas Verona,2025-07-01,2025-08-16,Diego Coppola,Brighton & Hove Albion,tier1,2025-07-01,Hellas Verona,2025-07-01,0.024416666666666666,12,measured
+2025/2026,37590847,13,0,tier1,0.5,tier1,12,0,78,Villarreal,2025-07-09,2025-08-18,Thierno Barry,Everton,tier1,2025-07-09,Villarreal,2025-07-09,0.4360833333333334,12,measured
+2025/2026,37592228,19,0,tier1,0.5,tier1,12,0,78,Valencia,2025-07-24,2025-08-17,Cristhian Mosquera,Arsenal,tier1,2025-07-24,Valencia,2025-07-24,0.2856416666666667,12,measured
+2025/2026,37593153,1,0,data_club,0.45,data club: Championship,12,0,33,Southampton,2025-08-29,2025-08-31,Mateus Fernandes,West Ham United,Championship origin,2025-08-29,Southampton,2025-08-29,0.813775,12,measured
+2025/2026,37597409,6,0,tier3,0.25,tier3,0,12,78,Kawasaki Frontale,2025-07-08,2025-08-16,Kota Takai,Tottenham Hotspur,tier3,2025-07-08,Kawasaki Frontale,2025-07-08,0.0,1,measured
+2025/2026,37600243,18,0,tier1,0.5,tier1,12,0,78,Ajax,2025-08-03,2025-08-17,Jorrel Hato,Chelsea,tier1,2025-08-03,Ajax,2025-08-03,0.14965833333333334,12,measured
+2025/2026,37600791,8,1,none,0.0,keeper: unknown,1,11,78,Puskás AFC,2025-07-01,2025-08-15,Ármin Pécsi,Liverpool,unknown,2025-07-01,Puskás AFC,2025-07-01,0.0,4,measured
+2025/2026,37602125,52,0,data_club,0.45,data club: Premier League,12,18,114,Liverpool,2025-08-18,2025-08-23,Ben Gannon-Doak,AFC Bournemouth,PL origin,2025-08-18,Liverpool,2025-08-18,0.074225,12,measured
+2025/2026,37624325,52,0,tier2,0.35,tier2,12,0,78,Ferencvárosi,2026-01-20,2026-01-24,Alex Tóth,AFC Bournemouth,tier2,2026-01-20,Ferencvárosi,2026-01-20,0.09902499999999999,12,measured
+2025/2026,37625510,1,0,tier3,0.25,tier3,2,5,28,Deportivo La Guaira,2026-01-22,2026-03-04,Keiber Lamadrid,West Ham United,tier3,2026-01-22,Deportivo La Guaira,2026-01-22,0.0434,6,measured
+2025/2026,37627298,63,0,tier3,0.25,tier3,9,3,78,Botafogo,2025-07-11,2025-08-17,Jair Cunha,Nottingham Forest,tier3,2025-07-11,Botafogo,2025-07-11,0.08333333333333333,12,measured
+2025/2026,37630179,3,0,tier1,0.5,tier1,12,0,78,Union Saint-Gilloise,2025-07-04,2025-08-16,Noah Sadiki,Sunderland,tier1,2025-07-04,Union Saint-Gilloise,2025-07-04,0.9873500000000001,12,measured
+2025/2026,37650058,13,0,tier1,0.5,tier1,9,3,78,FC Bayern München,2025-07-29,2025-08-18,Adam Aznou,Everton,tier1,2025-07-29,FC Bayern München,2025-07-29,0.0,12,measured
+2025/2026,37656906,236,0,tier1,0.5,tier1,8,4,78,Club Brugge,2026-01-11,2026-01-17,Kaye Furo,Brentford,tier1,2026-01-11,Club Brugge,2026-01-11,0.006600000000000001,12,measured
+2025/2026,37657587,6,0,tier2,0.35,tier2,2,0,23,Hajduk Split,2025-07-01,2025-08-16,Luka Vuskovic,Tottenham Hotspur,tier2,2025-07-01,Hajduk Split,2025-07-01,0.0,2,measured
+2025/2026,37659710,52,0,tier2,0.35,tier2,11,1,78,Crvena Zvezda,2025-09-01,2025-09-13,Veljko Milosavljevic,AFC Bournemouth,tier2,2025-09-01,Crvena Zvezda,2025-09-01,0.3425,12,measured
+2025/2026,37663391,29,0,tier1,0.5,tier1,11,1,78,Celta de Vigo,2025-07-01,2025-08-16,Fer López,Wolverhampton Wanderers,tier1,2025-07-01,Celta de Vigo,2025-07-01,0.15805833333333333,12,measured
+2025/2026,37664293,78,0,tier2,0.35,tier2,6,6,78,Olympiacos F.C.,2025-07-01,2025-08-16,Charalampos Kostoulas,Brighton & Hove Albion,tier2,2025-07-01,Olympiacos F.C.,2025-07-01,0.12008333333333333,12,measured
+2025/2026,37676667,236,0,data_club,0.45,data club: Championship,0,12,78,Birmingham City,2025-07-01,2025-08-17,Romelle Donovan,Brentford,Championship origin,2025-02-03,Birmingham,2025-07-01,0.017875,12,measured
+2025/2026,37678216,51,0,tier1,0.5,tier1,11,1,78,Getafe,2025-09-01,2025-09-13,Christantus Uche,Crystal Palace,tier1,2025-09-01,Getafe,2025-09-01,0.076025,12,measured
+2025/2026,37679567,52,0,tier3,0.25,tier3,12,0,78,Vasco da Gama,2026-01-27,2026-01-31,Rayan,AFC Bournemouth,tier3,2026-01-27,Vasco da Gama,2026-01-27,0.7918333333333334,12,measured
+2025/2026,37685025,8,0,tier1,0.5,tier1,1,11,78,Parma,2025-08-15,2025-08-25,Giovanni Leoni,Liverpool,tier1,2025-08-15,Parma,2025-08-15,0.0,1,measured
+2025/2026,37685630,1,0,tier2,0.35,tier2,12,0,78,Slavia Praha,2025-07-15,2025-08-16,El Hadji Malick Diouf,West Ham United,tier2,2025-07-15,Slavia Praha,2025-07-15,0.9563083333333333,12,measured
+2025/2026,37688184,51,0,tier1,0.5,tier1,12,0,78,Toulouse,2025-09-01,2025-09-13,Jaydee Canvot,Crystal Palace,tier1,2025-09-01,Toulouse,2025-09-01,0.12094166666666667,12,measured
+2025/2026,37689556,6,0,tier3,0.25,tier3,10,2,78,Santos,2026-01-22,2026-02-01,Souza,Tottenham Hotspur,tier3,2026-01-22,Santos,2026-01-22,0.13145833333333334,12,measured
+2025/2026,37695666,19,0,unknown+override,0.0,unknown+override,0,14,168,Stoke U21,2026-02-02,2026-02-07,Jaden Dixon,Arsenal,unknown+override,2026-02-02,Stoke U21,2026-02-02,,0,not measured: never named for the club on or after the arrival
+2025/2026,37701999,18,0,tier3,0.25,tier3,11,1,78,Palmeiras,2025-07-14,2025-08-17,Estêvão,Chelsea,tier3,2025-07-14,Palmeiras,2025-07-14,0.3641166666666666,12,measured
+2025/2026,37714583,11,0,tier1,0.5,tier1,7,2,45,FC Bayern München,2025-09-01,2025-10-03,Jonah Kusi-Asare,Fulham,tier1,2025-09-01,FC Bayern München,2025-09-01,0.04323333333333334,12,measured
+2025/2026,37747533,15,0,tier3,0.25,tier3,3,9,78,Grêmio,2026-01-01,2026-01-07,Alysson,Aston Villa,tier3,2026-01-01,Grêmio,2026-01-01,0.20864000000000002,5,measured
+2025/2026,37761073,14,0,tier3,0.25,tier3,3,9,78,Cerro Porteño,2025-07-05,2025-08-17,Diego León,Manchester United,tier3,2025-07-05,Cerro Porteño,2025-07-05,0.0,3,measured
+2025/2026,37781519,3,0,tier2,0.35,tier2,1,11,78,Maccabi Netanya,2026-01-16,2026-01-24,Jocelin Ta Bi,Sunderland,tier2,2026-01-16,Maccabi Netanya,2026-01-16,0.061316666666666665,6,measured
+2025/2026,37921359,15,0,tier1,0.5,tier1,0,12,78,Metz,2026-01-12,2026-01-18,,Aston Villa,tier1,2026-01-12,Metz,2026-01-12,,0,not measured: never named for the club on or after the arrival

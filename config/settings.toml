@@ -1,0 +1,66 @@
+# NETavailability settings: the constants, the rule switches, the seasons and where the input data are.
+# Relative paths are taken from the folder of this file. The rule files named below live in this folder.
+
+# Folders holding the input data (layout: README.md, "Input data"), searched in order. data/inputs/ is the published
+# folder: it holds everything the default seasons need. data/early_2014_2018/inputs/ is not published (git-ignored): when
+# present it adds the 2014/15-2017/18 inputs and the complete review files, so the earlier seasons can be run too.
+# data/local_only/inputs/ (not published, git-ignored) holds the Transfermarkt and premierleague.com extracts that only
+# the full chain (--full-chain) and check C3 read. The
+# environment variable NETAV_DATA_ROOT, or run.py --data-root, overrides the list.
+data_root = ["../data/early_2014_2018/inputs", "../data/local_only/inputs", "../data/inputs"]
+
+# Folder that receives each run (one subfolder per run name).
+output_root = "../output"
+
+# Seasons computed. Default: the published seasons 2018/19 to 2025/26 (2020/21 is a robustness season in the analyses).
+# The pipeline also covers 2014/15-2017/18 when data/early_2014_2018/inputs/ is present (add them to this list).
+seasons = ["2018/2019", "2019/2020", "2020/2021", "2021/2022", "2022/2023", "2023/2024", "2024/2025", "2025/2026"]
+
+# Parallel compute processes.
+jobs = 12
+
+[constants]
+L = 12                   # xU window: a player's last 12 named matchday squads
+mover_delta = 0.10       # a carried share is adjusted by 0.10 per seed-pot step of the move (down to a stronger club, up to a weaker one)
+sideways_adjust = 0.15   # a carried share is reduced by 0.15 for a move between clubs of the same pot (sideways-on tables)
+tier1_fill = 0.5         # import fill by origin: tier-1 countries (Spain, Germany, Italy, France, Portugal, Netherlands, Belgium)
+tier2_fill = 0.35        # other European clubs, English clubs outside the data
+tier3_fill = 0.25        # clubs outside Europe
+data_club_fill = 0.45    # a Premier League or Championship club of the data
+youth_fill = 0           # another club's youth, reserve or B side
+unknown_fill = 0.35      # origin not known
+bar_minutes = 180        # a disputed record worth this many expected minutes or more needs an independent verdict
+
+[rules]
+# Senior-record fill (players whose only recorded clubs before arrival are youth sides): TM_ALONE takes Transfermarkt's
+# senior record as it is; REQUIRE_SECOND needs a second source, and senior_unconfirmed decides the rest
+# (FILL_ZERO = priced 0; EXCLUDE = the player-club is excluded).
+senior_fill_source = "TM_ALONE"
+senior_unconfirmed = "FILL_ZERO"
+# Nominal end of a 2019/20 loan (the season ran into August 2020): a date, or NOMINAL for 1 July 2020.
+loan_return_2019_20 = "2020-08-05"
+# A dispute type the reconciliation does not know: EXCLUDE_AND_FLAG or STOP.
+unforeseen_case_types = "EXCLUDE_AND_FLAG"
+# Date of a move settled by a verdict: EVIDENCED (the dates the sources evidence) or TM (Transfermarkt's date).
+verdict_dates = "EVIDENCED"
+# Identity near-misses: MERGE_FILE links the persons named in identity_merges.csv; EXCLUDE leaves them out.
+identity_links = "MERGE_FILE"
+# A Transfermarkt-only squad player with no settling verdict: EXCLUDE (not charged) or ADD (added as Transfermarkt has him).
+gap_fill_tm_only = "EXCLUDE"
+# A verdict resting on the other club in the deal: COUNTS (for completed moves only) or NOT.
+other_club_in_deal = "COUNTS"
+# Merge the two Sportmonks ids of Kesler-Hayden (one premierleague.com person).
+kesler_hayden_merge = true
+# Use the corrected matchday files (squads, minutes and events checked against premierleague.com).
+use_corrected_matchday = true
+
+[rule_files]
+manual_overrides = "manual_overrides.csv"
+identity_merges = "identity_merges.csv"
+verdict_corrections = "verdict_corrections.csv"
+window_closes = "window_closes.csv"
+keeper_overrides = "keeper_overrides.csv"
+
+[export]
+# Seasons written by the export step (default: the published seasons).
+seasons = ["2018/2019", "2019/2020", "2020/2021", "2021/2022", "2022/2023", "2023/2024", "2024/2025", "2025/2026"]

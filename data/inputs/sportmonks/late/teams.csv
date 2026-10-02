@@ -1,0 +1,441 @@
+team_id,name,season_id,league,season
+3,Sunderland,7931,Championship,2017/2018
+7,Middlesbrough,7931,Championship,2017/2018
+11,Fulham,7931,Championship,2017/2018
+12,Birmingham City,7931,Championship,2017/2018
+15,Aston Villa,7931,Championship,2017/2018
+16,Bolton Wanderers,7931,Championship,2017/2018
+21,Sheffield United,7931,Championship,2017/2018
+22,Hull City,7931,Championship,2017/2018
+23,Reading,7931,Championship,2017/2018
+24,Derby County,7931,Championship,2017/2018
+29,Wolverhampton Wanderers,7931,Championship,2017/2018
+33,Norwich City,7931,Championship,2017/2018
+47,Queens Park Rangers,7931,Championship,2017/2018
+54,Barnsley,7931,Championship,2017/2018
+56,Sheffield Wednesday,7931,Championship,2017/2018
+63,Nottingham Forest,7931,Championship,2017/2018
+64,Millwall,7931,Championship,2017/2018
+69,Cardiff City,7931,Championship,2017/2018
+71,Leeds United,7931,Championship,2017/2018
+99,Preston North End,7931,Championship,2017/2018
+116,Ipswich Town,7931,Championship,2017/2018
+122,Bristol City,7931,Championship,2017/2018
+150,Burton Albion,7931,Championship,2017/2018
+236,Brentford,7931,Championship,2017/2018
+1,West Ham United,6397,Premier League,2017/2018
+6,Tottenham Hotspur,6397,Premier League,2017/2018
+8,Liverpool,6397,Premier League,2017/2018
+9,Manchester City,6397,Premier League,2017/2018
+10,West Bromwich Albion,6397,Premier League,2017/2018
+13,Everton,6397,Premier League,2017/2018
+14,Manchester United,6397,Premier League,2017/2018
+18,Chelsea,6397,Premier League,2017/2018
+19,Arsenal,6397,Premier League,2017/2018
+20,Newcastle United,6397,Premier League,2017/2018
+25,Watford,6397,Premier League,2017/2018
+26,Stoke City,6397,Premier League,2017/2018
+27,Burnley,6397,Premier League,2017/2018
+30,Swansea City,6397,Premier League,2017/2018
+42,Leicester City,6397,Premier League,2017/2018
+51,Crystal Palace,6397,Premier League,2017/2018
+52,AFC Bournemouth,6397,Premier League,2017/2018
+65,Southampton,6397,Premier League,2017/2018
+78,Brighton & Hove Albion,6397,Premier League,2017/2018
+251,Huddersfield Town,6397,Premier League,2017/2018
+2,Blackburn Rovers,13017,Championship,2018/2019
+7,Middlesbrough,13017,Championship,2018/2019
+10,West Bromwich Albion,13017,Championship,2018/2019
+12,Birmingham City,13017,Championship,2018/2019
+15,Aston Villa,13017,Championship,2018/2019
+16,Bolton Wanderers,13017,Championship,2018/2019
+17,Wigan Athletic,13017,Championship,2018/2019
+21,Sheffield United,13017,Championship,2018/2019
+22,Hull City,13017,Championship,2018/2019
+23,Reading,13017,Championship,2018/2019
+24,Derby County,13017,Championship,2018/2019
+26,Stoke City,13017,Championship,2018/2019
+30,Swansea City,13017,Championship,2018/2019
+33,Norwich City,13017,Championship,2018/2019
+47,Queens Park Rangers,13017,Championship,2018/2019
+56,Sheffield Wednesday,13017,Championship,2018/2019
+63,Nottingham Forest,13017,Championship,2018/2019
+64,Millwall,13017,Championship,2018/2019
+71,Leeds United,13017,Championship,2018/2019
+99,Preston North End,13017,Championship,2018/2019
+116,Ipswich Town,13017,Championship,2018/2019
+122,Bristol City,13017,Championship,2018/2019
+138,Rotherham United,13017,Championship,2018/2019
+236,Brentford,13017,Championship,2018/2019
+1,West Ham United,12962,Premier League,2018/2019
+6,Tottenham Hotspur,12962,Premier League,2018/2019
+8,Liverpool,12962,Premier League,2018/2019
+9,Manchester City,12962,Premier League,2018/2019
+11,Fulham,12962,Premier League,2018/2019
+13,Everton,12962,Premier League,2018/2019
+14,Manchester United,12962,Premier League,2018/2019
+18,Chelsea,12962,Premier League,2018/2019
+19,Arsenal,12962,Premier League,2018/2019
+20,Newcastle United,12962,Premier League,2018/2019
+25,Watford,12962,Premier League,2018/2019
+27,Burnley,12962,Premier League,2018/2019
+29,Wolverhampton Wanderers,12962,Premier League,2018/2019
+42,Leicester City,12962,Premier League,2018/2019
+51,Crystal Palace,12962,Premier League,2018/2019
+52,AFC Bournemouth,12962,Premier League,2018/2019
+65,Southampton,12962,Premier League,2018/2019
+69,Cardiff City,12962,Premier League,2018/2019
+78,Brighton & Hove Albion,12962,Premier League,2018/2019
+251,Huddersfield Town,12962,Premier League,2018/2019
+2,Blackburn Rovers,16211,Championship,2019/2020
+4,Charlton Athletic,16211,Championship,2019/2020
+7,Middlesbrough,16211,Championship,2019/2020
+10,West Bromwich Albion,16211,Championship,2019/2020
+11,Fulham,16211,Championship,2019/2020
+12,Birmingham City,16211,Championship,2019/2020
+17,Wigan Athletic,16211,Championship,2019/2020
+22,Hull City,16211,Championship,2019/2020
+23,Reading,16211,Championship,2019/2020
+24,Derby County,16211,Championship,2019/2020
+26,Stoke City,16211,Championship,2019/2020
+30,Swansea City,16211,Championship,2019/2020
+47,Queens Park Rangers,16211,Championship,2019/2020
+54,Barnsley,16211,Championship,2019/2020
+56,Sheffield Wednesday,16211,Championship,2019/2020
+63,Nottingham Forest,16211,Championship,2019/2020
+64,Millwall,16211,Championship,2019/2020
+69,Cardiff City,16211,Championship,2019/2020
+71,Leeds United,16211,Championship,2019/2020
+99,Preston North End,16211,Championship,2019/2020
+115,Luton Town,16211,Championship,2019/2020
+122,Bristol City,16211,Championship,2019/2020
+236,Brentford,16211,Championship,2019/2020
+251,Huddersfield Town,16211,Championship,2019/2020
+1,West Ham United,16036,Premier League,2019/2020
+6,Tottenham Hotspur,16036,Premier League,2019/2020
+8,Liverpool,16036,Premier League,2019/2020
+9,Manchester City,16036,Premier League,2019/2020
+13,Everton,16036,Premier League,2019/2020
+14,Manchester United,16036,Premier League,2019/2020
+15,Aston Villa,16036,Premier League,2019/2020
+18,Chelsea,16036,Premier League,2019/2020
+19,Arsenal,16036,Premier League,2019/2020
+20,Newcastle United,16036,Premier League,2019/2020
+21,Sheffield United,16036,Premier League,2019/2020
+25,Watford,16036,Premier League,2019/2020
+27,Burnley,16036,Premier League,2019/2020
+29,Wolverhampton Wanderers,16036,Premier League,2019/2020
+33,Norwich City,16036,Premier League,2019/2020
+42,Leicester City,16036,Premier League,2019/2020
+51,Crystal Palace,16036,Premier League,2019/2020
+52,AFC Bournemouth,16036,Premier League,2019/2020
+65,Southampton,16036,Premier League,2019/2020
+78,Brighton & Hove Albion,16036,Premier League,2019/2020
+2,Blackburn Rovers,17428,Championship,2020/2021
+7,Middlesbrough,17428,Championship,2020/2021
+12,Birmingham City,17428,Championship,2020/2021
+23,Reading,17428,Championship,2020/2021
+24,Derby County,17428,Championship,2020/2021
+25,Watford,17428,Championship,2020/2021
+26,Stoke City,17428,Championship,2020/2021
+30,Swansea City,17428,Championship,2020/2021
+33,Norwich City,17428,Championship,2020/2021
+47,Queens Park Rangers,17428,Championship,2020/2021
+52,AFC Bournemouth,17428,Championship,2020/2021
+54,Barnsley,17428,Championship,2020/2021
+56,Sheffield Wednesday,17428,Championship,2020/2021
+63,Nottingham Forest,17428,Championship,2020/2021
+64,Millwall,17428,Championship,2020/2021
+69,Cardiff City,17428,Championship,2020/2021
+99,Preston North End,17428,Championship,2020/2021
+115,Luton Town,17428,Championship,2020/2021
+117,Coventry City,17428,Championship,2020/2021
+122,Bristol City,17428,Championship,2020/2021
+138,Rotherham United,17428,Championship,2020/2021
+183,Wycombe Wanderers,17428,Championship,2020/2021
+236,Brentford,17428,Championship,2020/2021
+251,Huddersfield Town,17428,Championship,2020/2021
+1,West Ham United,17420,Premier League,2020/2021
+6,Tottenham Hotspur,17420,Premier League,2020/2021
+8,Liverpool,17420,Premier League,2020/2021
+9,Manchester City,17420,Premier League,2020/2021
+10,West Bromwich Albion,17420,Premier League,2020/2021
+11,Fulham,17420,Premier League,2020/2021
+13,Everton,17420,Premier League,2020/2021
+14,Manchester United,17420,Premier League,2020/2021
+15,Aston Villa,17420,Premier League,2020/2021
+18,Chelsea,17420,Premier League,2020/2021
+19,Arsenal,17420,Premier League,2020/2021
+20,Newcastle United,17420,Premier League,2020/2021
+21,Sheffield United,17420,Premier League,2020/2021
+27,Burnley,17420,Premier League,2020/2021
+29,Wolverhampton Wanderers,17420,Premier League,2020/2021
+42,Leicester City,17420,Premier League,2020/2021
+51,Crystal Palace,17420,Premier League,2020/2021
+65,Southampton,17420,Premier League,2020/2021
+71,Leeds United,17420,Premier League,2020/2021
+78,Brighton & Hove Albion,17420,Premier League,2020/2021
+2,Blackburn Rovers,18432,Championship,2021/2022
+7,Middlesbrough,18432,Championship,2021/2022
+10,West Bromwich Albion,18432,Championship,2021/2022
+11,Fulham,18432,Championship,2021/2022
+12,Birmingham City,18432,Championship,2021/2022
+21,Sheffield United,18432,Championship,2021/2022
+22,Hull City,18432,Championship,2021/2022
+23,Reading,18432,Championship,2021/2022
+24,Derby County,18432,Championship,2021/2022
+26,Stoke City,18432,Championship,2021/2022
+28,Blackpool,18432,Championship,2021/2022
+30,Swansea City,18432,Championship,2021/2022
+47,Queens Park Rangers,18432,Championship,2021/2022
+52,AFC Bournemouth,18432,Championship,2021/2022
+54,Barnsley,18432,Championship,2021/2022
+63,Nottingham Forest,18432,Championship,2021/2022
+64,Millwall,18432,Championship,2021/2022
+69,Cardiff City,18432,Championship,2021/2022
+99,Preston North End,18432,Championship,2021/2022
+115,Luton Town,18432,Championship,2021/2022
+117,Coventry City,18432,Championship,2021/2022
+122,Bristol City,18432,Championship,2021/2022
+251,Huddersfield Town,18432,Championship,2021/2022
+254,Peterborough United,18432,Championship,2021/2022
+1,West Ham United,18378,Premier League,2021/2022
+6,Tottenham Hotspur,18378,Premier League,2021/2022
+8,Liverpool,18378,Premier League,2021/2022
+9,Manchester City,18378,Premier League,2021/2022
+13,Everton,18378,Premier League,2021/2022
+14,Manchester United,18378,Premier League,2021/2022
+15,Aston Villa,18378,Premier League,2021/2022
+18,Chelsea,18378,Premier League,2021/2022
+19,Arsenal,18378,Premier League,2021/2022
+20,Newcastle United,18378,Premier League,2021/2022
+25,Watford,18378,Premier League,2021/2022
+27,Burnley,18378,Premier League,2021/2022
+29,Wolverhampton Wanderers,18378,Premier League,2021/2022
+33,Norwich City,18378,Premier League,2021/2022
+42,Leicester City,18378,Premier League,2021/2022
+51,Crystal Palace,18378,Premier League,2021/2022
+65,Southampton,18378,Premier League,2021/2022
+71,Leeds United,18378,Premier League,2021/2022
+78,Brighton & Hove Albion,18378,Premier League,2021/2022
+236,Brentford,18378,Premier League,2021/2022
+2,Blackburn Rovers,19793,Championship,2022/2023
+3,Sunderland,19793,Championship,2022/2023
+7,Middlesbrough,19793,Championship,2022/2023
+10,West Bromwich Albion,19793,Championship,2022/2023
+12,Birmingham City,19793,Championship,2022/2023
+17,Wigan Athletic,19793,Championship,2022/2023
+21,Sheffield United,19793,Championship,2022/2023
+22,Hull City,19793,Championship,2022/2023
+23,Reading,19793,Championship,2022/2023
+25,Watford,19793,Championship,2022/2023
+26,Stoke City,19793,Championship,2022/2023
+27,Burnley,19793,Championship,2022/2023
+28,Blackpool,19793,Championship,2022/2023
+30,Swansea City,19793,Championship,2022/2023
+33,Norwich City,19793,Championship,2022/2023
+47,Queens Park Rangers,19793,Championship,2022/2023
+64,Millwall,19793,Championship,2022/2023
+69,Cardiff City,19793,Championship,2022/2023
+99,Preston North End,19793,Championship,2022/2023
+115,Luton Town,19793,Championship,2022/2023
+117,Coventry City,19793,Championship,2022/2023
+122,Bristol City,19793,Championship,2022/2023
+138,Rotherham United,19793,Championship,2022/2023
+251,Huddersfield Town,19793,Championship,2022/2023
+1,West Ham United,19734,Premier League,2022/2023
+6,Tottenham Hotspur,19734,Premier League,2022/2023
+8,Liverpool,19734,Premier League,2022/2023
+9,Manchester City,19734,Premier League,2022/2023
+11,Fulham,19734,Premier League,2022/2023
+13,Everton,19734,Premier League,2022/2023
+14,Manchester United,19734,Premier League,2022/2023
+15,Aston Villa,19734,Premier League,2022/2023
+18,Chelsea,19734,Premier League,2022/2023
+19,Arsenal,19734,Premier League,2022/2023
+20,Newcastle United,19734,Premier League,2022/2023
+29,Wolverhampton Wanderers,19734,Premier League,2022/2023
+42,Leicester City,19734,Premier League,2022/2023
+51,Crystal Palace,19734,Premier League,2022/2023
+52,AFC Bournemouth,19734,Premier League,2022/2023
+63,Nottingham Forest,19734,Premier League,2022/2023
+65,Southampton,19734,Premier League,2022/2023
+71,Leeds United,19734,Premier League,2022/2023
+78,Brighton & Hove Albion,19734,Premier League,2022/2023
+236,Brentford,19734,Premier League,2022/2023
+2,Blackburn Rovers,21689,Championship,2023/2024
+3,Sunderland,21689,Championship,2023/2024
+7,Middlesbrough,21689,Championship,2023/2024
+10,West Bromwich Albion,21689,Championship,2023/2024
+12,Birmingham City,21689,Championship,2023/2024
+22,Hull City,21689,Championship,2023/2024
+25,Watford,21689,Championship,2023/2024
+26,Stoke City,21689,Championship,2023/2024
+30,Swansea City,21689,Championship,2023/2024
+33,Norwich City,21689,Championship,2023/2024
+42,Leicester City,21689,Championship,2023/2024
+47,Queens Park Rangers,21689,Championship,2023/2024
+56,Sheffield Wednesday,21689,Championship,2023/2024
+64,Millwall,21689,Championship,2023/2024
+65,Southampton,21689,Championship,2023/2024
+69,Cardiff City,21689,Championship,2023/2024
+71,Leeds United,21689,Championship,2023/2024
+99,Preston North End,21689,Championship,2023/2024
+110,Plymouth Argyle,21689,Championship,2023/2024
+116,Ipswich Town,21689,Championship,2023/2024
+117,Coventry City,21689,Championship,2023/2024
+122,Bristol City,21689,Championship,2023/2024
+138,Rotherham United,21689,Championship,2023/2024
+251,Huddersfield Town,21689,Championship,2023/2024
+1,West Ham United,21646,Premier League,2023/2024
+6,Tottenham Hotspur,21646,Premier League,2023/2024
+8,Liverpool,21646,Premier League,2023/2024
+9,Manchester City,21646,Premier League,2023/2024
+11,Fulham,21646,Premier League,2023/2024
+13,Everton,21646,Premier League,2023/2024
+14,Manchester United,21646,Premier League,2023/2024
+15,Aston Villa,21646,Premier League,2023/2024
+18,Chelsea,21646,Premier League,2023/2024
+19,Arsenal,21646,Premier League,2023/2024
+20,Newcastle United,21646,Premier League,2023/2024
+21,Sheffield United,21646,Premier League,2023/2024
+27,Burnley,21646,Premier League,2023/2024
+29,Wolverhampton Wanderers,21646,Premier League,2023/2024
+51,Crystal Palace,21646,Premier League,2023/2024
+52,AFC Bournemouth,21646,Premier League,2023/2024
+63,Nottingham Forest,21646,Premier League,2023/2024
+78,Brighton & Hove Albion,21646,Premier League,2023/2024
+115,Luton Town,21646,Premier League,2023/2024
+236,Brentford,21646,Premier League,2023/2024
+2,Blackburn Rovers,23672,Championship,2024/2025
+3,Sunderland,23672,Championship,2024/2025
+5,Portsmouth,23672,Championship,2024/2025
+7,Middlesbrough,23672,Championship,2024/2025
+10,West Bromwich Albion,23672,Championship,2024/2025
+21,Sheffield United,23672,Championship,2024/2025
+22,Hull City,23672,Championship,2024/2025
+24,Derby County,23672,Championship,2024/2025
+25,Watford,23672,Championship,2024/2025
+26,Stoke City,23672,Championship,2024/2025
+27,Burnley,23672,Championship,2024/2025
+30,Swansea City,23672,Championship,2024/2025
+33,Norwich City,23672,Championship,2024/2025
+47,Queens Park Rangers,23672,Championship,2024/2025
+56,Sheffield Wednesday,23672,Championship,2024/2025
+64,Millwall,23672,Championship,2024/2025
+69,Cardiff City,23672,Championship,2024/2025
+71,Leeds United,23672,Championship,2024/2025
+99,Preston North End,23672,Championship,2024/2025
+110,Plymouth Argyle,23672,Championship,2024/2025
+115,Luton Town,23672,Championship,2024/2025
+117,Coventry City,23672,Championship,2024/2025
+122,Bristol City,23672,Championship,2024/2025
+297,Oxford United,23672,Championship,2024/2025
+1,West Ham United,23614,Premier League,2024/2025
+6,Tottenham Hotspur,23614,Premier League,2024/2025
+8,Liverpool,23614,Premier League,2024/2025
+9,Manchester City,23614,Premier League,2024/2025
+11,Fulham,23614,Premier League,2024/2025
+13,Everton,23614,Premier League,2024/2025
+14,Manchester United,23614,Premier League,2024/2025
+15,Aston Villa,23614,Premier League,2024/2025
+18,Chelsea,23614,Premier League,2024/2025
+19,Arsenal,23614,Premier League,2024/2025
+20,Newcastle United,23614,Premier League,2024/2025
+29,Wolverhampton Wanderers,23614,Premier League,2024/2025
+42,Leicester City,23614,Premier League,2024/2025
+51,Crystal Palace,23614,Premier League,2024/2025
+52,AFC Bournemouth,23614,Premier League,2024/2025
+63,Nottingham Forest,23614,Premier League,2024/2025
+65,Southampton,23614,Premier League,2024/2025
+78,Brighton & Hove Albion,23614,Premier League,2024/2025
+116,Ipswich Town,23614,Premier League,2024/2025
+236,Brentford,23614,Premier League,2024/2025
+2,Blackburn Rovers,25648,Championship,2025/2026
+4,Charlton Athletic,25648,Championship,2025/2026
+5,Portsmouth,25648,Championship,2025/2026
+7,Middlesbrough,25648,Championship,2025/2026
+10,West Bromwich Albion,25648,Championship,2025/2026
+12,Birmingham City,25648,Championship,2025/2026
+21,Sheffield United,25648,Championship,2025/2026
+22,Hull City,25648,Championship,2025/2026
+24,Derby County,25648,Championship,2025/2026
+25,Watford,25648,Championship,2025/2026
+26,Stoke City,25648,Championship,2025/2026
+30,Swansea City,25648,Championship,2025/2026
+33,Norwich City,25648,Championship,2025/2026
+42,Leicester City,25648,Championship,2025/2026
+47,Queens Park Rangers,25648,Championship,2025/2026
+56,Sheffield Wednesday,25648,Championship,2025/2026
+64,Millwall,25648,Championship,2025/2026
+65,Southampton,25648,Championship,2025/2026
+99,Preston North End,25648,Championship,2025/2026
+116,Ipswich Town,25648,Championship,2025/2026
+117,Coventry City,25648,Championship,2025/2026
+122,Bristol City,25648,Championship,2025/2026
+283,Wrexham,25648,Championship,2025/2026
+297,Oxford United,25648,Championship,2025/2026
+1,West Ham United,25583,Premier League,2025/2026
+3,Sunderland,25583,Premier League,2025/2026
+6,Tottenham Hotspur,25583,Premier League,2025/2026
+8,Liverpool,25583,Premier League,2025/2026
+9,Manchester City,25583,Premier League,2025/2026
+11,Fulham,25583,Premier League,2025/2026
+13,Everton,25583,Premier League,2025/2026
+14,Manchester United,25583,Premier League,2025/2026
+15,Aston Villa,25583,Premier League,2025/2026
+18,Chelsea,25583,Premier League,2025/2026
+19,Arsenal,25583,Premier League,2025/2026
+20,Newcastle United,25583,Premier League,2025/2026
+27,Burnley,25583,Premier League,2025/2026
+29,Wolverhampton Wanderers,25583,Premier League,2025/2026
+51,Crystal Palace,25583,Premier League,2025/2026
+52,AFC Bournemouth,25583,Premier League,2025/2026
+63,Nottingham Forest,25583,Premier League,2025/2026
+71,Leeds United,25583,Premier League,2025/2026
+78,Brighton & Hove Albion,25583,Premier League,2025/2026
+236,Brentford,25583,Premier League,2025/2026
+1,West Ham United,27903,Championship,2026/2027
+2,Blackburn Rovers,27903,Championship,2026/2027
+4,Charlton Athletic,27903,Championship,2026/2027
+5,Portsmouth,27903,Championship,2026/2027
+7,Middlesbrough,27903,Championship,2026/2027
+10,West Bromwich Albion,27903,Championship,2026/2027
+12,Birmingham City,27903,Championship,2026/2027
+16,Bolton Wanderers,27903,Championship,2026/2027
+21,Sheffield United,27903,Championship,2026/2027
+24,Derby County,27903,Championship,2026/2027
+25,Watford,27903,Championship,2026/2027
+26,Stoke City,27903,Championship,2026/2027
+27,Burnley,27903,Championship,2026/2027
+29,Wolverhampton Wanderers,27903,Championship,2026/2027
+30,Swansea City,27903,Championship,2026/2027
+33,Norwich City,27903,Championship,2026/2027
+47,Queens Park Rangers,27903,Championship,2026/2027
+64,Millwall,27903,Championship,2026/2027
+65,Southampton,27903,Championship,2026/2027
+69,Cardiff City,27903,Championship,2026/2027
+99,Preston North End,27903,Championship,2026/2027
+122,Bristol City,27903,Championship,2026/2027
+283,Wrexham,27903,Championship,2026/2027
+305,Lincoln City,27903,Championship,2026/2027
+3,Sunderland,28083,Premier League,2026/2027
+6,Tottenham Hotspur,28083,Premier League,2026/2027
+8,Liverpool,28083,Premier League,2026/2027
+9,Manchester City,28083,Premier League,2026/2027
+11,Fulham,28083,Premier League,2026/2027
+13,Everton,28083,Premier League,2026/2027
+14,Manchester United,28083,Premier League,2026/2027
+15,Aston Villa,28083,Premier League,2026/2027
+18,Chelsea,28083,Premier League,2026/2027
+19,Arsenal,28083,Premier League,2026/2027
+20,Newcastle United,28083,Premier League,2026/2027
+22,Hull City,28083,Premier League,2026/2027
+51,Crystal Palace,28083,Premier League,2026/2027
+52,AFC Bournemouth,28083,Premier League,2026/2027
+63,Nottingham Forest,28083,Premier League,2026/2027
+71,Leeds United,28083,Premier League,2026/2027
+78,Brighton & Hove Albion,28083,Premier League,2026/2027
+116,Ipswich Town,28083,Premier League,2026/2027
+117,Coventry City,28083,Premier League,2026/2027
+236,Brentford,28083,Premier League,2026/2027

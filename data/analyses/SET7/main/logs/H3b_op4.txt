@@ -1,0 +1,29 @@
+## 4. Points context
+
+Source `club_seasons.csv` (points after deductions: 2023/24 Everton −8, Nottingham Forest −4). No model estimation.
+
+| season | pts_4th | pts_5th | pts_17th | pts_18th |
+|---|---|---|---|---|
+| 2022/23 | 71 | 67 | 36 | 34 |
+| 2023/24 | 68 | 66 | 32 | 26 |
+| 2024/25 | 69 | 66 | 38 | 25 |
+| 2025/26 | 65 | 60 | 41 | 39 |
+
+| season | THFC_finish | THFC_pts | THFC_minus_18th | THFC_minus_4th | CFC_finish | CFC_pts | CFC_minus_18th | CFC_minus_4th |
+|---|---|---|---|---|---|---|---|---|
+| 2022/23 | 8 | 60 | 26 | -11 | 12 | 44 | 10 | -27 |
+| 2023/24 | 5 | 66 | 40 | -2 | 6 | 63 | 37 | -5 |
+| 2024/25 | 17 | 38 | 13 | -31 | 4 | 69 | 44 | 0 |
+| 2025/26 | 17 | 41 | 2 | -24 | 10 | 52 | 13 | -13 |
+
+`_minus_18th` = club points − 18th-placed points (positive = margin above the drop zone); `_minus_4th` = club points − 4th-placed points (negative = short of the top four).
+
+**Availability-associated points, association not causation.** c × 92.78 (points per unit of c from this run: points ~ log squad value + c + season FE over all 7 seasons of the variant, HC3, as the battery's points decomposition; the `_lo`/`_hi` columns use its 95% interval 53.1–132.5). c is centred on the season mean, so these are points relative to a league-average availability season.
+
+| club | season | c | points_assoc | points_assoc_lo | points_assoc_hi | actual_points | finish |
+|---|---|---|---|---|---|---|---|
+| Tottenham Hotspur | 2024/25 | -0.0852 | -7.9 | -4.5 | -11.3 | 38 | 17 |
+| Tottenham Hotspur | 2025/26 | -0.1223 | -11.3 | -6.5 | -16.2 | 41 | 17 |
+| Chelsea | 2022/23 | -0.0978 | -9.1 | -5.2 | -12.9 | 44 | 12 |
+| Chelsea | 2023/24 | -0.0933 | -8.7 | -5.0 | -12.4 | 63 | 6 |
+

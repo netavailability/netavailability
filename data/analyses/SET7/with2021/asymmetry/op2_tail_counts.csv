@@ -1,0 +1,4 @@
+k_sd,below_minus_k,above_plus_k,below_FINAL,above_FINAL,null_mean_below,null_mean_above,normal_expect_each
+1.0,28,24,16,14,24.4162,24.4818,25.384840629033132
+1.5,10,11,6,8,9.9126,9.965,10.689152203017292
+2.0,2,4,1,2,3.2272,3.2334,3.640021111708671

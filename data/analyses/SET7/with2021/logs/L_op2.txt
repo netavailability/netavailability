@@ -1,0 +1,29 @@
+## 2. The two chance models
+
+Four configurations = 2 scales × 2 models; each uses a fresh generator with seed 20260930 and 5,000 simulated 8-season leagues. Common skeleton: 30 clubs (sorted by name), a stationary AR(1) per club over 2018/19–2025/26 with no club effect, running through seasons a club was absent; only the 160 observed club-seasons are kept; each simulated value is then centred on its season's 20-club mean.
+
+- **(N) normal:** x₁ ~ N(0, SD²), xₜ = ρ·xₜ₋₁ + N(0, SD²(1−ρ²)), with ρ = the scale's pooled lag-1 Pearson r (119 pairs) and SD = its SD (ddof 1). This is the carry-over step's model, re-implemented in this module with the same draw order.
+- **(Q) shape-preserving:** the scale's 160 observed values → normal scores (Blom plotting position (r − 3/8)/(n + 1/4), ties averaged); ρ_q = pooled lag-1 r of the normal scores on the same 119 pairs; the AR(1) is run on the standard-normal scale (SD 1) with ρ_q; each simulated value is mapped back through the empirical quantile function (linear interpolation between the (normal score, observed value) points; beyond the lowest/highest normal score the observed min/max). Then season-centred.
+
+A consequence of (Q) worth stating before the tests: before centring, no simulated value can lie beyond the observed min or max, so the observed extreme club-season can only be matched or exceeded through the season-centring step. For the single most extreme club-season on a scale, the Q-model share is therefore set largely by the plotting position (how much probability sits beyond the lowest normal score, here 0.0039 per cell) — see caveats.
+
+**Validation — (N) on the % scale against the carry-over step's `simulate` on the same inputs (same seed, fresh generator):**
+
+| check | value | target | tol | exact_match_4dp | result |
+|---|---|---|---|---|---|
+| Tottenham milder-season share (carry-over step's simulate) | 0.4900 | 0.4900 | 0.0000 | True | PASS |
+| Tottenham sum-rule share (carry-over step's simulate) | 0.4046 | 0.4046 | 0.0000 | True | PASS |
+
+**Calibration of each configuration** (simulated values are the season-centred panels; `rho_used` = the AR(1) coefficient fed in, ρ for N and ρ_q for Q; `sim_*_mean` = average over the 5,000 leagues of the per-league statistic; p05/p95 = 5th/95th percentiles):
+
+| scale | model | rho_used | sd_used | obs_lag1_r | sim_lag1_r_mean | sim_lag1_r_p05 | sim_lag1_r_p95 | obs_SD | sim_SD_mean | obs_skew | sim_skew_mean | obs_exkurt | sim_exkurt_mean | obs_min | sim_min_mean | obs_max | sim_max_mean |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| c | N | 0.3512 | 0.0505 | 0.3512 | 0.3438 | 0.1988 | 0.4837 | 0.0505 | 0.0493 | 0.1957 | 0.0010 | -0.0814 | -0.0140 | -0.1223 | -0.1315 | 0.1495 | 0.1314 |
+| c | Q | 0.3567 | 1.0000 | 0.3512 | 0.3479 | 0.2006 | 0.4874 | 0.0505 | 0.0493 | 0.1957 | 0.1778 | -0.0814 | -0.1073 | -0.1223 | -0.1138 | 0.1495 | 0.1366 |
+| m | N | 0.3727 | 77.4548 | 0.3727 | 0.3649 | 0.2210 | 0.5026 | 77.4548 | 75.6608 | -0.0601 | 0.0008 | -0.1017 | -0.0154 | -209.6237 | -201.6958 | 203.2803 | 201.4314 |
+| m | Q | 0.3676 | 1.0000 | 0.3727 | 0.3590 | 0.2146 | 0.4979 | 77.4548 | 75.6916 | -0.0601 | -0.0543 | -0.1017 | -0.1176 | -209.6237 | -193.2721 | 203.2803 | 192.1913 |
+
+ρ_q (normal scores): c 0.3567, m 0.3676.
+
+**step 2: VALIDATION PASSES.**
+

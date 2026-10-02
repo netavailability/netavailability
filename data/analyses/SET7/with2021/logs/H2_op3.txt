@@ -1,0 +1,22 @@
+## 3. Carry-over-only null
+
+5,000 simulated panels, seed 20260930. No club effect. For each of the 30 clubs a stationary AR(1) series over the 8 start years 2018/19–2025/26 with lag-1 coefficient ρ = 0.3512 and marginal SD 0.05048 (observed SD of c, ddof 1): x₁ ~ N(0, SD²), xₜ = ρ·xₜ₋₁ + N(0, SD²(1−ρ²)). The series runs through seasons a club was absent, so a club's seasons either side of a gap correlate at ρ^gap. Only the 160 observed club-seasons are kept, then each season is centred on its 20-club mean exactly as the real data are. The step 2 correction uses the fixed step 1 ρ in every simulated panel.
+
+Calibration: in the simulated centred panels the pooled lag-1 correlation on the same 119 pairs averages 0.3438 (5th–95th pct 0.199–0.484; observed 0.3512) and the SD of the centred value averages 0.04932 (observed 0.05048). Season-centring removes a little of both, so the null reproduces slightly less carry-over than observed on average.
+
+| statistic | observed | sim_mean | sim_median | sim_p95 | share_ge_obs | p_plus1 |
+|---|---|---|---|---|---|---|
+| (a) ICC, all 35 clubs | 0.102431 | 0.137675 | 0.133667 | 0.270596 | 0.6534 | 0.653469 |
+| (a) ICC, 19 clubs ≥6 seasons | 0.161965 | 0.133728 | 0.127236 | 0.274508 | 0.3398 | 0.339932 |
+| (b) permutation statistic (weighted var of club means, ≥6 seasons) | 0.00068183 | 0.000588254 | 0.000562643 | 0.00096822 | 0.2848 | 0.284943 |
+| (c) odd v even split-half Pearson r (14 clubs) | 0.69788 | 0.532542 | 0.562056 | 0.808609 | 0.2248 | 0.224955 |
+| (d) clubs flagged, uncorrected intervals | 3 | 2.5914 | 2 | 5 | 0.4876 | 0.487702 |
+| (d) clubs flagged, step 2 corrected intervals | 0 | 0.2334 | 0 | 1 | 1 | 1 |
+
+`share_ge_obs` = share of the 5,000 simulations at or above the observed value (the p-value against carry-over only); `p_plus1` = (k+1)/(N+1) for reference. ICCs are truncated at 0 as in the persistence step, so many simulated ICCs are exactly 0.
+
+Share of simulated panels with ICC (all clubs) truncated to 0: 0.029.
+
+- Distribution of simulated flag counts (uncorrected): 0: 0.064, 1: 0.187, 2: 0.261, 3: 0.232, 4: 0.146, 5: 0.070, 6: 0.029, 7: 0.007, 8: 0.003, 9: 0.000, 10: 0.000
+- Distribution of simulated flag counts (corrected): 0: 0.790, 1: 0.189, 2: 0.019, 3: 0.002
+

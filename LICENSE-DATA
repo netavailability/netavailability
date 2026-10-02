@@ -1,0 +1,17 @@
+Data licence
+
+Licence: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+Full legal code: https://creativecommons.org/licenses/by-nc/4.0/
+
+Scope
+This licence applies to the derived data tables in the data/ folder of this repository.
+It does not apply to:
+  - the code (src/, run.py and any other source code), which is licensed under the MIT licence (see LICENSE);
+  - third-party raw data (for example Sportmonks or Transfermarkt data), which is not distributed here and
+    remains subject to its providers' own terms (see DATA_NOTICE.md).
+
+Attribution
+If you use these tables, please credit "The NETavailability authors", link to this repository, name the licence
+(CC BY-NC 4.0) and say whether you changed the tables. See CITATION.cff for a citation entry.
+
+Copyright (c) 2026 The NETavailability authors

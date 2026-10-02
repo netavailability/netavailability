@@ -1,0 +1,158 @@
+{
+ "split_files": {
+  "2018/2019": "<run>/run_on/2018-2019/club_split_january_2018-2019_on.csv",
+  "2019/2020": "<run>/run_on/2019-2020/club_split_january_2019-2020_on.csv",
+  "2021/2022": "<run>/run_on/2021-2022/club_split_january_2021-2022_on.csv",
+  "2022/2023": "<run>/run_on/2022-2023/club_split_january_2022-2023_on.csv",
+  "2023/2024": "<run>/run_on/2023-2024/club_split_january_2023-2024_on.csv",
+  "2024/2025": "<run>/run_on/2024-2025/club_split_january_2024-2025_on.csv",
+  "2025/2026": "<run>/run_on/2025-2026/club_split_january_2025-2026_on.csv"
+ },
+ "split_columns": {
+  "2018/2019": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2019/2020": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2021/2022": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2022/2023": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2023/2024": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2024/2025": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ],
+  "2025/2026": [
+   "club",
+   "team_id",
+   "winter_close",
+   "pre_fixtures",
+   "pre_NETabsence",
+   "pre_per_match",
+   "post_fixtures",
+   "post_NETabsence",
+   "post_per_match"
+  ]
+ },
+ "games_per_half": {
+  "2018/2019": {
+   "H1_min": 24,
+   "H1_max": 24,
+   "H2_min": 14,
+   "H2_max": 14,
+   "n": 20
+  },
+  "2019/2020": {
+   "H1_min": 24,
+   "H1_max": 24,
+   "H2_min": 14,
+   "H2_max": 14,
+   "n": 20
+  },
+  "2021/2022": {
+   "H1_min": 18,
+   "H1_max": 24,
+   "H2_min": 14,
+   "H2_max": 20,
+   "n": 20
+  },
+  "2022/2023": {
+   "H1_min": 19,
+   "H1_max": 21,
+   "H2_min": 17,
+   "H2_max": 19,
+   "n": 20
+  },
+  "2023/2024": {
+   "H1_min": 20,
+   "H1_max": 22,
+   "H2_min": 16,
+   "H2_max": 18,
+   "n": 20
+  },
+  "2024/2025": {
+   "H1_min": 23,
+   "H1_max": 24,
+   "H2_min": 14,
+   "H2_max": 15,
+   "n": 20
+  },
+  "2025/2026": {
+   "H1_min": 23,
+   "H1_max": 24,
+   "H2_min": 14,
+   "H2_max": 15,
+   "n": 20
+  }
+ },
+ "on_split_date": {
+  "2018/2019": 0,
+  "2019/2020": 0,
+  "2021/2022": 0,
+  "2022/2023": 0,
+  "2023/2024": 2,
+  "2024/2025": 1,
+  "2025/2026": 1
+ },
+ "man_city_2023_24_rebuilt": 91,
+ "deduction 2023/2024 Everton": "rebuilt 48 = official 40 + 8",
+ "deduction 2023/2024 Nottingham Forest": "rebuilt 36 = official 32 + 4",
+ "max_abs_per_match_vs_file": 0.07142857142858361,
+ "missing_values": 0,
+ "n_rows": 140,
+ "fails": []
+}
+wrote <run>/analyses/SET7/main/half_season/half_season.csv 140

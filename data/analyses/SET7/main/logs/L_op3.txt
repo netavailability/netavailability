@@ -1,0 +1,122 @@
+## 3. Tests
+
+Thresholds are the observed values in each measure's own units (not SD units), as the asymmetry step did; a simulated league counts if it contains at least one qualifying event. Comparisons use a tolerance of 1e-09. Mirror = the same threshold with the sign reversed, on the surplus side (T1: any club-season ≥ −value; T2: any pair sum ≥ −sum; T3: any pair with both seasons ≥ −milder value; T4: any season whose top gap, 1st − 2nd, is ≥ the same gap). `obs_count` = number of such events in the real data; `share_any` = share of simulated leagues with ≥ 1; `mean_count` = mean events per simulated league; `share_ge_obs` = share with at least the observed count. Overlapping pairs (three bad seasons in a row) count twice, as in the asymmetry step.
+
+**T4 observed, % scale (c = NETavailability − season mean)** — per season, the 20th- and 19th-placed clubs and the gap between them (bottom_gap = 19th − 20th), and the top gap (1st − 2nd); ranks among the 7 seasons, 1 = largest:
+
+| season | club_20th | value_20th | club_19th | value_19th | bottom_gap | club_1st | club_2nd | top_gap | bottom_gap_rank | top_gap_rank |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2018/19 | West Ham United | -0.0713 | Leicester City | -0.0505 | 0.0208 | Wolverhampton Wanderers | Chelsea | 0.0784 | 3 | 1 |
+| 2019/20 | AFC Bournemouth | -0.1023 | Aston Villa | -0.0893 | 0.0130 | Wolverhampton Wanderers | Sheffield United | 0.0374 | 4 | 2 |
+| 2021/22 | Everton | -0.0690 | Leicester City | -0.0663 | 0.0027 | Tottenham Hotspur | Crystal Palace | 0.0100 | 7 | 5 |
+| 2022/23 | Chelsea | -0.0978 | Nottingham Forest | -0.0739 | 0.0239 | Manchester City | Aston Villa | 0.0054 | 2 | 6 |
+| 2023/24 | Chelsea | -0.0933 | Brentford | -0.0829 | 0.0104 | Manchester City | Arsenal | 0.0125 | 5 | 4 |
+| 2024/25 | Tottenham Hotspur | -0.0852 | Brighton & Hove Albion | -0.0781 | 0.0071 | Nottingham Forest | Liverpool | 0.0012 | 6 | 7 |
+| 2025/26 | Tottenham Hotspur | -0.1223 | Burnley | -0.0537 | 0.0686 | Brentford | Leeds United | 0.0232 | 1 | 3 |
+
+2025/26: 20th = Tottenham Hotspur, bottom gap 0.0686, rank **1** of 7 bottom gaps; top gaps ≥ it in the real data: 1.
+
+**T4 observed, minutes scale (m = season mean A_pm − A_pm, A_pm = NETabsence ÷ 38)** — per season, the 20th- and 19th-placed clubs and the gap between them (bottom_gap = 19th − 20th), and the top gap (1st − 2nd); ranks among the 7 seasons, 1 = largest:
+
+| season | club_20th | value_20th | club_19th | value_19th | bottom_gap | club_1st | club_2nd | top_gap | bottom_gap_rank | top_gap_rank |
+|---|---|---|---|---|---|---|---|---|---|---|
+| 2018/19 | West Ham United | -113.2724 | Leicester City | -84.8513 | 28.4211 | Wolverhampton Wanderers | Chelsea | 95.5000 | 4 | 1 |
+| 2019/20 | AFC Bournemouth | -182.9618 | Aston Villa | -148.2250 | 34.7368 | Wolverhampton Wanderers | Sheffield United | 48.2105 | 3 | 2 |
+| 2021/22 | Leicester City | -125.2987 | Newcastle United | -101.9303 | 23.3684 | Tottenham Hotspur | Manchester City | 20.3947 | 5 | 4 |
+| 2022/23 | Chelsea | -158.6421 | Nottingham Forest | -113.4579 | 45.1842 | Manchester City | Aston Villa | 11.8421 | 2 | 6 |
+| 2023/24 | Chelsea | -144.8961 | Brentford | -135.4487 | 9.4474 | Manchester City | Arsenal | 18.5263 | 7 | 5 |
+| 2024/25 | Tottenham Hotspur | -142.0724 | Brighton & Hove Albion | -127.0461 | 15.0263 | Liverpool | Nottingham Forest | 3.7895 | 6 | 7 |
+| 2025/26 | Tottenham Hotspur | -209.6237 | Burnley | -78.4132 | 131.2105 | Brentford | Wolverhampton Wanderers | 32.7632 | 1 | 3 |
+
+2025/26: 20th = Tottenham Hotspur, bottom gap 131.2105, rank **1** of 7 bottom gaps; top gaps ≥ it in the real data: 0.
+
+**T1 single season:**
+
+| run | side | scale | model | threshold | obs_count | share_any | mean_count | share_ge_obs |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham 2025/26 | deficit | c | N | -0.1223 | 1 | 0.6672 | 1.1022 | 0.6672 |
+| Tottenham 2025/26 | surplus mirror | c | N | 0.1223 | 2 | 0.6602 | 1.0942 | 0.3010 |
+| Tottenham 2024/25 | deficit | c | N | -0.0852 | 6 | 0.9996 | 6.4228 | 0.6414 |
+| Tottenham 2024/25 | surplus mirror | c | N | 0.0852 | 6 | 0.9994 | 6.4768 | 0.6510 |
+| Tottenham 2025/26 | deficit | c | Q | -0.1223 | 1 | 0.2452 | 0.2878 | 0.2452 |
+| Tottenham 2025/26 | surplus mirror | c | Q | 0.1223 | 2 | 0.8304 | 1.7738 | 0.5376 |
+| Tottenham 2024/25 | deficit | c | Q | -0.0852 | 6 | 0.9960 | 5.3078 | 0.4382 |
+| Tottenham 2024/25 | surplus mirror | c | Q | 0.0852 | 6 | 0.9996 | 7.1700 | 0.7436 |
+| Tottenham 2025/26 | deficit | m | N | -209.6237 | 1 | 0.3762 | 0.4762 | 0.3762 |
+| Tottenham 2025/26 | surplus mirror | m | N | 209.6237 | 0 | 0.3712 | 0.4654 | 0.3712 |
+| Tottenham 2024/25 | deficit | m | N | -142.0724 | 6 | 0.9926 | 4.6618 | 0.3166 |
+| Tottenham 2024/25 | surplus mirror | m | N | 142.0724 | 6 | 0.9930 | 4.6958 | 0.3250 |
+| Tottenham 2025/26 | deficit | m | Q | -209.6237 | 1 | 0.2278 | 0.2642 | 0.2278 |
+| Tottenham 2025/26 | surplus mirror | m | Q | 209.6237 | 0 | 0.1638 | 0.1866 | 0.1638 |
+| Tottenham 2024/25 | deficit | m | Q | -142.0724 | 6 | 0.9920 | 4.6148 | 0.3134 |
+| Tottenham 2024/25 | surplus mirror | m | Q | 142.0724 | 6 | 0.9956 | 5.1218 | 0.4096 |
+
+**T2 two-season run, sum rule:**
+
+| run | side | scale | model | threshold | obs_count | share_any | mean_count | share_ge_obs |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham 2024/25–2025/26 | deficit | c | N | -0.2075 | 1 | 0.4250 | 0.6252 | 0.4250 |
+| Tottenham 2024/25–2025/26 | surplus mirror | c | N | 0.2075 | 1 | 0.4296 | 0.6110 | 0.4296 |
+| Chelsea 2022/23–2023/24 | deficit | c | N | -0.1911 | 2 | 0.6044 | 1.0318 | 0.2804 |
+| Chelsea 2022/23–2023/24 | surplus mirror | c | N | 0.1911 | 2 | 0.6114 | 1.0474 | 0.2862 |
+| Tottenham 2024/25–2025/26 | deficit | c | Q | -0.2075 | 1 | 0.1998 | 0.2462 | 0.1998 |
+| Tottenham 2024/25–2025/26 | surplus mirror | c | Q | 0.2075 | 1 | 0.5480 | 0.8630 | 0.5480 |
+| Chelsea 2022/23–2023/24 | deficit | c | Q | -0.1911 | 2 | 0.3980 | 0.5684 | 0.1326 |
+| Chelsea 2022/23–2023/24 | surplus mirror | c | Q | 0.1911 | 2 | 0.7294 | 1.4272 | 0.4110 |
+| Tottenham 2024/25–2025/26 | deficit | m | N | -351.6961 | 1 | 0.2330 | 0.2960 | 0.2330 |
+| Tottenham 2024/25–2025/26 | surplus mirror | m | N | 351.6961 | 1 | 0.2258 | 0.2820 | 0.2258 |
+| Chelsea 2022/23–2023/24 | deficit | m | N | -303.5382 | 2 | 0.5258 | 0.8396 | 0.2218 |
+| Chelsea 2022/23–2023/24 | surplus mirror | m | N | 303.5382 | 1 | 0.5340 | 0.8402 | 0.5340 |
+| Tottenham 2024/25–2025/26 | deficit | m | Q | -351.6961 | 1 | 0.1826 | 0.2214 | 0.1826 |
+| Tottenham 2024/25–2025/26 | surplus mirror | m | Q | 351.6961 | 1 | 0.1912 | 0.2292 | 0.1912 |
+| Chelsea 2022/23–2023/24 | deficit | m | Q | -303.5382 | 2 | 0.5100 | 0.7894 | 0.2028 |
+| Chelsea 2022/23–2023/24 | surplus mirror | m | Q | 303.5382 | 1 | 0.5200 | 0.7994 | 0.5200 |
+
+**T3 two-season run, milder-season rule:**
+
+| run | side | scale | model | threshold | obs_count | share_any | mean_count | share_ge_obs |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham 2024/25–2025/26 | deficit | c | N | -0.0852 | 2 | 0.4930 | 0.7212 | 0.1734 |
+| Tottenham 2024/25–2025/26 | surplus mirror | c | N | 0.0852 | 1 | 0.4902 | 0.7224 | 0.4902 |
+| Chelsea 2022/23–2023/24 | deficit | c | N | -0.0933 | 1 | 0.3270 | 0.4266 | 0.3270 |
+| Chelsea 2022/23–2023/24 | surplus mirror | c | N | 0.0933 | 1 | 0.3338 | 0.4358 | 0.3338 |
+| Tottenham 2024/25–2025/26 | deficit | c | Q | -0.0852 | 2 | 0.3966 | 0.5514 | 0.1196 |
+| Tottenham 2024/25–2025/26 | surplus mirror | c | Q | 0.0852 | 1 | 0.5482 | 0.8646 | 0.5482 |
+| Chelsea 2022/23–2023/24 | deficit | c | Q | -0.0933 | 1 | 0.2220 | 0.2670 | 0.2220 |
+| Chelsea 2022/23–2023/24 | surplus mirror | c | Q | 0.0933 | 1 | 0.4116 | 0.5698 | 0.4116 |
+| Tottenham 2024/25–2025/26 | deficit | m | N | -142.0724 | 2 | 0.3416 | 0.4476 | 0.0858 |
+| Tottenham 2024/25–2025/26 | surplus mirror | m | N | 142.0724 | 1 | 0.3464 | 0.4578 | 0.3464 |
+| Chelsea 2022/23–2023/24 | deficit | m | N | -144.8961 | 1 | 0.3096 | 0.3960 | 0.3096 |
+| Chelsea 2022/23–2023/24 | surplus mirror | m | N | 144.8961 | 1 | 0.3150 | 0.4062 | 0.3150 |
+| Tottenham 2024/25–2025/26 | deficit | m | Q | -142.0724 | 2 | 0.3414 | 0.4498 | 0.0870 |
+| Tottenham 2024/25–2025/26 | surplus mirror | m | Q | 142.0724 | 1 | 0.3848 | 0.5230 | 0.3848 |
+| Chelsea 2022/23–2023/24 | deficit | m | Q | -144.8961 | 1 | 0.3062 | 0.3928 | 0.3062 |
+| Chelsea 2022/23–2023/24 | surplus mirror | m | Q | 144.8961 | 1 | 0.3574 | 0.4756 | 0.3574 |
+
+**T4 gap to 19th:**
+
+| run | side | scale | model | threshold | obs_count | share_any | mean_count | share_ge_obs |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham 2025/26 gap to 19th | deficit | c | N | 0.0686 | 1 | 0.2762 | 0.3200 | 0.2762 |
+| Tottenham 2025/26 gap to 19th | surplus mirror | c | N | 0.0686 | 1 | 0.2680 | 0.3048 | 0.2680 |
+| Tottenham 2025/26 gap to 19th | deficit | c | Q | 0.0686 | 1 | 0.0498 | 0.0510 | 0.0498 |
+| Tottenham 2025/26 gap to 19th | surplus mirror | c | Q | 0.0686 | 1 | 0.3248 | 0.3844 | 0.3248 |
+| Tottenham 2025/26 gap to 19th | deficit | m | N | 131.2105 | 1 | 0.1084 | 0.1150 | 0.1084 |
+| Tottenham 2025/26 gap to 19th | surplus mirror | m | N | 131.2105 | 0 | 0.1030 | 0.1080 | 0.1030 |
+| Tottenham 2025/26 gap to 19th | deficit | m | Q | 131.2105 | 1 | 0.0406 | 0.0418 | 0.0406 |
+| Tottenham 2025/26 gap to 19th | surplus mirror | m | Q | 131.2105 | 0 | 0.0280 | 0.0280 | 0.0280 |
+
+**Deficit-side shares at a glance (share of simulated leagues with ≥ 1 event):**
+
+| test | run | c·N | c·Q | m·N | m·Q |
+|---|---|---|---|---|---|
+| T1 | Tottenham 2025/26 | 0.6672 | 0.2452 | 0.3762 | 0.2278 |
+| T1 | Tottenham 2024/25 | 0.9996 | 0.9960 | 0.9926 | 0.9920 |
+| T2 | Tottenham 2024/25–2025/26 | 0.4250 | 0.1998 | 0.2330 | 0.1826 |
+| T2 | Chelsea 2022/23–2023/24 | 0.6044 | 0.3980 | 0.5258 | 0.5100 |
+| T3 | Tottenham 2024/25–2025/26 | 0.4930 | 0.3966 | 0.3416 | 0.3414 |
+| T3 | Chelsea 2022/23–2023/24 | 0.3270 | 0.2220 | 0.3096 | 0.3062 |
+| T4 | Tottenham 2025/26 gap to 19th | 0.2762 | 0.0498 | 0.1084 | 0.0406 |
+
+**Symmetry check (surplus mirror − deficit share):** N-model differences range -0.0082 to +0.0082 (symmetric as built, differences are Monte Carlo noise); Q-model differences range -0.0640 to +0.5852 (the Q model carries the observed asymmetry of each scale). Full table in `op3_symmetry.csv`.
+

@@ -1,0 +1,11 @@
+quantity,statistic,grid_min_s,s,sigma_u_pp,pts_92,pts_63,pts_121,pts_82_5
+MDE at 80% power,ICC-all,,,,,,,
+MDE at 80% power,ICC ≥6,,,,,,,
+MDE at 80% power,permutation,,,,,,,
+MDE at 80% power,split-half,,,,,,,
+MDE at 80% power,corrected flags,,,,,,,
+MDE at 80% power,any (Bonferroni),,,,,,,
+95% upper bound,ICC-all,,0.195,2.2293523646041313,2.051004175435801,1.4044919897006027,2.699745713535603,1.8392157007984085
+95% upper bound,permutation,,,,,,,
+95% upper bound,split-half,,,,,,,
+95% upper bound,ICC ≥6,,,,,,,

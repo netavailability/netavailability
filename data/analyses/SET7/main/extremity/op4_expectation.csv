@@ -1,0 +1,6 @@
+expectation,result,status
+% scale (N) reproduces the carry-over step's shares,"milder 0.4930, sum 0.4250",MET
+Tottenham 2025/26 most extreme of 140 on m,position 1,MET
+m negatively skewed,"G1 -0.012, skewtest p 0.95",MET
+minutes shares lower than % shares under N,7 of 7 tests,MET
+minutes shares closer to % shares under Q than under N,5 of 7 tests,PARTLY MET

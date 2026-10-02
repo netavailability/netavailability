@@ -1,0 +1,13 @@
+analysis,main,with2021,exwin
+"F: NETavailability coefficient, points ~ value + NETav, season FE, HC3 (pooled)","92.8 ± 20.1 (n 140, ΔR² 0.068)","91.7 ± 18.6 (n 160, ΔR² 0.065)","91.8 ± 19.6 (n 140, ΔR² 0.070)"
+F without Spurs and Chelsea,"80.9 ± 23.1 (p 0.0006, n 126)","81.5 ± 21.0 (p 0.0002, n 144)","80.0 ± 22.3 (p 0.0005, n 126)"
+G model (b): H2 points ~ value + H1 absence per match (pooled),"−0.024 ± 0.008 (p 0.002, ΔR² 0.046)","−0.023 ± 0.007 (p 0.001, ΔR² 0.040)","−0.020 ± 0.008 (p 0.010, ΔR² 0.026)"
+G model (c) (+ H1 points),−0.015 ± 0.007 (p 0.045),−0.013 ± 0.007 (p 0.050),−0.011 ± 0.007 (p 0.135)
+H: ICC all clubs [bootstrap 95%],"0.121 [0.000, 0.271]","0.102 [0.000, 0.234]",n/a (season totals)
+H: lag-1 slope (pairs),0.415 ± 0.099 (n 85),0.341 ± 0.084 (n 119),n/a (season totals)
+H2: share of null panels ≥ observed ICC-all / permutation / split-half,0.697 / 0.229 / 0.172,0.653 / 0.285 / 0.225,n/a (season totals)
+H3: Tottenham-depth run share; stickiness diff (p),0.493; +0.21 (0.52),0.490; +0.35 (0.10),n/a (season totals)
+H3b: sum-rule Tottenham-depth share,0.425,0.405,n/a (season totals)
+"L: headline shares T1–T4 (largest of c·N, c·Q, m·N, m·Q)",0.67 / 0.42 / 0.49 / 0.28 — NOT SHOWN RARE,0.64 / 0.40 / 0.49 / 0.27 — NOT SHOWN RARE,n/a (season totals)
+N: 95% upper bound on a lasting edge (ICC-all),2.30 pp,2.23 pp,n/a (season totals)
+"Decomposition β_c (pts per unit c), FINAL 4 / all seasons of the variant",82.1 ± 27.3 / 92.8 ± 20.1,82.1 ± 27.3 / 91.7 ± 18.6,82.1 ± 27.3 / 91.8 ± 19.6

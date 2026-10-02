@@ -1,0 +1,8 @@
+check,quantity,value,target,tolerance,result
+a,rows,160.0,160.0,0.0,PASS
+b,pooled lag-1 Pearson of c,0.3512178596636096,0.3512178596636095,1e-09,PASS
+c,SD of c (ddof 1),0.05048488966914415,0.05048488966914418,1e-09,PASS
+d,ICC all clubs,0.10243076930609962,0.10243076930609962,1e-09,PASS
+d,ICC clubs ≥6 seasons,0.16196505945344863,0.16196505945344863,1e-09,PASS
+d,odd/even split-half r,0.6978801359953922,0.6978801359953923,1e-09,PASS
+e,"max abs Δ re-simulated vs saved null draws (all 8 columns, 5000 draws, seed 20260930)",5.551115123125783e-16,0.0,1e-12,PASS

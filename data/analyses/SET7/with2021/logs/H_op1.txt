@@ -1,0 +1,70 @@
+## 1. Provenance and checks
+
+Run 2026-10-02 05:33.
+
+Inputs (read-only):
+
+- `club_seasons.csv` — 160 rows
+- `club_season_values.csv` — 160 rows
+
+Join on season + team_id. Season-centred NETavailability `c` = club value − that season's 20-club mean. Rank 1 = highest NETavailability within season (method=min).
+
+**(a)** rows 160 (configured: 8 seasons × 20 = 160); seasons 8 (2018/2019–2025/2026); per-season counts [np.int64(20)]; duplicate season+team_id 0; join to squad-value file 160/160; log_value_rel missing 0 → **PASS**
+
+Note: squad values are dated 2018-07-01, 2019-07-01, 2020-07-01, 2021-07-01, 2022-07-01, 2023-07-01, 2024-07-01, 2025-07-01 (the Transfermarkt reference dates used).
+
+**(b)** Tottenham Hotspur ranks 2018/2019→2025/2026: [15, 16, 11, 1, 9, 10, 20, 20]; club tables' rank column [15, 16, 11, 1, 9, 10, 20, 20] → **PASS** (recomputed ranks agree with file column NETavailability_rank for all 160: True)
+
+**(c)** adjacent-season Spearman of NETavailability ranks (clubs in both seasons):
+
+| pair | n | spearman |
+|---|---|---|
+| 2018/2019→2019/2020 | 17 | 0.4363 |
+| 2019/2020→2020/2021 | 17 | 0.0025 |
+| 2020/2021→2021/2022 | 17 | -0.0049 |
+| 2021/2022→2022/2023 | 17 | 0.6961 |
+| 2022/2023→2023/2024 | 17 | 0.5564 |
+| 2023/2024→2024/2025 | 17 | 0.0319 |
+| 2024/2025→2025/2026 | 17 | 0.4216 |
+
+Mean over 7 pairs = **0.3057** (recomputed as the Pearson correlation of ranks: 0.3057, tolerance 1e-09) → **PASS**
+
+**(d)** seasons present per club (30 clubs):
+
+| club | seasons |
+|---|---|
+| Arsenal | 8 |
+| Brighton & Hove Albion | 8 |
+| Crystal Palace | 8 |
+| Everton | 8 |
+| Chelsea | 8 |
+| Liverpool | 8 |
+| Manchester United | 8 |
+| Tottenham Hotspur | 8 |
+| West Ham United | 8 |
+| Wolverhampton Wanderers | 8 |
+| Manchester City | 8 |
+| Newcastle United | 8 |
+| Aston Villa | 7 |
+| AFC Bournemouth | 6 |
+| Southampton | 6 |
+| Fulham | 6 |
+| Burnley | 6 |
+| Leicester City | 6 |
+| Brentford | 5 |
+| Nottingham Forest | 4 |
+| Leeds United | 4 |
+| Watford | 3 |
+| Sheffield United | 3 |
+| Norwich City | 2 |
+| Cardiff City | 1 |
+| Huddersfield Town | 1 |
+| Ipswich Town | 1 |
+| Luton Town | 1 |
+| Sunderland | 1 |
+| West Bromwich Albion | 1 |
+
+Clubs with ≥6 seasons: 18; ≥8: 12; all 8: 12.
+
+Self-checks against the run's own inputs: ALL PASS
+

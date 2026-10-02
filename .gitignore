@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.DS_Store
+raw/
+input/
+output/
+# not published: the 2014/15-2017/18 inputs and outputs and the 11-season outputs
+data/early_2014_2018/
+data/local_only/

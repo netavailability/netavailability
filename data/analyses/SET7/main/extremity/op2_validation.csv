@@ -1,0 +1,3 @@
+check,value,target,tol,exact_match_4dp,result
+Tottenham milder-season share (carry-over step's simulate),0.493,0.493,1e-09,True,PASS
+Tottenham sum-rule share (carry-over step's simulate),0.425,0.425,1e-09,True,PASS

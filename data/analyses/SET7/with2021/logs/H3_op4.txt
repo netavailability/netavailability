@@ -1,0 +1,43 @@
+## 4. Two-season runs against carry-over alone
+
+A run is one club-pair of consecutive seasons (step 1's 119 pairs); a club with three consecutive qualifying seasons contributes two overlapping runs. Deficit run: both seasons ≤ −k·SD; surplus run: both ≥ +k·SD; SD = observed 0.05048, thresholds held fixed in c units in every simulated panel (the null's marginal SD is calibrated to it). k = 1, 1.5 and the Tottenham threshold 1.6884 (its 2024/25 value, the less extreme of its two seasons). Null: the carry-over-only AR(1), 5,000 panels, seed 20260930 (identical panels to the carry-over step).
+
+| k | tail | observed | null_mean | null_p95 | share_ge_obs | share_any |
+|---|---|---|---|---|---|---|
+| 1 | deficit | 5 | 5.5544 | 10.0000 | 0.6456 | 0.9950 |
+| 1 | surplus | 4 | 5.5568 | 10.0000 | 0.7960 | 0.9956 |
+| 1 | deficit − surplus | 1 | -0.0024 | 5.0000 | 0.4302 |  |
+| 1.5 | deficit | 2 | 1.3622 | 4.0000 | 0.3928 | 0.7176 |
+| 1.5 | surplus | 1 | 1.3750 | 4.0000 | 0.7148 | 0.7148 |
+| 1.5 | deficit − surplus | 1 | -0.0128 | 3.0000 | 0.3694 |  |
+| Tottenham 1.688 | deficit | 2 | 0.7190 | 2.0000 | 0.1690 | 0.4900 |
+| Tottenham 1.688 | surplus | 1 | 0.7476 | 3.0000 | 0.4946 | 0.4946 |
+| Tottenham 1.688 | deficit − surplus | 1 | -0.0286 | 2.0000 | 0.2906 |  |
+
+`share_ge_obs` = share of simulated panels with at least the observed count (one-sided p against carry-over alone); `share_any` = share with at least one such run.
+
+Observed runs at k = 1 (every qualifying pair):
+
+| club | seasons | c_first | c_second | less_extreme_sd | tail | label |
+|---|---|---|---|---|---|---|
+| Chelsea | 2022/2023–2023/2024 | -0.0978 | -0.0933 | -1.8490 | deficit | FINAL |
+| Tottenham Hotspur | 2024/2025–2025/2026 | -0.0852 | -0.1223 | -1.6884 | deficit | FINAL |
+| Newcastle United | 2019/2020–2020/2021 | -0.0803 | -0.0748 | -1.4823 | deficit | ROBUSTNESS |
+| Newcastle United | 2020/2021–2021/2022 | -0.0748 | -0.0552 | -1.0929 | deficit | PAPER |
+| Brighton & Hove Albion | 2023/2024–2024/2025 | -0.0525 | -0.0781 | -1.0408 | deficit | FINAL |
+| Aston Villa | 2021/2022–2022/2023 | 0.0509 | 0.0693 | 1.0087 | surplus | FINAL |
+| West Ham United | 2022/2023–2023/2024 | 0.0581 | 0.1000 | 1.1517 | surplus | FINAL |
+| Manchester City | 2022/2023–2023/2024 | 0.0747 | 0.1258 | 1.4805 | surplus | FINAL |
+| Wolverhampton Wanderers | 2018/2019–2019/2020 | 0.1495 | 0.1180 | 2.3377 | surplus | PAPER |
+
+Runs at least as deep as the named runs (depth rule: both seasons at or below the run's less extreme value). A simulated panel is itself a 8-season, 20-club league (160 club-seasons with the observed membership), so `expected_runs_per_12x20_league` (column name kept) is the mean count per panel. `mirror_surplus_share_any` = same threshold mirrored to the surplus side (symmetric by construction; a Monte Carlo check). `share_any_per_panel_sd` = sensitivity with the threshold set in each panel's own SD.
+
+| run | observed_runs_this_deep | share_panels_any | expected_runs_per_12x20_league | share_panels_ge_observed | mirror_surplus_share_any | share_any_per_panel_sd |
+|---|---|---|---|---|---|---|
+| Tottenham 2024/25–2025/26 (both ≤ -0.0852 = -1.688 SD) | 2 | 0.4900 | 0.7190 | 0.1690 | 0.4946 | 0.5398 |
+| Chelsea 2022/23–2023/24 (both ≤ -0.0933 = -1.849 SD) | 1 | 0.3178 | 0.4112 | 0.3178 | 0.3250 | 0.3480 |
+
+Deficit tail vs null (share_ge_obs < 0.05): k=1 within (0.646), k=1.5 within (0.393), k=Tottenham 1.688 within (0.169). Surplus tail: k=1 within (0.796), k=1.5 within (0.715), k=Tottenham 1.688 within (0.495).
+
+**Deficit tail exceeds the null while the surplus tail does not: NO.** Pre-registered expectation (Tottenham-depth share < 0.05): share = 0.4900 → **NOT MET**.
+

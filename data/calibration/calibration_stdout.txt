@@ -1,0 +1,5 @@
+calibration re-measure on <run>/run_on -> <run>/calibration; sets ['SET7']
+  instrumented pass: 7 seasons in 47 s (7 parallel); club tables identical 7/7
+  rows for input set late (18/19/21/22/23/24/25): 29 s
+  SET7: statistics and report in 60 s -> <run>/calibration/calibration_SET7.md
+calibration re-measure done in 137 s (instrumented pass 47 s)

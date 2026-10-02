@@ -1,0 +1,18 @@
+## 1. Provenance and checks
+
+Run 2026-10-02 05:33.
+
+Input (read-only): `persistence/op1_panel.csv` — 140 rows. It is the panel the persistence step built; its `c` column is the season-centred NETavailability (club value − that season's 20-club mean).
+
+**(a)** rows 140 (configured: 7 seasons × 20 = 140); seasons 7 (2018/2019–2025/2026); per-season counts [np.int64(20)]; clubs 29 (club_seasons.csv: 29) → **PASS**
+
+**(b)** recomputed season-centred value vs panel column `c`: max |difference| = 9.71e-17 (tolerance 1e-9) → **PASS**
+
+**(c)** OLS of c(t) on c(t−1), clubs in consecutive seasons: n = 85 pairs, slope = **0.415243** (SE 0.0988); recomputed from club_seasons.csv: 85 pairs, slope 0.415243, tolerance 1e-09 → **PASS**. Pooled lag-1 Pearson correlation on the same pairs: **ρ = 0.418980**. This ρ is used in Ops 2 and 3 (the pooled lag-1 correlation; it differs from the slope by +0.0037).
+
+**(d)** the persistence step's permutation statistic (season-count-weighted variance of club means, 14 clubs ≥6 seasons): **0.0008733296**; recomputed from club_seasons.csv: 0.0008733296, tolerance 1e-09 → **PASS**
+
+**(e)** this module's vectorised estimators against the persistence step's functions on the same panel: ICC all 0.120707 (0.120707), ICC ≥6 0.199787 (0.199787), odd/even r 0.741808 on 13 clubs (0.741808, n 13), uncorrected flags 4 (4); tolerance 1e-09 → **PASS**
+
+Self-checks against the run's own inputs: ALL PASS
+

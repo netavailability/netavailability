@@ -1,0 +1,34 @@
+## 1. Provenance and checks
+
+Run 2026-10-02 05:34.
+
+Inputs (read-only; SHA-256 recorded in `op1_checks.csv` and re-checked in step 5):
+
+- `persistence/op1_panel.csv` — sha256 402e27fd77b2efb0…
+- `carryover_null.py` — sha256 7c15f3e80a76642d…
+- `asymmetry/op4_named_runs.csv` — sha256 6d6d5a9020e7d921…
+- `club_seasons.csv` — sha256 d879dbc6a0e1026b…
+- `club_season_values.csv` — sha256 902616b4a4ca2921…
+
+The carry-over-only null is the carry-over step's `simulate`, imported, with the same ρ and SD the asymmetry step used, 5,000 panels, seed 20260930.
+
+Pre-registered expectation (written before the first run): under the sum rule a run at least as deep as Tottenham's still appears in a large share of simulated leagues (of the order of 0.3–0.7). A share below 0.05 is a FINDING.
+
+| check | value | target | tol | result |
+|---|---|---|---|---|
+| rows | 160.0000 | 160.0000 | 0.0000 | PASS |
+| SD of c (ddof 1) | 0.0505 | 0.0505 | 0.0000 | PASS |
+| Tottenham Hotspur c 2024/25 | -0.0852 | -0.0852 | 0.0000 | PASS |
+| Tottenham Hotspur c 2025/26 | -0.1223 | -0.1223 | 0.0000 | PASS |
+| Chelsea c 2022/23 | -0.0978 | -0.0978 | 0.0000 | PASS |
+| Chelsea c 2023/24 | -0.0933 | -0.0933 | 0.0000 | PASS |
+| consecutive club-season pairs | 119.0000 | 119.0000 | 0.0000 | PASS |
+| Tottenham milder-season share (asymmetry step's op4_named_runs.csv) | 0.4900 | 0.4900 | 0.0000 | PASS |
+| club_season_values rows matched to panel (season, team_id) | 160.0000 | 160.0000 | 0.0000 | PASS |
+| max |log_value_rel values file − panel| | 0.0000 | 0.0000 | 0.0000 | PASS |
+| club_seasons rows matched; points and finish equal panel | 160.0000 | 160.0000 | 0.0000 | PASS |
+
+Imported null: ρ = 0.3512, SD = 0.05048; Tottenham milder-season share = 0.4900 (asymmetry step's file 0.4900) — identical.
+
+**step 1: ALL CHECKS PASS.**
+

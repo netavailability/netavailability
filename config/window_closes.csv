@@ -1,0 +1,29 @@
+date,season,window,kind,used,source,n_sources,official,flag,status,in_compute_table,difference_from_compute,url_1,url_2
+2013-09-02,2013/14,summer,window_close,y,the earlier compute's table (no publisher on file),0,n,NO_OFFICIAL_AND_UNDER_2_PUBLISHERS,UNVERIFIED,n,added (earlier than the compute's table),,
+2014-01-31,2013/14,winter,window_close,y,the earlier compute's table (no publisher on file),0,n,NO_OFFICIAL_AND_UNDER_2_PUBLISHERS,UNVERIFIED,n,added (earlier than the compute's table),,
+2014-09-01,2014/15,summer,window_close,y,Guardian + Independent,2,n,,CONFIRMED,n,added (earlier than the compute's table),https://www.theguardian.com/football/live/2014/sep/01/transfer-deadline-day-live,https://www.independent.co.uk/sport/football/transfers/tom-cleverley-joins-aston-villa-17-hours-after-the-transfer-window-closed-manchester-united-midfielder-joins-villa-on-loan-9706928.html
+2015-02-02,2014/15,winter,window_close,y,Guardian + Independent,2,n,,CONFIRMED,n,added (earlier than the compute's table),https://www.theguardian.com/football/live/2015/feb/02/transfer-deadline-day-live,https://www.independent.co.uk/sport/football/transfers/transfer-deadline-day-who-needs-to-sign-who-a-guide-to-all-the-premier-league-deals-10017739.html
+2015-09-01,2015/16,summer,window_close,y,Guardian + Independent,2,n,,CONFIRMED,n,added (earlier than the compute's table),https://www.theguardian.com/football/live/2015/sep/01/transfer-deadline-day-berahino-de-gea-and-more-live,https://www.independent.co.uk/sport/football/transfers/deadline-day-why-does-the-transfer-window-shut-early-at-6pm-what-time-does-it-close-10480696.html
+2016-02-01,2015/16,winter,window_close,y,Guardian + Independent,2,n,,CONFIRMED,n,added (earlier than the compute's table),https://www.theguardian.com/football/live/2016/feb/01/transfer-deadline-day-live,https://www.independent.co.uk/sport/football/transfers/alex-teixeira-to-liverpool-transfer-news-deadline-day-live-arsenal-manchester-united-chelsea-updates-a6845971.html
+2016-08-31,2016/17,summer,window_close,y,premierleague.com + Guardian,2,y,,CONFIRMED,n,added (earlier than the compute's table),https://www.premierleague.com/en/news/79171,https://www.theguardian.com/football/live/2016/aug/31/transfer-deadline-day-news-jack-wilshere-shkodran-mustafi-and-more-live
+2017-01-31,2016/17,winter,window_close,y,premierleague.com + Guardian,2,y,,CONFIRMED,n,added (earlier than the compute's table),https://www.premierleague.com/news/318461,https://www.theguardian.com/football/live/2017/jan/31/transfer-deadline-day-chelsea-chase-celtics-30m-dembele-live-january-window
+2017-08-31,2017/18,summer,window_close,y,premierleague.com,1,y,,ONE_PUBLISHER,y,,https://www.premierleague.com/en/news/464696,
+2018-01-31,2017/18,winter,window_close,y,premierleague.com,1,y,,ONE_PUBLISHER,y,,https://www.premierleague.com/en/news/538420,
+2018-08-09,2018/19,summer,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/en/news/690895,http://www.espn.com/soccer/blog-transfer-talk/story/3569749/when-does-the-transfer-window-close-la-liga-and-bundesliga-plus-serie-a
+2019-01-31,2018/19,winter,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/en/news/917859,https://www.espn.co.uk/soccer/blog-transfer-talk/story/3746226/when-does-the-january-transfer-window-close-in-premier-league-and-la-liga-plus-serie-a-etc
+2019-08-08,2019/20,summer,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/en/news/1220224,https://www.espn.com/soccer/story/_/id/37571932/when-does-transfer-window-close-premier-league-serie-la-liga-bundesliga-ligue-1
+2020-01-31,2019/20,winter,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/en/news/1494731,https://www.espn.com/soccer/story/_/id/37576620/when-does-transfer-window-close-january-2020
+2020-10-05,2020/21,summer,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/news/1725887,https://espn.com/soccer/english-premier-league/story/4102943/transfer-window-qanda-how-will-the-summer-market-work
+2020-10-16,2020/21,summer,domestic_only_close,n,"premierleague.com + ESPN (domestic-only window 5-16 Oct 2020, PL<->EFL)",2,y,,CONFIRMED,n,"listed, not used: not in the compute's table (5 Oct 2020 is the close it uses)",https://www.premierleague.com/news/1725887,
+2021-02-01,2020/21,winter,window_close,y,premierleague.com + ESPN,2,y,,CONFIRMED,y,,https://www.premierleague.com/en/news/1986677,https://www.espn.com/soccer/english-premier-league/story/4300796/when-does-januaryfebruary-transfer-window-close-in-2021
+2021-08-31,2021/22,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2022-01-31,2021/22,winter,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2022-09-01,2022/23,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2023-01-31,2022/23,winter,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2023-09-01,2023/24,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2024-02-01,2023/24,winter,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2024-08-30,2024/25,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2025-02-03,2024/25,winter,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2025-09-01,2025/26,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2026-02-02,2025/26,winter,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,
+2026-09-01,2026/27,summer,window_close,y,two publishers; date as in the earlier compute's table,2,n,,VERIFIED,y,,,

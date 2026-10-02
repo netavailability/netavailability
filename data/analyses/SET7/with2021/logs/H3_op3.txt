@@ -1,0 +1,28 @@
+## 3. Is bad stickier than good?
+
+119 club pairs in consecutive seasons (as step 1). OLS of c(t) on c(t−1) in each subset; SE shown both conventional and clustered by club. Slope difference tested by the interaction model c(t) = a + b·c(t−1) + d·G + e·G·c(t−1) (G = 1 for the lower group), club-clustered SE; e = lower-group slope − upper-group slope, so e > 0 means deficits are stickier.
+
+| subset | n | clubs | slope | se_ols | se_cluster | intercept | mean_c_prev | mean_c_t |
+|---|---|---|---|---|---|---|---|---|
+| c(t−1) < 0 | 57 | 20 | 0.5310 | 0.2147 | 0.1349 | 0.0087 | -0.0387 | -0.0119 |
+| c(t−1) ≥ 0 | 62 | 22 | 0.1809 | 0.1850 | 0.1449 | 0.0094 | 0.0442 | 0.0174 |
+| c(t−1) ≤ −1 SD | 20 | 13 | 0.7353 | 0.6326 | 0.7148 | 0.0258 | -0.0726 | -0.0276 |
+| c(t−1) ≥ +1 SD | 22 | 14 | -0.0577 | 0.4274 | 0.5313 | 0.0275 | 0.0820 | 0.0228 |
+| all pairs | 119 | 23 | 0.3407 | 0.0840 | 0.0711 | 0.0018 | 0.0045 | 0.0034 |
+
+Slope-difference tests (lower − upper). `p_cluster` two-sided from the interaction model; `null_share_ge_obs` = one-sided share of the 5,000 carry-over-only panels (same subsets, same thresholds in c units) with a difference at least as large.
+
+| test | n | slope_diff_lower_minus_upper | se_cluster | z | p_cluster | null_mean_diff | null_sd_diff | null_share_ge_obs | null_valid_panels |
+|---|---|---|---|---|---|---|---|---|---|
+| split at 0 | 119 | 0.3501 | 0.2125 | 1.6471 | 0.0995 | -0.0014 | 0.2939 | 0.1166 | 5000 |
+| tails ±1 SD | 42 | 0.7930 | 0.8764 | 0.9048 | 0.3656 | 0.0086 | 0.7871 | 0.1536 | 5000 |
+
+Mean c(t) in the season after an extreme season (`retained_share` = mean c(t) / mean c(t−1)):
+
+| after | n | mean_c_prev | mean_c_t | mean_c_t_sd | retained_share | null_mean_c_t |
+|---|---|---|---|---|---|---|
+| c(t−1) ≤ −1 SD | 20 | -0.0726 | -0.0276 | -0.5457 | 0.3794 | -0.0263 |
+| c(t−1) ≥ +1 SD | 22 | 0.0820 | 0.0228 | 0.4507 | 0.2774 | 0.0264 |
+
+Magnitude asymmetry |mean after deficit| − |mean after surplus| = +0.0048 (+0.10 SD); Welch t on −c(t) after deficits vs c(t) after surpluses: t = 0.35, p = 0.727 (pairs treated as independent). Under the null the same difference has mean -0.0001 and share ≥ observed = 0.369.
+

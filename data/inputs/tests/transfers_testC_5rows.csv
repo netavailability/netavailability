@@ -1,0 +1,6 @@
+transfer_id,player_id,player,date,from_team_id,from_team,to_team_id,to_team,type_id,career_ended,completed,amount,provenance,q_flag
+,TM123456,Test Player One,2021-08-01,800000031.0,Some Club (TM 31),8,Liverpool,219.0,False,True,,TM,NO_SM_TEAM
+500001.0,1920,J. Matip,2021-01-15,8.0,Liverpool,800000033,FC Schalke 04 (TM 33),218.0,False,True,,TM,NO_SM_TEAM
+500002.0,1202,N. Clyne,2020-10-14,8.0,Liverpool,51,Crystal Palace,220.0,False,True,,SM,
+500003.0,1202,N. Clyne,2019-01-04,8.0,Liverpool,52,AFC Bournemouth,,False,True,,TM,TYPE_UNKNOWN
+500004.0,TM654321,Test Player Two,2022-07-01,,Tottenham Hotspur,800000148,Tottenham Hotspur,219.0,False,True,,TM,NO_SM_TEAM

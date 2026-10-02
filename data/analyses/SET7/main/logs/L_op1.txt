@@ -1,0 +1,77 @@
+## 1. Provenance and checks
+
+Run 2026-10-02 05:33.
+
+Input (read-only): `club_seasons.csv` — sha256 62cfe635ec135c387aa7157047a37c57464bc72c806ef4819306d1a38105dfd2. Re-checked in step 4.
+
+Definitions per club-season: c = NETavailability − season mean NETavailability (% scale); A_pm = NETabsence ÷ 38; m = season mean A_pm − A_pm (minutes scale, minutes lost per match relative to the season average; positive = fewer minutes lost). Both are "higher = better". Pairs = same `team_id` in consecutive seasons.
+
+Expected result (written before the first run): on the % scale the tests reproduce the earlier shares. On the minutes scale Tottenham 2025/26 is the most extreme club-season of the 240, m is negatively skewed, and shares are lower than on the % scale under the normal model but closer to the % shares under the shape-preserving model. No expectation is set for whether anything falls below 0.05.
+
+Claim rule (fixed before the first run): "rare by chance" for a test only if the share of simulated leagues is below 0.05 under BOTH chance models on BOTH scales; the headline quotes the LARGEST of the four shares.
+
+| check | value | target | tol | result |
+|---|---|---|---|---|
+| rows | 140.0000 | 140.0000 | 0.0000 | PASS |
+| seasons | 7.0000 | 7.0000 | 0.0000 | PASS |
+| rows per season = 20 (all seasons) | 20.0000 | 20.0000 | 0.0000 | PASS |
+| clubs (one team_id each) | 29.0000 | 29.0000 | 0.0000 | PASS |
+| consecutive same-club pairs | 85.0000 | 85.0000 | 0.0000 | PASS |
+| Tottenham m 2025/26 | -209.6237 | -209.6237 | 0.0000 | PASS |
+| Tottenham m 2024/25 | -142.0724 | -142.0724 | 0.0000 | PASS |
+| Chelsea m 2023/24 | -144.8961 | -144.8961 | 0.0000 | PASS |
+| Tottenham c 2024/25 | -0.0852 | -0.0852 | 0.0000 | PASS |
+| Tottenham c 2025/26 | -0.1223 | -0.1223 | 0.0000 | PASS |
+| lag-1 Pearson r of c (85 pairs) | 0.4190 | 0.4190 | 0.0000 | PASS |
+| lag-1 Pearson r of m (85 pairs) | 0.4237 | 0.4237 | 0.0000 | PASS |
+
+Shape of each scale (140 club-seasons). SD with ddof 1; skew_G1 and excess_kurtosis_G2 are the bias-adjusted sample statistics (skew_g1 = unadjusted); skewtest_p = D'Agostino test of zero skew; THFC_2025_26_position = rank of Tottenham 2025/26 among the 140 (1 = most negative):
+
+| statistic | c | m |
+|---|---|---|
+| scale | c | m |
+| n | 140 | 140 |
+| mean | 9.516e-18 | -5.684e-15 |
+| SD | 0.05191 | 79.44 |
+| skew_G1 | 0.2432 | -0.01162 |
+| skew_g1 | 0.2406 | -0.0115 |
+| skewtest_p | 0.229 | 0.9536 |
+| excess_kurtosis_G2 | -0.1361 | -0.1555 |
+| shapiro_W | 0.9937 | 0.9973 |
+| shapiro_p | 0.7986 | 0.9971 |
+| min | -0.1223 | -209.6 |
+| max | 0.1495 | 203.3 |
+| THFC_2025_26_position | 1 | 1 |
+
+Five lowest and five highest on c (`other_scale` = the same club-season on the other scale):
+
+| side | k | club | season | value | value_in_sd | other_scale | label |
+|---|---|---|---|---|---|---|---|
+| lowest | 1 | Tottenham Hotspur | 2025/26 | -0.1223 | -2.3560 | -209.6237 | FINAL |
+| lowest | 2 | AFC Bournemouth | 2019/20 | -0.1023 | -1.9702 | -182.9618 | PAPER |
+| lowest | 3 | Chelsea | 2022/23 | -0.0978 | -1.8830 | -158.6421 | FINAL |
+| lowest | 4 | Chelsea | 2023/24 | -0.0933 | -1.7981 | -144.8961 | FINAL |
+| lowest | 5 | Aston Villa | 2019/20 | -0.0893 | -1.7198 | -148.2250 | PAPER |
+| highest | 1 | Wolverhampton Wanderers | 2018/19 | 0.1495 | 2.8799 | 203.2803 | PAPER |
+| highest | 2 | Manchester City | 2023/24 | 0.1258 | 2.4224 | 184.9987 | FINAL |
+| highest | 3 | Wolverhampton Wanderers | 2019/20 | 0.1180 | 2.2734 | 162.6697 | PAPER |
+| highest | 4 | Arsenal | 2023/24 | 0.1133 | 2.1816 | 166.4724 | FINAL |
+| highest | 5 | West Ham United | 2023/24 | 0.1000 | 1.9254 | 154.0776 | FINAL |
+
+Five lowest and five highest on m (`other_scale` = the same club-season on the other scale):
+
+| side | k | club | season | value | value_in_sd | other_scale | label |
+|---|---|---|---|---|---|---|---|
+| lowest | 1 | Tottenham Hotspur | 2025/26 | -209.6237 | -2.6387 | -0.1223 | FINAL |
+| lowest | 2 | AFC Bournemouth | 2019/20 | -182.9618 | -2.3031 | -0.1023 | PAPER |
+| lowest | 3 | Chelsea | 2022/23 | -158.6421 | -1.9969 | -0.0978 | FINAL |
+| lowest | 4 | Aston Villa | 2019/20 | -148.2250 | -1.8658 | -0.0893 | PAPER |
+| lowest | 5 | Chelsea | 2023/24 | -144.8961 | -1.8239 | -0.0933 | FINAL |
+| highest | 1 | Wolverhampton Wanderers | 2018/19 | 203.2803 | 2.5588 | 0.1495 | PAPER |
+| highest | 2 | Manchester City | 2023/24 | 184.9987 | 2.3287 | 0.1258 | FINAL |
+| highest | 3 | Arsenal | 2023/24 | 166.4724 | 2.0955 | 0.1133 | FINAL |
+| highest | 4 | Wolverhampton Wanderers | 2019/20 | 162.6697 | 2.0476 | 0.1180 | PAPER |
+| highest | 5 | West Ham United | 2023/24 | 154.0776 | 1.9395 | 0.1000 | FINAL |
+
+**step 1: ALL CHECKS PASS.**
+

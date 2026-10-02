@@ -1,0 +1,110 @@
+## 3. Are rich clubs spared?
+
+Squad-value rank within season from `log_value_rel` in `club_season_values.csv` (1 = highest; 20 clubs per season; no ties). Value quintile Q1 = ranks 1–4 (richest) … Q5 = ranks 17–20. Thresholds on c in units of the observed SD 0.05048 (ddof 1), as the asymmetry step. Under a uniform draw each qualifying season is equally likely to fall in any quintile (probability 1/5, since each season has exactly four clubs per quintile).
+
+Tests: (i) chi-square against uniform with Monte Carlo p (10,000 multinomial draws, seed 20260930); (ii) exact multinomial p (full enumeration); (iii) directional: exact binomial P(Q1 count ≤ observed) with p = 1/5 (small = rich clubs under-represented = spared), and the mean value rank against 10.5 with a Monte Carlo p from 10,000 uniform draws of ranks 1–20. Caveat: repeat seasons of the same club are not independent, so these p-values are if anything too small.
+
+**deficit ≤ −1 SD** (28 club-seasons):
+
+| club | season | c | c_in_sd | value_rank | value_quintile | finish | label |
+|---|---|---|---|---|---|---|---|
+| Tottenham Hotspur | 2025/2026 | -0.1223 | -2.4227 | 6 | 2 | 17 | FINAL |
+| AFC Bournemouth | 2019/2020 | -0.1023 | -2.0260 | 10 | 3 | 18 | PAPER |
+| Chelsea | 2022/2023 | -0.0978 | -1.9363 | 3 | 1 | 12 | FINAL |
+| Chelsea | 2023/2024 | -0.0933 | -1.8490 | 3 | 1 | 6 | FINAL |
+| Aston Villa | 2019/2020 | -0.0893 | -1.7684 | 18 | 5 | 17 | PAPER |
+| Liverpool | 2020/2021 | -0.0871 | -1.7260 | 2 | 1 | 3 | ROBUSTNESS |
+| Tottenham Hotspur | 2024/2025 | -0.0852 | -1.6884 | 5 | 2 | 17 | FINAL |
+| Brentford | 2023/2024 | -0.0829 | -1.6430 | 13 | 4 | 16 | FINAL |
+| Newcastle United | 2019/2020 | -0.0803 | -1.5902 | 15 | 4 | 13 | PAPER |
+| Brighton & Hove Albion | 2024/2025 | -0.0781 | -1.5478 | 9 | 3 | 8 | FINAL |
+| Newcastle United | 2020/2021 | -0.0748 | -1.4823 | 11 | 3 | 12 | ROBUSTNESS |
+| Nottingham Forest | 2022/2023 | -0.0739 | -1.4629 | 20 | 5 | 16 | FINAL |
+| Luton Town | 2023/2024 | -0.0734 | -1.4548 | 20 | 5 | 18 | FINAL |
+| West Ham United | 2018/2019 | -0.0713 | -1.4122 | 10 | 3 | 10 | PAPER |
+| Southampton | 2024/2025 | -0.0712 | -1.4111 | 19 | 5 | 20 | FINAL |
+| Manchester United | 2023/2024 | -0.0703 | -1.3934 | 5 | 2 | 8 | FINAL |
+| Everton | 2021/2022 | -0.0690 | -1.3663 | 7 | 2 | 16 | PAPER |
+| Sheffield United | 2023/2024 | -0.0673 | -1.3340 | 19 | 5 | 20 | FINAL |
+| Leicester City | 2021/2022 | -0.0663 | -1.3128 | 8 | 2 | 8 | PAPER |
+| Arsenal | 2019/2020 | -0.0618 | -1.2237 | 6 | 2 | 8 | PAPER |
+| Newcastle United | 2023/2024 | -0.0611 | -1.2112 | 7 | 2 | 7 | FINAL |
+| Newcastle United | 2021/2022 | -0.0552 | -1.0929 | 14 | 4 | 11 | PAPER |
+| Burnley | 2025/2026 | -0.0537 | -1.0639 | 19 | 5 | 19 | FINAL |
+| Ipswich Town | 2024/2025 | -0.0535 | -1.0605 | 20 | 5 | 19 | FINAL |
+| Sheffield United | 2020/2021 | -0.0533 | -1.0565 | 17 | 5 | 20 | ROBUSTNESS |
+| Brighton & Hove Albion | 2023/2024 | -0.0525 | -1.0408 | 8 | 2 | 11 | FINAL |
+| Liverpool | 2022/2023 | -0.0516 | -1.0212 | 2 | 1 | 5 | FINAL |
+| Leicester City | 2018/2019 | -0.0505 | -1.0002 | 8 | 2 | 9 | PAPER |
+
+**deficit ≤ −1.5 SD** (10 club-seasons):
+
+| club | season | c | c_in_sd | value_rank | value_quintile | finish | label |
+|---|---|---|---|---|---|---|---|
+| Tottenham Hotspur | 2025/2026 | -0.1223 | -2.4227 | 6 | 2 | 17 | FINAL |
+| AFC Bournemouth | 2019/2020 | -0.1023 | -2.0260 | 10 | 3 | 18 | PAPER |
+| Chelsea | 2022/2023 | -0.0978 | -1.9363 | 3 | 1 | 12 | FINAL |
+| Chelsea | 2023/2024 | -0.0933 | -1.8490 | 3 | 1 | 6 | FINAL |
+| Aston Villa | 2019/2020 | -0.0893 | -1.7684 | 18 | 5 | 17 | PAPER |
+| Liverpool | 2020/2021 | -0.0871 | -1.7260 | 2 | 1 | 3 | ROBUSTNESS |
+| Tottenham Hotspur | 2024/2025 | -0.0852 | -1.6884 | 5 | 2 | 17 | FINAL |
+| Brentford | 2023/2024 | -0.0829 | -1.6430 | 13 | 4 | 16 | FINAL |
+| Newcastle United | 2019/2020 | -0.0803 | -1.5902 | 15 | 4 | 13 | PAPER |
+| Brighton & Hove Albion | 2024/2025 | -0.0781 | -1.5478 | 9 | 3 | 8 | FINAL |
+
+**surplus ≥ +1 SD** (24 club-seasons):
+
+| club | season | c | c_in_sd | value_rank | value_quintile | finish | label |
+|---|---|---|---|---|---|---|---|
+| Wolverhampton Wanderers | 2018/2019 | 0.1495 | 2.9614 | 17 | 5 | 7 | PAPER |
+| Manchester City | 2023/2024 | 0.1258 | 2.4909 | 1 | 1 | 1 | FINAL |
+| Wolverhampton Wanderers | 2019/2020 | 0.1180 | 2.3377 | 12 | 3 | 7 | PAPER |
+| Arsenal | 2023/2024 | 0.1133 | 2.2433 | 2 | 1 | 2 | FINAL |
+| West Ham United | 2023/2024 | 0.1000 | 1.9799 | 10 | 3 | 9 | FINAL |
+| Everton | 2023/2024 | 0.0944 | 1.8690 | 12 | 3 | 15 | FINAL |
+| Fulham | 2023/2024 | 0.0836 | 1.6550 | 17 | 5 | 13 | FINAL |
+| Wolverhampton Wanderers | 2023/2024 | 0.0817 | 1.6174 | 11 | 3 | 14 | FINAL |
+| Sheffield United | 2019/2020 | 0.0806 | 1.5969 | 20 | 5 | 9 | PAPER |
+| Nottingham Forest | 2024/2025 | 0.0800 | 1.5838 | 14 | 4 | 7 | FINAL |
+| Liverpool | 2024/2025 | 0.0788 | 1.5601 | 4 | 1 | 1 | FINAL |
+| Brentford | 2025/2026 | 0.0757 | 1.4993 | 12 | 3 | 9 | FINAL |
+| Manchester City | 2022/2023 | 0.0747 | 1.4805 | 1 | 1 | 1 | FINAL |
+| Southampton | 2019/2020 | 0.0742 | 1.4701 | 11 | 3 | 11 | PAPER |
+| Chelsea | 2018/2019 | 0.0711 | 1.4084 | 2 | 1 | 3 | PAPER |
+| Aston Villa | 2022/2023 | 0.0693 | 1.3736 | 7 | 2 | 7 | FINAL |
+| Crystal Palace | 2024/2025 | 0.0635 | 1.2570 | 11 | 3 | 12 | FINAL |
+| Crystal Palace | 2018/2019 | 0.0623 | 1.2341 | 13 | 4 | 12 | PAPER |
+| Tottenham Hotspur | 2021/2022 | 0.0619 | 1.2266 | 5 | 2 | 4 | PAPER |
+| Manchester City | 2020/2021 | 0.0610 | 1.2076 | 1 | 1 | 1 | ROBUSTNESS |
+| West Ham United | 2022/2023 | 0.0581 | 1.1517 | 10 | 3 | 14 | FINAL |
+| Leeds United | 2025/2026 | 0.0525 | 1.0397 | 18 | 5 | 14 | FINAL |
+| Crystal Palace | 2021/2022 | 0.0519 | 1.0285 | 16 | 4 | 12 | PAPER |
+| Aston Villa | 2021/2022 | 0.0509 | 1.0087 | 9 | 3 | 14 | PAPER |
+
+**surplus ≥ +1.5 SD** (11 club-seasons):
+
+| club | season | c | c_in_sd | value_rank | value_quintile | finish | label |
+|---|---|---|---|---|---|---|---|
+| Wolverhampton Wanderers | 2018/2019 | 0.1495 | 2.9614 | 17 | 5 | 7 | PAPER |
+| Manchester City | 2023/2024 | 0.1258 | 2.4909 | 1 | 1 | 1 | FINAL |
+| Wolverhampton Wanderers | 2019/2020 | 0.1180 | 2.3377 | 12 | 3 | 7 | PAPER |
+| Arsenal | 2023/2024 | 0.1133 | 2.2433 | 2 | 1 | 2 | FINAL |
+| West Ham United | 2023/2024 | 0.1000 | 1.9799 | 10 | 3 | 9 | FINAL |
+| Everton | 2023/2024 | 0.0944 | 1.8690 | 12 | 3 | 15 | FINAL |
+| Fulham | 2023/2024 | 0.0836 | 1.6550 | 17 | 5 | 13 | FINAL |
+| Wolverhampton Wanderers | 2023/2024 | 0.0817 | 1.6174 | 11 | 3 | 14 | FINAL |
+| Sheffield United | 2019/2020 | 0.0806 | 1.5969 | 20 | 5 | 9 | PAPER |
+| Nottingham Forest | 2024/2025 | 0.0800 | 1.5838 | 14 | 4 | 7 | FINAL |
+| Liverpool | 2024/2025 | 0.0788 | 1.5601 | 4 | 1 | 1 | FINAL |
+
+Distribution by value quintile and tests:
+
+| set | n | Q1 | Q2 | Q3 | Q4 | Q5 | expected_per_q | chi2 | p_chi2_mc | p_exact_multinomial | p_Q1_le_obs | mean_value_rank | p_mean_rank_two_sided |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| deficit ≤ −1 SD | 28 | 4 | 9 | 4 | 3 | 8 | 5.6000 | 5.2143 | 0.2854 | 0.2863 | 0.3149 | 10.8571 | 0.7572 |
+| deficit ≤ −1.5 SD | 10 | 3 | 2 | 2 | 2 | 1 | 2.0000 | 1.0000 | 0.9878 | 0.9884 | 0.8791 | 8.4000 | 0.2624 |
+| surplus ≥ +1 SD | 24 | 6 | 2 | 9 | 3 | 4 | 4.8000 | 6.4167 | 0.1802 | 0.2068 | 0.8111 | 9.8333 | 0.5790 |
+| surplus ≥ +1.5 SD | 11 | 3 | 0 | 4 | 1 | 3 | 2.2000 | 4.9091 | 0.3666 | 0.2828 | 0.8389 | 10.9091 | 0.8414 |
+
+**Deep-deficit seasons (≤ −1 SD): 4 of 28 in the richest quintile (expected 5.6); P(Q1 ≤ 4) = 0.315; spread across quintiles p = 0.285 (MC) / 0.286 (exact). At ≤ −1.5 SD: 3 of 10 in Q1, p = 0.988 / 0.988.**
+

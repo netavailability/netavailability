@@ -1,0 +1,40 @@
+## 2. The sum rule
+
+All 119 club-pairs of consecutive seasons, ranked by the two-season sum of c (most negative first). SD of c = 0.05048. Top ten:
+
+| rank | club | seasons | c_first | c_second | sum_c | sum_in_sd | label_second |
+|---|---|---|---|---|---|---|---|
+| 1 | Tottenham Hotspur | 2024/25–2025/26 | -0.0852 | -0.1223 | -0.2075 | -4.1111 | FINAL |
+| 2 | Chelsea | 2022/23–2023/24 | -0.0978 | -0.0933 | -0.1911 | -3.7853 | FINAL |
+| 3 | Newcastle United | 2019/20–2020/21 | -0.0803 | -0.0748 | -0.1551 | -3.0725 | ROBUSTNESS |
+| 4 | Brighton & Hove Albion | 2023/24–2024/25 | -0.0525 | -0.0781 | -0.1307 | -2.5886 | FINAL |
+| 5 | Newcastle United | 2020/21–2021/22 | -0.0748 | -0.0552 | -0.1300 | -2.5752 | PAPER |
+| 6 | AFC Bournemouth | 2018/19–2019/20 | -0.0162 | -0.1023 | -0.1185 | -2.3467 | PAPER |
+| 7 | Manchester United | 2023/24–2024/25 | -0.0703 | -0.0435 | -0.1139 | -2.2558 | FINAL |
+| 8 | Manchester United | 2022/23–2023/24 | -0.0412 | -0.0703 | -0.1115 | -2.2086 | FINAL |
+| 9 | Newcastle United | 2018/19–2019/20 | -0.0296 | -0.0803 | -0.1099 | -2.1764 | PAPER |
+| 10 | Chelsea | 2021/22–2022/23 | -0.0100 | -0.0978 | -0.1077 | -2.1339 | FINAL |
+
+Tottenham Hotspur 2024/25–2025/26: rank **1** of 119 (sum -0.2075). Chelsea 2022/23–2023/24: rank **2** (sum -0.1911). Full ranking in `op2_pairs_ranked.csv`.
+
+Null: the carry-over-only AR(1) (ρ = 0.3512, SD 0.05048), 5,000 panels, seed 20260930 — the panels the asymmetry step used. In each panel, the same 119 pairs are scored. Deficit side: a pair qualifies if its statistic is at or below the named run's value (sum rule: pair sum ≤ run sum; single-season rule: the pair's more negative season ≤ the run's more negative season; milder-season rule: both seasons ≤ the run's milder season). Surplus mirror: the same threshold with the sign reversed, pairs at or above it (sum ≥ −sum; more positive season ≥ −value; both ≥ −value). The observed surplus count is for the real data.
+
+| run | rule | side | threshold | threshold_sd | observed_pairs | share_panels_any | mean_pairs_per_panel | share_panels_ge_observed |
+|---|---|---|---|---|---|---|---|---|
+| Tottenham Hotspur 2024/25–2025/26 | sum of the two seasons | deficit | -0.2075 | -4.1111 | 1 | 0.4046 | 0.5994 | 0.4046 |
+| Tottenham Hotspur 2024/25–2025/26 | sum of the two seasons | surplus mirror | 0.2075 | 4.1111 | 1 | 0.4086 | 0.6140 | 0.4086 |
+| Tottenham Hotspur 2024/25–2025/26 | most negative single season of the pair | deficit | -0.1223 | -2.4227 | 1 | 0.6022 | 1.4918 | 0.6022 |
+| Tottenham Hotspur 2024/25–2025/26 | most negative single season of the pair | surplus mirror | 0.1223 | 2.4227 | 3 | 0.6040 | 1.5358 | 0.2234 |
+| Tottenham Hotspur 2024/25–2025/26 | milder season (asymmetry-step rule) | deficit | -0.0852 | -1.6884 | 2 | 0.4900 | 0.7190 | 0.1690 |
+| Tottenham Hotspur 2024/25–2025/26 | milder season (asymmetry-step rule) | surplus mirror | 0.0852 | 1.6884 | 1 | 0.4946 | 0.7476 | 0.4946 |
+| Chelsea 2022/23–2023/24 | sum of the two seasons | deficit | -0.1911 | -3.7853 | 2 | 0.6068 | 1.0646 | 0.2936 |
+| Chelsea 2022/23–2023/24 | sum of the two seasons | surplus mirror | 0.1911 | 3.7853 | 2 | 0.6068 | 1.0888 | 0.2936 |
+| Chelsea 2022/23–2023/24 | most negative single season of the pair | deficit | -0.0978 | -1.9363 | 4 | 0.9710 | 5.3254 | 0.7224 |
+| Chelsea 2022/23–2023/24 | most negative single season of the pair | surplus mirror | 0.0978 | 1.9363 | 8 | 0.9714 | 5.3354 | 0.2152 |
+| Chelsea 2022/23–2023/24 | milder season (asymmetry-step rule) | deficit | -0.0933 | -1.8490 | 1 | 0.3178 | 0.4112 | 0.3178 |
+| Chelsea 2022/23–2023/24 | milder season (asymmetry-step rule) | surplus mirror | 0.0933 | 1.8490 | 1 | 0.3250 | 0.4232 | 0.3250 |
+
+`share_panels_any` = share of simulated 8-season leagues with at least one such pair; `mean_pairs_per_panel` = mean count; `share_panels_ge_observed` = share with at least the observed count (one-sided p against carry-over alone). Overlapping pairs (three bad seasons in a row) count twice, as in the asymmetry step.
+
+**Sum rule, Tottenham depth: share of simulated leagues with a pair as deep = 0.4046 (Chelsea depth 0.6068).** Expectation (0.3–0.7): **MET**.
+

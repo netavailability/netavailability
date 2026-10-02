@@ -1,0 +1,13 @@
+run,rule,side,threshold,threshold_sd,observed_pairs,share_panels_any,mean_pairs_per_panel,share_panels_ge_observed
+Tottenham Hotspur 2024/25–2025/26,sum of the two seasons,deficit,-0.2075499999999998,-3.9979870197844227,1,0.425,0.6252,0.425
+Tottenham Hotspur 2024/25–2025/26,sum of the two seasons,surplus mirror,0.2075499999999998,3.9979870197844227,1,0.4296,0.611,0.4296
+Tottenham Hotspur 2024/25–2025/26,most negative single season of the pair,deficit,-0.1223099999999999,-2.3560288720300306,1,0.6074,1.2836,0.6074
+Tottenham Hotspur 2024/25–2025/26,most negative single season of the pair,surplus mirror,0.1223099999999999,2.3560288720300306,3,0.6082,1.2718,0.172
+Tottenham Hotspur 2024/25–2025/26,milder season (asymmetry-step rule),deficit,-0.0852399999999999,-1.6419581477543925,2,0.493,0.7212,0.1734
+Tottenham Hotspur 2024/25–2025/26,milder season (asymmetry-step rule),surplus mirror,0.0852399999999999,1.6419581477543925,1,0.4902,0.7224,0.4902
+Chelsea 2022/23–2023/24,sum of the two seasons,deficit,-0.19109999999999988,-3.681114524118543,2,0.6044,1.0318,0.2804
+Chelsea 2022/23–2023/24,sum of the two seasons,surplus mirror,0.19109999999999988,3.681114524118543,2,0.6114,1.0474,0.2862
+Chelsea 2022/23–2023/24,most negative single season of the pair,deficit,-0.0977549999999999,-1.8830316604144843,4,0.9614,4.192,0.5826
+Chelsea 2022/23–2023/24,most negative single season of the pair,surplus mirror,0.0977549999999999,1.8830316604144843,7,0.9652,4.2754,0.1714
+Chelsea 2022/23–2023/24,milder season (asymmetry-step rule),deficit,-0.093345,-1.7980828637040585,1,0.327,0.4266,0.327
+Chelsea 2022/23–2023/24,milder season (asymmetry-step rule),surplus mirror,0.093345,1.7980828637040585,1,0.3338,0.4358,0.3338

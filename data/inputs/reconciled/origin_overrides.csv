@@ -1,0 +1,105 @@
+player_id,team_id,fill,why
+261,69,0.45,unknown origin resolved: DATA_CLUB (free agent; last senior club QPR -> a club in our data)
+411,21,0.45,unknown origin resolved: DATA_CLUB (free agent; last senior club Blackburn -> a club in our data)
+690,10,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2020-09-15 from Zenit S-Pb (free transfer): UNKNOWN flag id 141 not classified - [TM_ALONE]
+992,236,0.5,unknown origin resolved: T1 (free agent; last senior club Inter -> Italy)
+1249,115,0.45,unknown origin resolved: DATA_CLUB (free agent; last senior club Everton -> a club in our data)
+1253,25,0.5,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2015-07-02 from Roma (€2.50m): T1 Italy [TM_ALONE]
+1317,11,0.25,unknown origin resolved: T3 (Brazil (rest of world))
+1339,29,0.25,unknown origin resolved: T3 (free agent; last senior club Atlético-MG -> Brazil (rest of world))
+2311,69,0.45,unknown origin resolved: DATA_CLUB (free agent; last senior club Leeds -> a club in our data)
+3101,251,0.35,unknown origin resolved: T2 (England (outside our data))
+4391,116,0.45,unknown origin resolved: DATA_CLUB (free agent; last senior club Man Utd -> a club in our data)
+7958,33,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2016-01-15 from York City (€2.95m): T2 England (outside our data) [TM_ALONE]
+94939,25,0.5,unknown origin resolved: T1 (free agent; last senior club Torino -> Italy)
+95094,63,0.5,unknown origin resolved: T1 (free agent; last senior club Villarreal -> Spain)
+149746,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-02-01 from Celtic B (?): YOUTH another club's youth / reserve / B side (--y [TM_ALONE]
+339093,236,0.0,unknown origin resolved: YOUTH (another club's youth / reserve / B side)
+537353,9,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2018-07-23 from Paris SG B (free transfer): YOUTH another club's youth / reserve [TM_ALONE]
+539683,29,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-08-08 from FC Bayern II (€1.50m): YOUTH another club's youth / reserve / B  [TM_ALONE]
+581055,65,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2016-07-01 from Leyton Orient Y (free transfer): T2 England (outside our data) [TM_ALONE]
+581129,1,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2016-01-22 from N. Village Rams (free transfer): UNKNOWN flag id 211 not classif [TM_ALONE]
+581142,115,0.35,unknown origin resolved: T2 (free agent; last senior club Yeovil Town -> England (outside our data))
+2823511,78,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-07-18 from Man City U23 (€1.10m): YOUTH another club's youth / reserve / B  [TM_ALONE]
+5666433,13,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2022-01-31 from Fleetwood (?): T2 England (outside our data) [TM_ALONE]
+9939203,71,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-09-16 from Feyenoord U19 (€6.00m): YOUTH another club's youth / reserve / B [TM_ALONE]
+14338066,63,0.35,unknown origin resolved: T2 (Bosnia-Herzegovina (other European senior))
+16136250,27,0.0,Transfermarkt origin-club rule (as the sizing priced it): GK 2019-08-10 from Hellerup IK (?): UNKNOWN flag id 39 not classified -> the comput [TM_ALONE]
+16837816,9,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2018-07-01 from Barça U18 (free transfer): YOUTH another club's youth / reserve  [TM_ALONE]
+19625221,1,0.5,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2019-08-06 from Boavista (€3.00m): T1 Portugal [TM_ALONE]
+21412958,71,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-08-13 from Fulham U23 (€440k): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+22515272,27,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2021-02-01 from Galway United (?): UNKNOWN flag id 72 not classified -> the comp [TM_ALONE]
+22897102,19,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2018-07-01 from Nomme United (?): UNKNOWN flag id 47 not classified -> the compu [TM_ALONE]
+23269652,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2018-08-01 from Ajax U17 (€100k): YOUTH another club's youth / reserve / B side  [TM_ALONE]
+23269836,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-07-28 from Fulham U18 (€1.70m): YOUTH another club's youth / reserve / B si [TM_ALONE]
+23311146,9,0.0,senior record: NO_SENIOR (TM_ALONE)
+23311159,18,0.0,senior record: NO_SENIOR (TM_ALONE)
+24799914,65,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-07-27 from Chelsea U23 (€1.75m): YOUTH another club's youth / reserve / B s [TM_ALONE]
+26715427,29,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-07-01 from Man City U23 (free transfer): YOUTH another club's youth / reser [TM_ALONE]
+27453989,1,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-07-01 from Chelsea U23 (€1.40m): YOUTH another club's youth / reserve / B s [TM_ALONE]
+28575695,78,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2018-07-02 from Hearts FC U17 (?): YOUTH another club's youth / reserve / B side [TM_ALONE]
+28912710,71,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-08-28 from Arsenal U18 (€1.70m): YOUTH another club's youth / reserve / B s [TM_ALONE]
+28912783,71,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-07-22 from Chelsea U23 (€1.75m): YOUTH another club's youth / reserve / B s [TM_ALONE]
+28912807,78,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-01-03 from Halifax U18 (?): YOUTH another club's youth / reserve / B side ( [TM_ALONE]
+33577319,78,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2019-07-12 from Shamrock Rovers (?): UNKNOWN flag id 72 not classified -> the co [TM_ALONE]
+37253456,78,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2021-01-09 from Bohemians (?): UNKNOWN flag id 72 not classified -> the compute' [TM_ALONE]
+37259181,18,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-07-01 from Reading U18 (-): YOUTH another club's youth / reserve / B side ( [TM_ALONE]
+37286732,9,0.0,senior record: NO_SENIOR (TM_ALONE)
+37286737,14,0.0,senior record: NO_SENIOR (TM_ALONE)
+37287498,78,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2020-07-01 from Bray Wanderers (?): UNKNOWN flag id 72 not classified -> the com [TM_ALONE]
+37316549,14,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-10-02 from Atlético Yth. (€465k): YOUTH another club's youth / reserve / B  [TM_ALONE]
+37357499,29,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2023-09-18 from Without Club (-): YOUTH free agent whose only earlier clubs are  [TM_ALONE]
+37371069,52,0.0,senior record: NO_SENIOR (TM_ALONE)
+37373580,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-02-06 from Derby U18 (€3.40m): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+37391514,6,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-07-28 from Wigan Youth (?): YOUTH another club's youth / reserve / B side ( [TM_ALONE]
+37391634,236,0.0,Transfermarkt origin-club rule (as the sizing priced it): GK 2021-07-22 from AFC Wimbledon (€500k): T2 England (outside our data); TM positio [TM_ALONE]
+37416691,51,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-02-03 from Chelmsford U19 (?): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+37509395,236,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2022-07-14 from SC Dnipro-1 (€1.50m): UNKNOWN flag id 177 not classified -> the  [TM_ALONE]
+37536795,15,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-08-03 from Vitesse U17 (?): YOUTH another club's youth / reserve / B side ( [TM_ALONE]
+37536817,19,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2022-01-20 from West Brom U18 (?): YOUTH another club's youth / reserve / B side [TM_ALONE]
+37540689,29,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2022-09-01 from Exeter City (€580k): T2 England (outside our data) [TM_ALONE]
+37541456,51,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2023-08-21 from Airdrieonians (?): UNKNOWN flag id 190 not classified -> the com [TM_ALONE]
+37548599,9,0.0,senior record: NO_SENIOR (TM_ALONE)
+37549901,52,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2020-07-01 from Bournemouth Jgd (-): T2 England (outside our data) [TM_ALONE]
+37549912,52,0.0,senior record: NO_SENIOR (TM_ALONE)
+37561126,65,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2021-07-01 from Southampton Aca (-): T2 England (outside our data) [TM_ALONE]
+37564717,15,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2021-07-06 from Fleetwood U18 (?): YOUTH another club's youth / reserve / B side [TM_ALONE]
+37565677,8,0.0,senior record: NO_SENIOR (TM_ALONE)
+37573066,20,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2022-07-09 from Galway United (€100k): UNKNOWN flag id 72 not classified -> the  [TM_ALONE]
+37583510,15,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2022-03-06 from Derby U18 (€725k): YOUTH another club's youth / reserve / B side [TM_ALONE]
+37592030,65,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2022-08-17 from Tottenham Yth. (free transfer): YOUTH another club's youth / res [TM_ALONE]
+37600791,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): GK 2025-07-01 from Puskás AFC (€1.78m): UNKNOWN flag id 178 not classified -> the c [TM_ALONE]
+37602125,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2022-07-01 from Celtic Youth (€710k): YOUTH another club's youth / reserve / B s [TM_ALONE]
+37602888,1,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2022-01-04 from Linfield U18 (?): YOUTH another club's youth / reserve / B side  [TM_ALONE]
+37604648,71,0.0,senior record: NO_SENIOR (TM_ALONE)
+37610431,236,0.0,senior record: NO_SENIOR (TM_ALONE)
+37619858,52,0.0,Transfermarkt origin-club rule (as the sizing priced it): GK 2024-02-01 from Queen's Park (€350k): UNKNOWN flag id 190 not classified -> the  [TM_ALONE]
+37622823,65,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2024-08-05 from Waterford FC (€375k): UNKNOWN flag id 72 not classified -> the c [TM_ALONE]
+37623466,15,0.0,senior record: NO_SENIOR (TM_ALONE)
+37627277,236,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2023-07-01 from Seongnam FC (€640k): UNKNOWN flag id 87 not classified -> the co [TM_ALONE]
+37630500,18,0.0,senior record: NO_SENIOR (TM_ALONE)
+37643341,236,0.0,Transfermarkt origin-club rule (as the sizing priced it): GK 2024-07-01 from Blue Devils (free transfer): UNKNOWN flag id 184 not classified  [TM_ALONE]
+37649397,29,0.0,senior record: NO_SENIOR (TM_ALONE)
+37666048,18,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2023-08-21 from Newcastle U18 (€600k): YOUTH another club's youth / reserve / B  [TM_ALONE]
+37669492,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2023-08-23 from Leicester U18 (?): YOUTH another club's youth / reserve / B side [TM_ALONE]
+37675650,20,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2023-09-01 from Birmingham U21 (?): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+37675777,14,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2023-08-04 from Watford Yth. (?): YOUTH another club's youth / reserve / B side  [TM_ALONE]
+37676786,19,0.0,senior record: NO_SENIOR (TM_ALONE)
+37695666,19,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2026-02-02 from Stoke U21 (€2.30m): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+37721333,8,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2024-09-04 from Chelsea Youth (€3.20m): YOUTH another club's youth / reserve / B [TM_ALONE]
+37735423,15,0.0,senior record: NO_SENIOR (TM_ALONE)
+37782496,18,0.0,senior record: NO_SENIOR (TM_ALONE)
+900369098,78,0.5,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2020-08-07 from Club NXT (free transfer): T1 Belgium [TM_ALONE]
+900488298,6,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2020-09-21 from FC Flora (?): UNKNOWN flag id 47 not classified -> the compute's [TM_ALONE]
+900503765,19,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2019-02-07 from Reading U18 (loan transfer): YOUTH another club's youth / reserv [TM_ALONE]
+900565406,65,0.0,senior record: NO_SENIOR (TM_ALONE)
+900575219,19,0.0,senior record: NO_SENIOR (TM_ALONE)
+900591360,25,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-01-30 from Without Club (-): YOUTH free agent whose only earlier clubs are  [TM_ALONE]
+900640432,18,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-08-20 from Barça U19 (free transfer): YOUTH another club's youth / reserve  [TM_ALONE]
+900701006,1,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-07-24 from Dungannon U18 (?): YOUTH another club's youth / reserve / B side [TM_ALONE]
+900742746,15,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2021-08-16 from Northampton (?): T2 England (outside our data) [TM_ALONE]
+900745692,71,0.0,Transfermarkt origin-club rule (as the sizing priced it): YOUTH 2020-07-01 from Man City Youth (?): YOUTH another club's youth / reserve / B sid [TM_ALONE]
+900843597,19,0.0,senior record: NO_SENIOR (TM_ALONE)
+900854689,78,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2021-08-14 from Stockport (?): T2 England (outside our data) [TM_ALONE]
+900855087,52,0.0,senior record: NO_SENIOR (TM_ALONE)
+900875235,51,0.35,Transfermarkt origin-club rule (as the sizing priced it): SENIOR 2022-08-03 from Without Club (-): UNKNOWN free agent; last senior club Bohemians [TM_ALONE]

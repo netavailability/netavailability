@@ -1,0 +1,13 @@
+sm_player_id,team_id,from,to,action,reason
+539997,42,2022-01-23,2022-01-26,NOT_RETAIN,"Q2-2762cdf5e9 Leicester City 2021/22, OTHER verdict: the loan at Shrewsbury ended and the player returned to Leicester on 2022-01-27 (Shrewsbury announcement), so not at the club for the 2022-01-23 fixture (Transfermarkt says 2022-01-23)"
+539997,42,2022-01-27,2022-05-22,RETAIN,"Q2-2762cdf5e9 Leicester City 2021/22, OTHER verdict: back at Leicester from 2022-01-27 (at Leicester U23 2022-03-18) to the season's end"
+37608777,52,2023-02-17,2023-04-15,NOT_RETAIN,"Q2-29e5c99d72 AFC Bournemouth 2022/23, OTHER verdict: on loan at Poole Town from 2023-02-17/18 to at least 2023-04-15 (last appearance there); the fixtures 2023-04-16..2023-05-19 are not evidenced and stay excluded"
+37608777,52,2023-05-20,2023-05-28,RETAIN,"Q2-29e5c99d72 AFC Bournemouth 2022/23, OTHER verdict: back at AFC Bournemouth by 2023-05-20 (named that day)"
+23697427,18,2020-08-21,2021-05-23,NOT_RETAIN,"Q2-c0607a9a24 Chelsea 2020/21, OTHER verdict: on loan at Vitesse from 2020-08-21 for the whole 2020/21 season, not at Chelsea for any of the 38 fixtures"
+537117,18,2020-08-18,2021-05-23,NOT_RETAIN,"Q2-9ebc28b4aa Chelsea 2020/21, OTHER verdict: on loan at FC Lorient from 2020-08-18 for the whole 2020/21 season, not at Chelsea for any of the 38 fixtures"
+23739134,29,2022-07-08,2023-01-02,NOT_RETAIN,"Q2-36d8081bee Wolverhampton Wanderers 2022/23, OTHER verdict: on loan at Harrogate from 2022-07-08 to early January 2023, not at Wolves"
+23739134,29,2023-01-03,2023-05-28,RETAIN,"Q2-36d8081bee Wolverhampton Wanderers 2022/23, OTHER verdict: back at Wolves from 2023-01-03 to the season's end"
+TM177953,51,2014-07-01,2015-02-02,EXCLUDE,"GFM-0001 Crystal Palace 2014/15, TM verdict, partly settled: at the club is evidenced from 2015-02-03 (U21 report, 25-man list 2015-02-04); the disputed fixtures before 2015-02-03 are left out"
+14010,25,2019-07-01,2020-01-22,EXCLUDE,"GF-1081 Watford 2019/20, TM verdict, partly settled: at the club is evidenced from 2020-01-23 (BBC report, club site); the disputed fixtures before 2020-01-23 are left out"
+TM351816,19,2015-07-01,2015-10-26,EXCLUDE,"GF-0273 Arsenal 2015/16, TM verdict, partly settled: at the club is evidenced from 2015-10-27 (first-team debut, arsenal.com); the disputed fixtures before 2015-10-27 are left out"
+1012,13,2020-07-01,2021-02-04,EXCLUDE,"GF-1251 Everton 2020/21, TM verdict, partly settled: at the club is evidenced from 2021-02-05 (Premier League 25-man squad list); the disputed fixtures before 2021-02-05 are left out"
